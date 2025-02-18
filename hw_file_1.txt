@@ -1,1 +1,4965 @@
 СЌС‚Рѕ РјРѕСЏ РґРѕРјР°С€РµС‡РєР°
+    1  ls
+    2  ~
+    3  ~
+    4  cat
+    5  ls
+    6  ls - s
+    7  ls -s
+    8  whoami
+    9  pwd
+   10  pwd
+   11  cat
+   12  ls
+   13  mkdir
+   14  mkdir Bioinform2025
+   15  chmod +x Bioinformatics_2025
+   16  chmod +x Bioinform2025
+   17  mkdir Bioinform2025
+   18  chmod +x Bioinform2025
+   19  cd Bioinform2025
+   20  ls
+   21  mkdir Bioinform2025
+   22  chmod +x ~
+   23  mkdir Bioinform2025
+   24  ls ../
+   25  cd ~
+   26  mkdir test
+   27  cd teest
+   28  cd test
+   29  cd ../
+   30  mkdir Bioinform2025
+   31  cd Bioinform2025
+   32  vim test.txt
+   33  cat --help
+   34  cat test.txt
+   35  cat -n 1 test.txt
+   36  mkdir seminar_1
+   37  ls
+   38  mv test.txt seminar_1
+   39  ls
+   40  ls seminar_1
+   41  cd..
+   42  cd../
+   43  cd ../
+   44  cp seminar_1/test.txt test
+   45  cp seminar_1/test.txt ./
+   46  cd Bioinform2025
+   47  cp seminar_1/test.txt ./
+   48  ls
+   49  rm test.txt
+   50  ls
+   51  rm -r
+   52  rm -r seminar_1
+   53  ls
+   54  mkdir sem_1
+   55  ls
+   56  mkdir to_rename
+   57  ls
+   58  cp -r to_rename renamed
+   59  ls
+   60  rm -r to_rename
+   61  touch test.ry
+   62  cd ../
+   63  cd ~
+   64  python3 test.py
+   65  cd~
+   66  cd ~
+   67  mkdir -p /Bioinformatics_2025/hw/hw_1
+   68  mkdir -p Bioinformatics_2025/hw/hw_1
+   69  rm -r Bioinformatics_2025
+   70  ls
+   71  mkdir -p ~/Bioinformatics_2025/hw/hw_1/
+   72  cd ~/Bioinformatics_2025/hw/hw_1
+   73  mkdir my_hw_file.txt
+   74  vim my_hw_file.txt
+   75  cd ~/Bioinformatics_2025
+   76  cd ~
+   77  rm -r ~/Bioinformatics_2025
+   78  mkdir -p ~/Bioinformatics_2025/hw/hw_1
+   79  cd ~/Bioinformatics_2025
+   80  mkdir my_hw_file
+   81  rm my_hw_file
+   82  rmdir my_hw_file
+   83  echo "СЌС‚Рѕ РјРѕСЏ РґРѕРјР°С€РµС‡РєР°" > my_hw_file.txt
+   84  cat  my_hw_file.txt
+   85  ls
+   86  mv my_hw_file.txt hw_file_1.txt
+   87  ls
+   88  mkdir -p ~/homework
+   89  cp hw_file_1.txt ~/homework/
+   90  rm В›~/homework/hw_file_1.txt
+   91  rm ~/homework/hw_file_1.txt
+   92  ls
+   93  mkdir -p ~/homework
+   94  ls
+   95  cd~
+   96  cd ~
+   97  ls
+   98  cd homework
+   99  ls
+  100  cp hw_file_1.txt ~/homework/
+  101  cd Bioinformatics_2025
+  102  cd ~
+  103  Bioinformatics_2025
+  104  cd Bioinformatics_2025
+  105  cp hw_file_1.txt ~/homework/
+  106  ls
+  107  ls homework
+  108  cd ~
+  109  ls homework
+  110  rm ~/homework/hw_file_1.txt
+  111  ls homework
+  112  tree ~ >> hw_file_1.txt
+  113  tree <homework>
+  114  tree homework
+  115  tree ~ >> homework
+  116  tree ~ >> hw_file_1.txt
+  117  choco install tree
+  118  Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.SecurityProtocolType]::Tls12; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
+  119  winget install GnuWin32.Tree
+  120  snap install tree
+  121  sudo snap install tree
+  122  sudo apt-get install tree
+  123  whereis sudo
+  124  sudo su
+  125  sudo su -
+  126  sudo su -
+  127  sudo apt-get install tree
+  128  choko install tree
+  129  choco install tree
+  130  choco install tree
+  131  cd ~
+  132  choco itstall tree
+  133  choco install tree
+  134  cd ~
+  135  ls
+  136  choco install tree
+  137  tree --version
+  138  mkdir -p ~/Bioinformatics_2025/hw/hw_1/~
+  139  ls
+  140  cd ~
+  141  ls
+  142  cd ~/Bioinformatics_2025/hw/hw_1
+  143  cd ~/Bioinformatics_2025/hw/hw_1/
+  144  mkdir my_hw_file.txt
+  145  echo "СЏ С…РѕС‡Сѓ РєСѓС€Р°С‚СЊ" > my_hw_file.txt
+  146  РґС‹ -Рґ
+  147  ls-l
+  148  ls -l
+  149  rm -r my_hw_file.txt
+  150  touch my_hw_file.txt
+  151  echo "СЏ С…РѕС‡Сѓ РєСѓС€Р°С‚СЊ" > my_hw_file.txt
+  152  mv my_hw_file.txt hw_file_1.txt
+  153  mkdir -p ~/homework
+  154  cp hw_file_1.txt ~/homework/
+  155  rm ~/homework/hw_file_1.txt
+  156  tree ~ >> ~/Bioinformatics_2025/hw/hw_1/hw_file_1.txt
+  157  tree ~ >> ~/Bioinformatics_2025/hw/hw_1/hw_file_1.txt
+  158  ls
+  159  cd ~
+  160  mkdir -p ~/Bioinformatics_2025/hw/hw_1/~
+  161  ls
+  162  ls Bioinformatics_2025
+  163  [200~rm -rf ~/Bioinformatics_2025
+  164  rm -rf ~/Bioinformatics_2025
+  165  ls
+  166  rm hw_file_1.txt
+  167  cd ~
+  168  ls
+  169  mkdir -p ~/Bioinformatics_2025/hw/hw_1/
+  170  cd ~/Bioinformatics_2025/hw/hw_1/
+  171  touch my_hw_file.txt
+  172  cat > my_hw_file.txt
+  173  РґС‹
+  174  ls
+  175  ls my_hw_file.txt
+  176  cat my_hw_file.txt
+  177  mv my_hw_file.txt hw_file_1.txt
+  178  ls
+  179  mkdir -p ~/homework/
+  180  cp hw_file_1.txt ~/homework/
+  181  cd~
+  182  cd ~
+  183  ls
+  184  ls homework
+  185  cat hw_file_1.txt
+  186  cat homework/hw_file_1.txt
+  187  rm ~/homework/hw_file_1.txt
+  188  tree ~ >> hw_file_1.txt
+  189  cat hw_file_1.txt
+  190  history >> hw_file_1.txt~
+  191  [200~
+  192  git clone https://github.com/mmokhinaa/homeworkbioinf.git
+  193  cd homeworkbioinf
+  194  cp ~/Bioinformatics_2025/hw/hw_1/hw_file_1.txt
+  195  cp ~/Bioinformatics_2025/hw/hw_1/hw_file_1.txt .
+  196  git add hw_file_1.txt
+  197  git commit -m "Added homework file"
+  198  git push origin main
+  199  tree ~ >> hw_file_1.txt~
+  200  history >> hw_file_1.txt
+C:/Users/Marusya
+|-- 3D Objects
+|   `-- desktop.ini
+|-- AppData
+|   |-- Local
+|   |   |-- Adobe
+|   |   |   |-- Acrobat
+|   |   |   `-- Color
+|   |   |-- Application Data
+|   |   |   |-- Adobe
+|   |   |   |-- Application Data
+|   |   |   |-- Bitvise
+|   |   |   |-- Comms
+|   |   |   |-- ConnectedDevicesPlatform
+|   |   |   |-- CrashDumps
+|   |   |   |-- D3DSCache
+|   |   |   |-- Diagnostics
+|   |   |   |-- Discord
+|   |   |   |-- ElevatedDiagnostics
+|   |   |   |-- FastStone
+|   |   |   |-- GitHubDesktop
+|   |   |   |-- Google
+|   |   |   |-- History
+|   |   |   |-- IconCache.db
+|   |   |   |-- MSfree Inc
+|   |   |   |-- Microsoft
+|   |   |   |-- Microsoft Help
+|   |   |   |-- Muse Hub
+|   |   |   |-- MuseSampler
+|   |   |   |-- NBClipboard
+|   |   |   |-- Nahimic
+|   |   |   |-- NhNotifSys
+|   |   |   |-- Packages
+|   |   |   |-- PeerDistRepub
+|   |   |   |-- PlaceholderTileLogoFolder
+|   |   |   |-- Programs
+|   |   |   |-- Publishers
+|   |   |   |-- Sentry
+|   |   |   |-- SquirrelTemp
+|   |   |   |-- StartIsBack
+|   |   |   |-- Temp
+|   |   |   |-- Temporary Internet Files
+|   |   |   |-- VirtualStore
+|   |   |   |-- Zoom
+|   |   |   |-- audacity
+|   |   |   |-- outline-client-updater
+|   |   |   |-- speech
+|   |   |   `-- yandexmusic-updater
+|   |   |-- Bitvise
+|   |   |   `-- Updates
+|   |   |-- Comms
+|   |   |   |-- Unistore
+|   |   |   `-- UnistoreDB
+|   |   |-- ConnectedDevicesPlatform
+|   |   |   |-- CDPGlobalSettings.cdp
+|   |   |   |-- Connected Devices Platform certificates.sst
+|   |   |   |-- L.Marusya
+|   |   |   |-- L.Marusya.cdp
+|   |   |   `-- L.Marusya.cdpresource
+|   |   |-- CrashDumps
+|   |   |   |-- Unlimited VPN Proxy - Planet VPN Installer.exe.11988.dmp
+|   |   |   |-- VanyaVPN.exe.1208.dmp
+|   |   |   |-- VanyaVPN.exe.15704.dmp
+|   |   |   |-- VanyaVPN.exe.1636.dmp
+|   |   |   |-- VanyaVPN.exe.1876.dmp
+|   |   |   |-- VanyaVPN.exe.2724.dmp
+|   |   |   |-- VanyaVPN.exe.3820.dmp
+|   |   |   |-- VanyaVPN.exe.4344.dmp
+|   |   |   |-- VanyaVPN.exe.9960.dmp
+|   |   |   `-- VanyaVPN.exe.9964.dmp
+|   |   |-- D3DSCache
+|   |   |   |-- 2938879384208e47
+|   |   |   |-- 2c2d6b8adf58e8db
+|   |   |   |-- 2f2b768135687cb8
+|   |   |   |-- 34e2585c5c1e6957
+|   |   |   |-- 44cb2b83af58761
+|   |   |   |-- 4c2ab23a58da3748
+|   |   |   |-- 4d3e565ff4e7221a
+|   |   |   |-- 67f0fbba5ee8065b
+|   |   |   |-- 778304e98e7c76f3
+|   |   |   |-- 79488f6db1539bc7
+|   |   |   |-- 8d679f48c2e0a7b2
+|   |   |   |-- 95ac3fd4d295f14d
+|   |   |   |-- 9b61e292144574c
+|   |   |   |-- a73b75d6d320095d
+|   |   |   |-- aab3c3e1c00c44d
+|   |   |   |-- ab326b5a64fa2db7
+|   |   |   |-- ab818f96a53f7d14
+|   |   |   |-- bf5365afdeda0910
+|   |   |   |-- c32ce2859c8fdaf9
+|   |   |   |-- c9615d1bc17be533
+|   |   |   |-- cb00da9ba77862e
+|   |   |   |-- e8010882af4f153f
+|   |   |   |-- e885543310c8ef56
+|   |   |   |-- e922486ffb18056f
+|   |   |   |-- e9cd951dd8114293
+|   |   |   |-- ecbf0d5a3a180bb
+|   |   |   `-- f4d41c5d09ae781
+|   |   |-- Diagnostics
+|   |   |   `-- 460911090
+|   |   |-- Discord
+|   |   |   |-- Discord_updater_rCURRENT.log
+|   |   |   |-- SquirrelSetup.log
+|   |   |   |-- Update.exe
+|   |   |   |-- app-1.0.9157
+|   |   |   |-- app.ico
+|   |   |   |-- installer.db
+|   |   |   `-- packages
+|   |   |-- ElevatedDiagnostics
+|   |   |   |-- 2550435360
+|   |   |   |-- 3193891667
+|   |   |   `-- 3493975886
+|   |   |-- FastStone
+|   |   |   `-- FSIV
+|   |   |-- GitHubDesktop
+|   |   |   |-- GitHubDesktop.exe
+|   |   |   |-- Squirrel-CheckForUpdate.log
+|   |   |   |-- Squirrel-Shortcut.log
+|   |   |   |-- Update.exe
+|   |   |   |-- app-3.4.6
+|   |   |   |-- app.ico
+|   |   |   |-- bin
+|   |   |   `-- packages
+|   |   |-- Google
+|   |   |   `-- Chrome
+|   |   |-- History
+|   |   |   |-- History.IE5
+|   |   |   |-- Low
+|   |   |   `-- desktop.ini
+|   |   |-- IconCache.db
+|   |   |-- MSfree Inc
+|   |   |   `-- kmsauto.ini
+|   |   |-- Microsoft
+|   |   |   |-- Credentials
+|   |   |   |-- EDP
+|   |   |   |-- Edge
+|   |   |   |-- Event Viewer
+|   |   |   |-- Feeds
+|   |   |   |-- Feeds Cache
+|   |   |   |-- FontCache
+|   |   |   |-- GameDVR
+|   |   |   |-- InputPersonalization
+|   |   |   |-- Internet Explorer
+|   |   |   |-- Media Player
+|   |   |   |-- NetTraces
+|   |   |   |-- Office
+|   |   |   |-- PenWorkspace
+|   |   |   |-- PlayReady
+|   |   |   |-- TokenBroker
+|   |   |   |-- Vault
+|   |   |   |-- Windows
+|   |   |   |-- Windows Media
+|   |   |   |-- Windows Sidebar
+|   |   |   |-- WindowsApps
+|   |   |   |-- fluency
+|   |   |   `-- input
+|   |   |-- Microsoft Help
+|   |   |-- Muse Hub
+|   |   |   |-- lib
+|   |   |   `-- settings.json
+|   |   |-- MuseSampler
+|   |   |-- NBClipboard
+|   |   |   |-- Clipboard
+|   |   |   `-- NaturalBase
+|   |   |-- Nahimic
+|   |   |   `-- ns-sentry-db
+|   |   |-- NhNotifSys
+|   |   |   `-- nahimic
+|   |   |-- Packages
+|   |   |   |-- 1527c705-839a-4832-9118-54d4Bd6a0c89_cw5n1h2txyewy
+|   |   |   |-- 5319275A.WhatsAppDesktop_cv1g1gvanyjgm
+|   |   |   |-- A-Volute.Nahimic_w2gh52qy24etm
+|   |   |   |-- ActiveSync
+|   |   |   |-- AppUp.IntelGraphicsExperience_8j3eq9eme6ctt
+|   |   |   |-- E2A4F912-2574-4A75-9BB0-0D023378592B_cw5n1h2txyewy
+|   |   |   |-- F46D4000-FD22-4DB4-AC8E-4E1DDDE828FE_cw5n1h2txyewy
+|   |   |   |-- FreeVPNPlanet.PlanetVPN_b2qrq2z57ppd2
+|   |   |   |-- Microsoft.AAD.BrokerPlugin_cw5n1h2txyewy
+|   |   |   |-- Microsoft.AccountsControl_cw5n1h2txyewy
+|   |   |   |-- Microsoft.AsyncTextService_8wekyb3d8bbwe
+|   |   |   |-- Microsoft.BioEnrollment_cw5n1h2txyewy
+|   |   |   |-- Microsoft.CredDialogHost_cw5n1h2txyewy
+|   |   |   |-- Microsoft.ECApp_8wekyb3d8bbwe
+|   |   |   |-- Microsoft.LanguageExperiencePackru-RU_8wekyb3d8bbwe
+|   |   |   |-- Microsoft.LockApp_cw5n1h2txyewy
+|   |   |   |-- Microsoft.MicrosoftEdge.Stable_8wekyb3d8bbwe
+|   |   |   |-- Microsoft.MicrosoftEdgeDevToolsClient_8wekyb3d8bbwe
+|   |   |   |-- Microsoft.NET.Native.Framework.2.2_8wekyb3d8bbwe
+|   |   |   |-- Microsoft.NET.Native.Runtime.2.2_8wekyb3d8bbwe
+|   |   |   |-- Microsoft.UI.Xaml.2.8_8wekyb3d8bbwe
+|   |   |   |-- Microsoft.VCLibs.140.00.UWPDesktop_8wekyb3d8bbwe
+|   |   |   |-- Microsoft.VCLibs.140.00_8wekyb3d8bbwe
+|   |   |   |-- Microsoft.Win32WebViewHost_cw5n1h2txyewy
+|   |   |   |-- Microsoft.Windows.Apprep.ChxApp_cw5n1h2txyewy
+|   |   |   |-- Microsoft.Windows.AssignedAccessLockApp_cw5n1h2txyewy
+|   |   |   |-- Microsoft.Windows.CallingShellApp_cw5n1h2txyewy
+|   |   |   |-- Microsoft.Windows.CapturePicker_cw5n1h2txyewy
+|   |   |   |-- Microsoft.Windows.CloudExperienceHost_cw5n1h2txyewy
+|   |   |   |-- Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy
+|   |   |   |-- Microsoft.Windows.NarratorQuickStart_8wekyb3d8bbwe
+|   |   |   |-- Microsoft.Windows.OOBENetworkCaptivePortal_cw5n1h2txyewy
+|   |   |   |-- Microsoft.Windows.OOBENetworkConnectionFlow_cw5n1h2txyewy
+|   |   |   |-- Microsoft.Windows.ParentalControls_cw5n1h2txyewy
+|   |   |   |-- Microsoft.Windows.PeopleExperienceHost_cw5n1h2txyewy
+|   |   |   |-- Microsoft.Windows.PinningConfirmationDialog_cw5n1h2txyewy
+|   |   |   |-- Microsoft.Windows.Search_cw5n1h2txyewy
+|   |   |   |-- Microsoft.Windows.SecHealthUI_cw5n1h2txyewy
+|   |   |   |-- Microsoft.Windows.ShellExperienceHost_cw5n1h2txyewy
+|   |   |   |-- Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy
+|   |   |   |-- Microsoft.Windows.XGpuEjectDialog_cw5n1h2txyewy
+|   |   |   |-- Microsoft.XboxGameCallableUI_cw5n1h2txyewy
+|   |   |   |-- MicrosoftWindows.Client.CBS_cw5n1h2txyewy
+|   |   |   |-- MicrosoftWindows.UndockedDevKit_cw5n1h2txyewy
+|   |   |   |-- Muse.MuseHub_rb9pth70m6nz6
+|   |   |   |-- NcsiUwpApp_8wekyb3d8bbwe
+|   |   |   |-- RealtekSemiconductorCorp.RealtekAudioControl_dt26b99r8h8gj
+|   |   |   |-- Windows.CBSPreview_cw5n1h2txyewy
+|   |   |   |-- Windows.PrintDialog_cw5n1h2txyewy
+|   |   |   |-- c5e2524a-ea46-4f67-841f-6a9465d9d515_cw5n1h2txyewy
+|   |   |   |-- cr.sb.cdm3e4d1a088c1f6d498c84f3c86de73ce49f82a104
+|   |   |   |-- cr.sb.odm3E4D1A088C1F6D498C84F3C86DE73CE49F82A104
+|   |   |   |-- cr.sb.prnc3E4D1A088C1F6D498C84F3C86DE73CE49F82A104
+|   |   |   |-- oice_16_974fa576_32c1d314_110e
+|   |   |   |-- oice_16_974fa576_32c1d314_164d
+|   |   |   |-- oice_16_974fa576_32c1d314_2359
+|   |   |   |-- oice_16_974fa576_32c1d314_2b01
+|   |   |   |-- oice_16_974fa576_32c1d314_3361
+|   |   |   |-- oice_16_974fa576_32c1d314_33da
+|   |   |   |-- oice_16_974fa576_32c1d314_3cd2
+|   |   |   |-- oice_16_974fa576_32c1d314_c6c
+|   |   |   |-- oice_16_974fa576_32c1d314_e58
+|   |   |   |-- windows.immersivecontrolpanel_cw5n1h2txyewy
+|   |   |   `-- windows_ie_ac_001
+|   |   |-- PeerDistRepub
+|   |   |-- PlaceholderTileLogoFolder
+|   |   |   |-- 9NKSQGP7F2NH
+|   |   |   |-- 9NMJCX77QKPX
+|   |   |   `-- 9P15S8PWMQ8C
+|   |   |-- Programs
+|   |   |   |-- AntConc
+|   |   |   |-- Common
+|   |   |   |-- Microsoft VS Code
+|   |   |   |-- YandexMusic
+|   |   |   `-- transmission
+|   |   |-- Publishers
+|   |   |   |-- 8j3eq9eme6ctt
+|   |   |   `-- w2gh52qy24etm
+|   |   |-- Sentry
+|   |   |   |-- 2B7CEFF199A42C2522D59B6747E8BA8F95C961F7
+|   |   |   `-- 667AC2C4123DD49219A6E4E9814C8BA983854980
+|   |   |-- SquirrelTemp
+|   |   |   |-- Squirrel-Install.log
+|   |   |   `-- SquirrelSetup.log
+|   |   |-- StartIsBack
+|   |   |   `-- Cache
+|   |   |-- Temp
+|   |   |   |-- 0db51a3c-b237-4a8d-9396-95b348ddff1f.tmp
+|   |   |   |-- 11de67bad52a6224b77edb8ed1a989bb
+|   |   |   |-- 14EDAB1C-5B7049EC-1879B3E1-5AB41D10
+|   |   |   |-- 29D6E7B6-20B9728E-2C17FF2E-2733F572
+|   |   |   |-- 2A7AE960-4110987C-39843166-235F3A10
+|   |   |   |-- 2e8d214b-92c4-4bba-aa1f-c37538fbd75d.tmp
+|   |   |   |-- 48E8C559-3B79E646-219B583F-17EA9D32
+|   |   |   |-- 5d845c00-e091-443b-8c9f-4cc7d5d64619.tmp
+|   |   |   |-- 621470e3-6877-429a-a24d-ea9f1ff23b72.tmp
+|   |   |   |-- 784507fe-2522-4a1c-8f1c-5242f0d7084c.tmp
+|   |   |   |-- A26CE116-10E520B6-F9A14D74-6ED961A8
+|   |   |   |-- ActivityVisualCache
+|   |   |   |-- AdobeARM.log
+|   |   |   |-- Diagnostics
+|   |   |   |-- Low
+|   |   |   |-- PPT11.0
+|   |   |   |-- PotUpdate
+|   |   |   |-- Setup Log 2025-02-06 #001.txt
+|   |   |   |-- Setup Log 2025-02-13 #001.txt
+|   |   |   |-- TCD2498.tmp
+|   |   |   |-- TCD2499.tmp
+|   |   |   |-- TCD2585.tmp
+|   |   |   |-- TCD25B6.tmp
+|   |   |   |-- TCD26B2.tmp
+|   |   |   |-- TCD26E3.tmp
+|   |   |   |-- TCD280E.tmp
+|   |   |   |-- TCD287D.tmp
+|   |   |   |-- TCD2AA2.tmp
+|   |   |   |-- TCD2AA3.tmp
+|   |   |   |-- TCD2AC3.tmp
+|   |   |   |-- TCD2BBF.tmp
+|   |   |   |-- TCD2C8C.tmp
+|   |   |   |-- TCD2CD7.tmp
+|   |   |   |-- TCD2CF9.tmp
+|   |   |   |-- TCD2D3A.tmp
+|   |   |   |-- TCD2D78.tmp
+|   |   |   |-- TCD31B1.tmp
+|   |   |   |-- TCD3211.tmp
+|   |   |   |-- TCD32CE.tmp
+|   |   |   |-- TCD3317.tmp
+|   |   |   |-- TCD3490.tmp
+|   |   |   |-- TCD3560.tmp
+|   |   |   |-- TCD356D.tmp
+|   |   |   |-- TCD3688.tmp
+|   |   |   |-- TCD37E2.tmp
+|   |   |   |-- TCD3861.tmp
+|   |   |   |-- TCD38EF.tmp
+|   |   |   |-- TCD3A93.tmp
+|   |   |   |-- TCD3B40.tmp
+|   |   |   |-- TCD3BEF.tmp
+|   |   |   |-- TCD3DCE.tmp
+|   |   |   |-- TCD3EEA.tmp
+|   |   |   |-- TCD3EEB.tmp
+|   |   |   |-- TCD3F3C.tmp
+|   |   |   |-- TCD3F4D.tmp
+|   |   |   |-- TCD3F5F.tmp
+|   |   |   |-- TCD3F90.tmp
+|   |   |   |-- TCD3FD0.tmp
+|   |   |   |-- TCD3FF2.tmp
+|   |   |   |-- TCD4003.tmp
+|   |   |   |-- TCD4015.tmp
+|   |   |   |-- TCD41AD.tmp
+|   |   |   |-- TCD41D1.tmp
+|   |   |   |-- TCD41E4.tmp
+|   |   |   |-- TCD41E5.tmp
+|   |   |   |-- TCD41E6.tmp
+|   |   |   |-- TCD41E7.tmp
+|   |   |   |-- TCD41E8.tmp
+|   |   |   |-- TCD4279.tmp
+|   |   |   |-- TCD4336.tmp
+|   |   |   |-- TCD43B5.tmp
+|   |   |   |-- TCD43E6.tmp
+|   |   |   |-- TCD4494.tmp
+|   |   |   |-- TCD46CC.tmp
+|   |   |   |-- TCD4938.tmp
+|   |   |   |-- TCD493A.tmp
+|   |   |   |-- TCD493C.tmp
+|   |   |   |-- TCD493D.tmp
+|   |   |   |-- TCD494E.tmp
+|   |   |   |-- TCD494F.tmp
+|   |   |   |-- TCD4950.tmp
+|   |   |   |-- TCD4962.tmp
+|   |   |   |-- TCD4974.tmp
+|   |   |   |-- TCD4985.tmp
+|   |   |   |-- TCD4997.tmp
+|   |   |   |-- TCD49A9.tmp
+|   |   |   |-- TCD49BA.tmp
+|   |   |   |-- TCD49CC.tmp
+|   |   |   |-- TCD49DD.tmp
+|   |   |   |-- TCD49DF.tmp
+|   |   |   |-- TCD4A3F.tmp
+|   |   |   |-- TCD4A70.tmp
+|   |   |   |-- TCD4C37.tmp
+|   |   |   |-- TCD4EF8.tmp
+|   |   |   |-- TCD5221.tmp
+|   |   |   |-- TCD5222.tmp
+|   |   |   |-- TCD5223.tmp
+|   |   |   |-- TCD5224.tmp
+|   |   |   |-- TCD5225.tmp
+|   |   |   |-- TCD5286.tmp
+|   |   |   |-- TCD5297.tmp
+|   |   |   |-- TCD52B8.tmp
+|   |   |   |-- TCD5E48.tmp
+|   |   |   |-- TCD600F.tmp
+|   |   |   |-- TCD897A.tmp
+|   |   |   |-- TCD897B.tmp
+|   |   |   |-- TCD897C.tmp
+|   |   |   |-- TCD897D.tmp
+|   |   |   |-- TCD897E.tmp
+|   |   |   |-- TCD8980.tmp
+|   |   |   |-- TCD8982.tmp
+|   |   |   |-- TCD8983.tmp
+|   |   |   |-- TCD8995.tmp
+|   |   |   |-- TCD8997.tmp
+|   |   |   |-- TCD8998.tmp
+|   |   |   |-- TCD8999.tmp
+|   |   |   |-- TCD89AC.tmp
+|   |   |   |-- TCD89AD.tmp
+|   |   |   |-- TCD89BE.tmp
+|   |   |   |-- TCD89D0.tmp
+|   |   |   |-- TCD89F2.tmp
+|   |   |   |-- TCD8A03.tmp
+|   |   |   |-- TCD8A05.tmp
+|   |   |   |-- TCD8B30.tmp
+|   |   |   |-- TCDB365.tmp
+|   |   |   |-- TCDB366.tmp
+|   |   |   |-- TCDB367.tmp
+|   |   |   |-- TCDB368.tmp
+|   |   |   |-- TCDB369.tmp
+|   |   |   |-- TCDB37A.tmp
+|   |   |   |-- TCDB37B.tmp
+|   |   |   |-- TCDB3CB.tmp
+|   |   |   |-- TCDBC3E.tmp
+|   |   |   |-- TCDBC3F.tmp
+|   |   |   |-- TCDBC51.tmp
+|   |   |   |-- TCDBC72.tmp
+|   |   |   |-- TCDBC85.tmp
+|   |   |   |-- TCDBC95.tmp
+|   |   |   |-- TCDBD72.tmp
+|   |   |   |-- TCDBE5F.tmp
+|   |   |   |-- TCDCB5D.tmp
+|   |   |   |-- TCDCB5E.tmp
+|   |   |   |-- TCDCBFC.tmp
+|   |   |   |-- TCDCC5D.tmp
+|   |   |   |-- TCDCC5E.tmp
+|   |   |   |-- TCDCCF1.tmp
+|   |   |   |-- TCDCCF2.tmp
+|   |   |   |-- TCDCCF3.tmp
+|   |   |   |-- TCDCCF4.tmp
+|   |   |   |-- TCDCCF5.tmp
+|   |   |   |-- TCDCD45.tmp
+|   |   |   |-- TCDCD57.tmp
+|   |   |   |-- TCDCD58.tmp
+|   |   |   |-- TCDCDAA.tmp
+|   |   |   |-- TCDCDAB.tmp
+|   |   |   |-- TCDCDBC.tmp
+|   |   |   |-- TCDCE11.tmp
+|   |   |   |-- TCDCE12.tmp
+|   |   |   |-- TCDCE13.tmp
+|   |   |   |-- TCDCE1C.tmp
+|   |   |   |-- TCDCE34.tmp
+|   |   |   |-- TCDCE56.tmp
+|   |   |   |-- TCDCE57.tmp
+|   |   |   |-- TCDCEC7.tmp
+|   |   |   |-- TCDCF56.tmp
+|   |   |   |-- TCDCF84.tmp
+|   |   |   |-- TCDCFB6.tmp
+|   |   |   |-- TCDD016.tmp
+|   |   |   |-- TCDD14F.tmp
+|   |   |   |-- TCDD150.tmp
+|   |   |   |-- TCDD164.tmp
+|   |   |   |-- TCDD165.tmp
+|   |   |   |-- TCDD166.tmp
+|   |   |   |-- TCDD169.tmp
+|   |   |   |-- TCDD16C.tmp
+|   |   |   |-- TCDD16E.tmp
+|   |   |   |-- TCDD17E.tmp
+|   |   |   |-- TCDD17F.tmp
+|   |   |   |-- TCDD180.tmp
+|   |   |   |-- TCDD182.tmp
+|   |   |   |-- TCDD184.tmp
+|   |   |   |-- TCDD195.tmp
+|   |   |   |-- TCDD19A.tmp
+|   |   |   |-- TCDD19B.tmp
+|   |   |   |-- TCDD19C.tmp
+|   |   |   |-- TCDD19D.tmp
+|   |   |   |-- TCDD1BE.tmp
+|   |   |   |-- TCDD2CA.tmp
+|   |   |   |-- TCDD770.tmp
+|   |   |   |-- TCDD771.tmp
+|   |   |   |-- TCDD772.tmp
+|   |   |   |-- TCDD773.tmp
+|   |   |   |-- TCDD774.tmp
+|   |   |   |-- TCDD785.tmp
+|   |   |   |-- TCDD7E4.tmp
+|   |   |   |-- TCDD873.tmp
+|   |   |   |-- TCDE55D.tmp
+|   |   |   |-- TCDE55E.tmp
+|   |   |   |-- TCDE58F.tmp
+|   |   |   |-- TCDE5DF.tmp
+|   |   |   |-- TCDE600.tmp
+|   |   |   |-- TCDE660.tmp
+|   |   |   |-- TCDE682.tmp
+|   |   |   |-- TCDE683.tmp
+|   |   |   |-- TCDE6B4.tmp
+|   |   |   |-- TCDE752.tmp
+|   |   |   |-- TCDE798.tmp
+|   |   |   |-- TCDE7F1.tmp
+|   |   |   |-- TCDE7F7.tmp
+|   |   |   |-- TCDE838.tmp
+|   |   |   |-- TCDE860.tmp
+|   |   |   |-- TCDE88A.tmp
+|   |   |   |-- TCDE88B.tmp
+|   |   |   |-- TCDE89C.tmp
+|   |   |   |-- TCDE8B0.tmp
+|   |   |   |-- TCDE907.tmp
+|   |   |   |-- TCDE908.tmp
+|   |   |   |-- TCDE91C.tmp
+|   |   |   |-- TCDE91D.tmp
+|   |   |   |-- TCDE91E.tmp
+|   |   |   |-- TCDE94F.tmp
+|   |   |   |-- TCDE961.tmp
+|   |   |   |-- TCDE969.tmp
+|   |   |   |-- TCDE96E.tmp
+|   |   |   |-- TCDE991.tmp
+|   |   |   |-- TCDE9D2.tmp
+|   |   |   |-- TCDEA23.tmp
+|   |   |   |-- TCDEA43.tmp
+|   |   |   |-- TCDEA4A.tmp
+|   |   |   |-- TCDEA58.tmp
+|   |   |   |-- TCDEA59.tmp
+|   |   |   |-- TCDEA5A.tmp
+|   |   |   |-- TCDEA5B.tmp
+|   |   |   |-- TCDEA6C.tmp
+|   |   |   |-- TCDEA9C.tmp
+|   |   |   |-- TCDEACA.tmp
+|   |   |   |-- TCDEAEC.tmp
+|   |   |   |-- TCDEB6E.tmp
+|   |   |   |-- TCDEBF8.tmp
+|   |   |   |-- TCDEBF9.tmp
+|   |   |   |-- TCDEC03.tmp
+|   |   |   |-- TCDEC13.tmp
+|   |   |   |-- TCDEC27.tmp
+|   |   |   |-- TCDEC29.tmp
+|   |   |   |-- TCDEC39.tmp
+|   |   |   |-- TCDEC3A.tmp
+|   |   |   |-- TCDEC3C.tmp
+|   |   |   |-- TCDEC4E.tmp
+|   |   |   |-- TCDEC61.tmp
+|   |   |   |-- TCDEC62.tmp
+|   |   |   |-- TCDEC83.tmp
+|   |   |   |-- TCDECB4.tmp
+|   |   |   |-- TCDECC1.tmp
+|   |   |   |-- TCDECD5.tmp
+|   |   |   |-- TCDED16.tmp
+|   |   |   |-- TCDEDB4.tmp
+|   |   |   |-- TCDEE04.tmp
+|   |   |   |-- TCDEE06.tmp
+|   |   |   |-- TCDEE27.tmp
+|   |   |   |-- TCDEE68.tmp
+|   |   |   |-- TCDF0BB.tmp
+|   |   |   |-- TCDF7CA.tmp
+|   |   |   |-- TCDF7CB.tmp
+|   |   |   |-- TCDF7FC.tmp
+|   |   |   |-- TCDF88B.tmp
+|   |   |   |-- TCDF8AC.tmp
+|   |   |   |-- TCDF92B.tmp
+|   |   |   |-- TCDF9AA.tmp
+|   |   |   |-- TCDF9FA.tmp
+|   |   |   |-- TCDFA89.tmp
+|   |   |   |-- TCDFA8B.tmp
+|   |   |   |-- TCDFA9C.tmp
+|   |   |   |-- TCDFA9E.tmp
+|   |   |   |-- TCDFACF.tmp
+|   |   |   |-- TCDFAE1.tmp
+|   |   |   |-- TCDFB02.tmp
+|   |   |   |-- TCDFB72.tmp
+|   |   |   |-- TCDFB94.tmp
+|   |   |   |-- TCDFB95.tmp
+|   |   |   |-- TCDFDBA.tmp
+|   |   |   |-- VBE
+|   |   |   |-- a81b6183-6f23-4317-9184-a9b5eb7273c0.tmp
+|   |   |   |-- acrord32_sbx
+|   |   |   |-- battery-report.xml
+|   |   |   |-- bd410373-5db2-4be2-b5a9-8c1a3861433a.tmp
+|   |   |   |-- chocolatey
+|   |   |   |-- chrome_BITS_3536_1057211924
+|   |   |   |-- chrome_BITS_3536_1691726613
+|   |   |   |-- chrome_BITS_3536_321720481
+|   |   |   |-- chrome_BITS_3536_331704793
+|   |   |   |-- chrome_BITS_3536_403904183
+|   |   |   |-- chrome_BITS_3536_416345208
+|   |   |   |-- chrome_BITS_3536_446124358
+|   |   |   |-- chrome_BITS_3536_490403389
+|   |   |   |-- chrome_BITS_3536_546500828
+|   |   |   |-- chrome_BITS_3536_798511780
+|   |   |   |-- chrome_BITS_3536_942194103
+|   |   |   |-- chrome_BITS_5816_1189557346
+|   |   |   |-- chrome_BITS_5816_1373955235
+|   |   |   |-- chrome_url_fetcher_2112_145627601
+|   |   |   |-- de7eea52-1fd8-4048-8727-b400e3dd3b1b.tmp
+|   |   |   |-- e95a5b55-eb3b-4cc7-81c9-167d61afd5d0.tmp
+|   |   |   |-- edge_BITS_19832_1049458583
+|   |   |   |-- edge_BITS_19832_1561385933
+|   |   |   |-- edge_BITS_19832_1799186060
+|   |   |   |-- edge_BITS_19832_2114485821
+|   |   |   |-- edge_BITS_19832_317885892
+|   |   |   |-- edge_BITS_19832_5352914
+|   |   |   |-- msdt
+|   |   |   |-- msdtadmin
+|   |   |   |-- msohtmlclip
+|   |   |   |-- msohtmlclip1
+|   |   |   |-- netadapters.txt
+|   |   |   |-- nsb597C.tmp
+|   |   |   |-- nsg74C9.tmp
+|   |   |   |-- nsjAD5E.tmp
+|   |   |   |-- nso48B5.tmp
+|   |   |   |-- nsqDC3F.tmp
+|   |   |   |-- pyright-9116-bI4D3a11ssjO
+|   |   |   |-- python-languageserver-cancellation
+|   |   |   |-- system-commandline-sentinel-files
+|   |   |   |-- vscode-inno-updater-1738860878.log
+|   |   |   |-- vscode-inno-updater-1739437044.log
+|   |   |   |-- vscode-stable-user-x64
+|   |   |   |-- {054AE0D8-6D21-4B2E-9E0F-9B3D65638121} - OProcSessId.dat
+|   |   |   |-- {0A612568-7934-4503-9F11-D0793CD580DE}
+|   |   |   |-- {0FC1D3E5-8EAF-41FD-8F6F-FBE0C2FC166C} - OProcSessId.dat
+|   |   |   |-- {17C82FAD-A1BB-43B1-994D-1B7947BBFA5C} - OProcSessId.dat
+|   |   |   |-- {22650122-2816-4018-A5A9-246ACCF3329A} - OProcSessId.dat
+|   |   |   |-- {2678A461-642A-4012-BE5D-9CB0E47FDC8D}
+|   |   |   |-- {67BAF41D-13A5-4C75-9463-810200ACA2EA}
+|   |   |   |-- {7B07F3B1-EB15-472E-AD36-A33EDF77D64A}
+|   |   |   |-- {84BBD97A-E8A5-41A2-9928-8AED2A2F570B} - OProcSessId.dat
+|   |   |   |-- {8C0A52CB-A8AE-4769-8E49-1EEFE03FDDF8} - OProcSessId.dat
+|   |   |   |-- {AF1ABB8C-C533-472F-9B94-800E743CB087}
+|   |   |   |-- {CE6E5578-A554-4F67-93DC-81F13F7EC892} - OProcSessId.dat
+|   |   |   `-- {D8AC911B-83D6-45FA-8117-93B8A2EA275E} - OProcSessId.dat
+|   |   |-- Temporary Internet Files
+|   |   |   |-- Content.IE5
+|   |   |   |-- Content.MSO
+|   |   |   |-- Content.Word
+|   |   |   |-- IE
+|   |   |   |-- Low
+|   |   |   `-- Virtualized
+|   |   |-- VirtualStore
+|   |   |   `-- ProgramData
+|   |   |-- Zoom
+|   |   |   |-- data
+|   |   |   `-- plugin
+|   |   |-- audacity
+|   |   |   |-- SessionData
+|   |   |   `-- crashreports
+|   |   |-- outline-client-updater
+|   |   |   `-- installer.exe
+|   |   |-- speech
+|   |   |   `-- Microsoft
+|   |   `-- yandexmusic-updater
+|   |       `-- installer.exe
+|   |-- LocalLow
+|   |   |-- Adobe
+|   |   |   |-- Acrobat
+|   |   |   `-- Linguistics
+|   |   |-- Intel
+|   |   |   `-- ShaderCache
+|   |   `-- Microsoft
+|   |       |-- CryptnetUrlCache
+|   |       `-- Internet Explorer
+|   `-- Roaming
+|       |-- Adobe
+|       |   |-- Acrobat
+|       |   |-- Flash Player
+|       |   |-- Headlights
+|       |   |-- Linguistics
+|       |   `-- LogTransport2
+|       |-- Code
+|       |   |-- Backups
+|       |   |-- Cache
+|       |   |-- CachedData
+|       |   |-- CachedExtensionVSIXs
+|       |   |-- CachedProfilesData
+|       |   |-- Code Cache
+|       |   |-- Crashpad
+|       |   |-- DawnGraphiteCache
+|       |   |-- DawnWebGPUCache
+|       |   |-- GPUCache
+|       |   |-- Local State
+|       |   |-- Local Storage
+|       |   |-- Network
+|       |   |-- Preferences
+|       |   |-- Service Worker
+|       |   |-- Session Storage
+|       |   |-- Shared Dictionary
+|       |   |-- SharedStorage
+|       |   |-- User
+|       |   |-- VideoDecodeStats
+|       |   |-- WebStorage
+|       |   |-- blob_storage
+|       |   |-- languagepacks.json
+|       |   |-- logs
+|       |   |-- machineid
+|       |   `-- shared_proto_db
+|       |-- DRPSu
+|       |   |-- DRIVERS
+|       |   |-- Internet
+|       |   |-- Logs
+|       |   |-- PROGRAMS
+|       |   |-- snapshots
+|       |   `-- temp
+|       |-- Daum
+|       |   `-- PotPlayer
+|       |-- GitHub Desktop
+|       |   |-- Cache
+|       |   |-- Code Cache
+|       |   |-- DawnGraphiteCache
+|       |   |-- DawnWebGPUCache
+|       |   |-- GPUCache
+|       |   |-- IndexedDB
+|       |   |-- Local State
+|       |   |-- Local Storage
+|       |   |-- Network
+|       |   |-- Preferences
+|       |   |-- Session Storage
+|       |   |-- Shared Dictionary
+|       |   |-- SharedStorage
+|       |   |-- WebStorage
+|       |   |-- blob_storage
+|       |   |-- databases
+|       |   |-- logs
+|       |   `-- window-state.json
+|       |-- Microsoft
+|       |   |-- AddIns
+|       |   |-- Bibliography
+|       |   |-- Credentials
+|       |   |-- Crypto
+|       |   |-- Excel
+|       |   |-- InputMethod
+|       |   |-- Internet Explorer
+|       |   |-- MMC
+|       |   |-- Network
+|       |   |-- Office
+|       |   |-- PowerPoint
+|       |   |-- Proof
+|       |   |-- Protect
+|       |   |-- QuickStyles
+|       |   |-- Speech
+|       |   |-- Spelling
+|       |   |-- SystemCertificates
+|       |   |-- Templates
+|       |   |-- UProof
+|       |   |-- Vault
+|       |   |-- Windows
+|       |   `-- Word
+|       |-- PotPlayerMini64
+|       |   |-- Playlist
+|       |   `-- WebView2
+|       |-- VanyaVPN Classic
+|       |   |-- NLog.config
+|       |   |-- VanyaVPN.exe
+|       |   |-- fr
+|       |   |-- gui-config.json
+|       |   |-- ja
+|       |   |-- ko
+|       |   |-- pac.txt
+|       |   |-- ru
+|       |   |-- ss_win_temp
+|       |   |-- unins000.dat
+|       |   |-- unins000.exe
+|       |   |-- user-rule.txt
+|       |   |-- zh-Hans
+|       |   `-- zh-Hant
+|       |-- WinRAR
+|       |   `-- version.dat
+|       |-- YandexMusic
+|       |   |-- Cache
+|       |   |-- Code Cache
+|       |   |-- DawnGraphiteCache
+|       |   |-- DawnWebGPUCache
+|       |   |-- File System
+|       |   |-- GPUCache
+|       |   |-- IndexedDB
+|       |   |-- Local State
+|       |   |-- Local Storage
+|       |   |-- Network
+|       |   |-- Preferences
+|       |   |-- Session Storage
+|       |   |-- Shared Dictionary
+|       |   |-- WebStorage
+|       |   |-- blob_storage
+|       |   |-- config.json
+|       |   `-- logs
+|       |-- Zoom
+|       |   |-- appsafecheck.txt
+|       |   |-- data
+|       |   |-- installer.txt
+|       |   |-- logs
+|       |   `-- reports
+|       |-- audacity
+|       |   |-- Macros
+|       |   |-- Plug-Ins
+|       |   |-- audacity.cfg
+|       |   |-- audiocom_sync.db
+|       |   |-- lastlog.txt
+|       |   |-- pluginregistry.cfg
+|       |   `-- pluginsettings.cfg
+|       `-- discord
+|           |-- 1.0.9157
+|           |-- Cache
+|           |-- Code Cache
+|           |-- Crashpad
+|           |-- DawnGraphiteCache
+|           |-- DawnWebGPUCache
+|           |-- GPUCache
+|           |-- Local State
+|           |-- Local Storage
+|           |-- MediaFoundationWidevineCdm
+|           |-- Network
+|           |-- Preferences
+|           |-- Session Storage
+|           |-- Shared Dictionary
+|           |-- SharedStorage
+|           |-- VideoDecodeStats
+|           |-- WidevineCdm
+|           |-- badge-1.ico
+|           |-- badge-10.ico
+|           |-- badge-11.ico
+|           |-- badge-2.ico
+|           |-- badge-3.ico
+|           |-- badge-4.ico
+|           |-- badge-5.ico
+|           |-- badge-6.ico
+|           |-- badge-7.ico
+|           |-- badge-8.ico
+|           |-- badge-9.ico
+|           |-- blob_storage
+|           |-- component_crx_cache
+|           |-- deafen-off.png
+|           |-- deafen.png
+|           |-- disconnect.png
+|           |-- domainMigrated
+|           |-- module_data
+|           |-- mute-off.png
+|           |-- mute.png
+|           |-- quotes.json
+|           |-- sentry
+|           |-- settings.json
+|           |-- shared_proto_db
+|           |-- tray-connected.png
+|           |-- tray-deafened.png
+|           |-- tray-muted.png
+|           |-- tray-speaking.png
+|           |-- tray-unread.png
+|           |-- tray.png
+|           `-- video.png
+|-- Application Data
+|   |-- Adobe
+|   |   |-- Acrobat
+|   |   |   `-- 11.0
+|   |   |-- Flash Player
+|   |   |   `-- NativeCache
+|   |   |-- Headlights
+|   |   |-- Linguistics
+|   |   `-- LogTransport2
+|   |-- Code
+|   |   |-- Backups
+|   |   |-- Cache
+|   |   |   `-- Cache_Data
+|   |   |-- CachedData
+|   |   |   |-- cd4ee3b1c348a13bafd8f9ad8060705f6d4b9cba
+|   |   |   |-- e249dada235c2083c83813bd65b7f4707fb97b76
+|   |   |   `-- f1a4fb101478ce6ec82fe9627c43efbf9e98c813
+|   |   |-- CachedExtensionVSIXs
+|   |   |   |-- ms-python.debugpy-2025.0.1-win32-x64
+|   |   |   |-- ms-python.python-2025.0.0-win32-x64
+|   |   |   |-- ms-python.vscode-pylance-2025.2.1
+|   |   |   |-- ms-toolsai.jupyter-2024.11.0-win32-x64
+|   |   |   |-- ms-toolsai.jupyter-keymap-1.1.2
+|   |   |   |-- ms-toolsai.jupyter-renderers-1.1.0
+|   |   |   |-- ms-toolsai.vscode-jupyter-cell-tags-0.1.9
+|   |   |   `-- ms-toolsai.vscode-jupyter-slideshow-0.1.6
+|   |   |-- CachedProfilesData
+|   |   |   `-- __default__profile__
+|   |   |-- Code Cache
+|   |   |   |-- js
+|   |   |   `-- wasm
+|   |   |-- Crashpad
+|   |   |   |-- attachments
+|   |   |   |-- metadata
+|   |   |   |-- reports
+|   |   |   `-- settings.dat
+|   |   |-- DawnGraphiteCache
+|   |   |   |-- data_0
+|   |   |   |-- data_1
+|   |   |   |-- data_2
+|   |   |   |-- data_3
+|   |   |   `-- index
+|   |   |-- DawnWebGPUCache
+|   |   |   |-- data_0
+|   |   |   |-- data_1
+|   |   |   |-- data_2
+|   |   |   |-- data_3
+|   |   |   `-- index
+|   |   |-- GPUCache
+|   |   |   |-- data_0
+|   |   |   |-- data_1
+|   |   |   |-- data_2
+|   |   |   |-- data_3
+|   |   |   `-- index
+|   |   |-- Local State
+|   |   |-- Local Storage
+|   |   |   `-- leveldb
+|   |   |-- Network
+|   |   |   |-- Cookies
+|   |   |   |-- Cookies-journal
+|   |   |   |-- Network Persistent State
+|   |   |   |-- NetworkDataMigrated
+|   |   |   |-- TransportSecurity
+|   |   |   |-- Trust Tokens
+|   |   |   `-- Trust Tokens-journal
+|   |   |-- Preferences
+|   |   |-- Service Worker
+|   |   |   |-- Database
+|   |   |   `-- ScriptCache
+|   |   |-- Session Storage
+|   |   |   |-- 000003.log
+|   |   |   |-- CURRENT
+|   |   |   |-- LOCK
+|   |   |   |-- LOG
+|   |   |   |-- LOG.old
+|   |   |   `-- MANIFEST-000001
+|   |   |-- Shared Dictionary
+|   |   |   |-- cache
+|   |   |   |-- db
+|   |   |   `-- db-journal
+|   |   |-- SharedStorage
+|   |   |-- User
+|   |   |   |-- History
+|   |   |   |-- globalStorage
+|   |   |   |-- settings.json
+|   |   |   |-- snippets
+|   |   |   `-- workspaceStorage
+|   |   |-- VideoDecodeStats
+|   |   |   |-- LOCK
+|   |   |   `-- LOG
+|   |   |-- WebStorage
+|   |   |   |-- 1
+|   |   |   |-- 2
+|   |   |   |-- QuotaManager
+|   |   |   `-- QuotaManager-journal
+|   |   |-- blob_storage
+|   |   |   `-- 0998e7ca-b1f4-406f-bd3a-3fb1af27e069
+|   |   |-- languagepacks.json
+|   |   |-- logs
+|   |   |   |-- 20250206T183059
+|   |   |   |-- 20250206T190442
+|   |   |   |-- 20250206T190646
+|   |   |   |-- 20250206T190658
+|   |   |   |-- 20250206T195415
+|   |   |   |-- 20250206T195422
+|   |   |   |-- 20250206T195441
+|   |   |   |-- 20250213T011314
+|   |   |   |-- 20250213T120022
+|   |   |   |-- 20250213T175233
+|   |   |   `-- 20250213T192952
+|   |   |-- machineid
+|   |   `-- shared_proto_db
+|   |       |-- 000003.log
+|   |       |-- CURRENT
+|   |       |-- LOCK
+|   |       |-- LOG
+|   |       |-- MANIFEST-000001
+|   |       `-- metadata
+|   |-- DRPSu
+|   |   |-- DRIVERS
+|   |   |-- Internet
+|   |   |   `-- WifiInterface.txt
+|   |   |-- Logs
+|   |   |   `-- log___2024-08-04-18-35-32.html
+|   |   |-- PROGRAMS
+|   |   |-- snapshots
+|   |   |   `-- DriverPack_Snapshot_20240804_183546.zip
+|   |   `-- temp
+|   |       |-- delorean_error_2302.log
+|   |       |-- delorean_input_2302.log
+|   |       |-- delorean_output_2302.log
+|   |       |-- ps.lzfq55ew.dlgeo.cmd.txt
+|   |       |-- ps.lzfq55ew.dlgeo.stderr.log
+|   |       |-- ps.lzfq55ew.dlgeo.stdout.log
+|   |       |-- ps.lzfq55ew.emaww.ps1
+|   |       |-- run_command_15928.txt
+|   |       |-- run_command_34724.txt
+|   |       |-- run_command_60540.txt
+|   |       |-- run_command_73632.txt
+|   |       |-- wget_finished_74999.txt
+|   |       `-- wget_log_74999.log
+|   |-- Daum
+|   |   `-- PotPlayer
+|   |       `-- Log
+|   |-- GitHub Desktop
+|   |   |-- Cache
+|   |   |   `-- Cache_Data
+|   |   |-- Code Cache
+|   |   |   |-- js
+|   |   |   `-- wasm
+|   |   |-- DawnGraphiteCache
+|   |   |   |-- data_0
+|   |   |   |-- data_1
+|   |   |   |-- data_2
+|   |   |   |-- data_3
+|   |   |   `-- index
+|   |   |-- DawnWebGPUCache
+|   |   |   |-- data_0
+|   |   |   |-- data_1
+|   |   |   |-- data_2
+|   |   |   |-- data_3
+|   |   |   `-- index
+|   |   |-- GPUCache
+|   |   |   |-- data_0
+|   |   |   |-- data_1
+|   |   |   |-- data_2
+|   |   |   |-- data_3
+|   |   |   `-- index
+|   |   |-- IndexedDB
+|   |   |   `-- file__0.indexeddb.leveldb
+|   |   |-- Local State
+|   |   |-- Local Storage
+|   |   |   `-- leveldb
+|   |   |-- Network
+|   |   |   |-- Cookies
+|   |   |   |-- Cookies-journal
+|   |   |   |-- Network Persistent State
+|   |   |   |-- NetworkDataMigrated
+|   |   |   |-- TransportSecurity
+|   |   |   |-- Trust Tokens
+|   |   |   `-- Trust Tokens-journal
+|   |   |-- Preferences
+|   |   |-- Session Storage
+|   |   |   |-- 000003.log
+|   |   |   |-- CURRENT
+|   |   |   |-- LOCK
+|   |   |   |-- LOG
+|   |   |   |-- LOG.old
+|   |   |   `-- MANIFEST-000001
+|   |   |-- Shared Dictionary
+|   |   |   |-- cache
+|   |   |   |-- db
+|   |   |   `-- db-journal
+|   |   |-- SharedStorage
+|   |   |-- WebStorage
+|   |   |   |-- QuotaManager
+|   |   |   `-- QuotaManager-journal
+|   |   |-- blob_storage
+|   |   |   `-- 5e4b38ec-fb65-46ac-a2f5-d913c689efdc
+|   |   |-- databases
+|   |   |   |-- Databases.db
+|   |   |   `-- Databases.db-journal
+|   |   |-- logs
+|   |   |   `-- 2024-10-19.desktop.production.log
+|   |   `-- window-state.json
+|   |-- Microsoft
+|   |   |-- AddIns
+|   |   |-- Bibliography
+|   |   |   `-- Style
+|   |   |-- Credentials
+|   |   |   `-- 0286CE29AD603EBB01876F5D8672632E
+|   |   |-- Crypto
+|   |   |   |-- Keys
+|   |   |   `-- RSA
+|   |   |-- Excel
+|   |   |   `-- Excel15.xlb
+|   |   |-- InputMethod
+|   |   |   `-- en-us
+|   |   |-- Internet Explorer
+|   |   |   |-- Quick Launch
+|   |   |   `-- UserData
+|   |   |-- MMC
+|   |   |-- Network
+|   |   |   `-- Connections
+|   |   |-- Office
+|   |   |   |-- MSO1033.acl
+|   |   |   |-- MSO1049.acl
+|   |   |   |-- MSO2057.acl
+|   |   |   |-- MSO3081.acl
+|   |   |   |-- Recent
+|   |   |   `-- fbcB098.tmp
+|   |   |-- PowerPoint
+|   |   |-- Proof
+|   |   |-- Protect
+|   |   |   |-- CREDHIST
+|   |   |   |-- S-1-5-21-4259343098-3398644483-4272937006-1001
+|   |   |   `-- SYNCHIST
+|   |   |-- QuickStyles
+|   |   |-- Speech
+|   |   |-- Spelling
+|   |   |   |-- en-US
+|   |   |   |-- ru
+|   |   |   `-- ru-RU
+|   |   |-- SystemCertificates
+|   |   |   `-- My
+|   |   |-- Templates
+|   |   |   |-- Document Themes
+|   |   |   |-- LiveContent
+|   |   |   |-- Normal.dotm
+|   |   |   |-- SmartArt Graphics
+|   |   |   `-- ~$Normal.dotm
+|   |   |-- UProof
+|   |   |   |-- CUSTOM.DIC
+|   |   |   |-- ExcludeDictionaryEN0409.lex
+|   |   |   |-- ExcludeDictionaryEN0c09.lex
+|   |   |   `-- ExcludeDictionaryRU0419.lex
+|   |   |-- Vault
+|   |   |-- Windows
+|   |   |   |-- AccountPictures
+|   |   |   |-- CloudStore
+|   |   |   |-- Libraries
+|   |   |   |-- Network Shortcuts
+|   |   |   |-- PowerShell
+|   |   |   |-- Printer Shortcuts
+|   |   |   |-- Recent
+|   |   |   |-- SendTo
+|   |   |   |-- Start Menu
+|   |   |   |-- Templates
+|   |   |   |-- Themes
+|   |   |   `-- Tor
+|   |   `-- Word
+|   |       `-- ListGal.dat
+|   |-- PotPlayerMini64
+|   |   |-- Playlist
+|   |   |   |-- PotPlayerMini64.dpl
+|   |   |   `-- Этот компьютер.dpl
+|   |   `-- WebView2
+|   |       `-- EBWebView
+|   |-- VanyaVPN Classic
+|   |   |-- NLog.config
+|   |   |-- VanyaVPN.exe
+|   |   |-- fr
+|   |   |   `-- VanyaVPN.resources.dll
+|   |   |-- gui-config.json
+|   |   |-- ja
+|   |   |   `-- VanyaVPN.resources.dll
+|   |   |-- ko
+|   |   |   `-- VanyaVPN.resources.dll
+|   |   |-- pac.txt
+|   |   |-- ru
+|   |   |   `-- VanyaVPN.resources.dll
+|   |   |-- ss_win_temp
+|   |   |   |-- dlc.dat
+|   |   |   |-- libsscrypto.dll
+|   |   |   |-- privoxy_179093105.conf
+|   |   |   |-- shadowsocks.log
+|   |   |   |-- ss_privoxy.exe
+|   |   |   |-- ss_privoxy.log
+|   |   |   |-- sysproxy.exe
+|   |   |   `-- user-wininet.json
+|   |   |-- unins000.dat
+|   |   |-- unins000.exe
+|   |   |-- user-rule.txt
+|   |   |-- zh-Hans
+|   |   |   `-- VanyaVPN.resources.dll
+|   |   `-- zh-Hant
+|   |       `-- VanyaVPN.resources.dll
+|   |-- WinRAR
+|   |   `-- version.dat
+|   |-- YandexMusic
+|   |   |-- Cache
+|   |   |   `-- Cache_Data
+|   |   |-- Code Cache
+|   |   |   |-- js
+|   |   |   `-- wasm
+|   |   |-- DawnGraphiteCache
+|   |   |   |-- data_0
+|   |   |   |-- data_1
+|   |   |   |-- data_2
+|   |   |   |-- data_3
+|   |   |   `-- index
+|   |   |-- DawnWebGPUCache
+|   |   |   |-- data_0
+|   |   |   |-- data_1
+|   |   |   |-- data_2
+|   |   |   |-- data_3
+|   |   |   `-- index
+|   |   |-- File System
+|   |   |   |-- 000
+|   |   |   |-- 001
+|   |   |   `-- Origins
+|   |   |-- GPUCache
+|   |   |   |-- data_0
+|   |   |   |-- data_1
+|   |   |   |-- data_2
+|   |   |   |-- data_3
+|   |   |   `-- index
+|   |   |-- IndexedDB
+|   |   |   `-- music-application_desktop_0.indexeddb.leveldb
+|   |   |-- Local State
+|   |   |-- Local Storage
+|   |   |   `-- leveldb
+|   |   |-- Network
+|   |   |   |-- Cookies
+|   |   |   |-- Cookies-journal
+|   |   |   |-- Network Persistent State
+|   |   |   |-- NetworkDataMigrated
+|   |   |   |-- TransportSecurity
+|   |   |   |-- Trust Tokens
+|   |   |   `-- Trust Tokens-journal
+|   |   |-- Preferences
+|   |   |-- Session Storage
+|   |   |   |-- 000003.log
+|   |   |   |-- CURRENT
+|   |   |   |-- LOCK
+|   |   |   |-- LOG
+|   |   |   `-- MANIFEST-000001
+|   |   |-- Shared Dictionary
+|   |   |   |-- cache
+|   |   |   |-- db
+|   |   |   `-- db-journal
+|   |   |-- WebStorage
+|   |   |   |-- QuotaManager
+|   |   |   `-- QuotaManager-journal
+|   |   |-- blob_storage
+|   |   |   `-- e2492f66-6b76-42aa-8385-95825bc721e0
+|   |   |-- config.json
+|   |   `-- logs
+|   |       `-- main.log
+|   |-- Zoom
+|   |   |-- appsafecheck.txt
+|   |   |-- data
+|   |   |   |-- ConfAvatar
+|   |   |   |-- Custom3DAvatarElementV2
+|   |   |   |-- PSWallpaper
+|   |   |   |-- PersonalWallpaper_Thumb
+|   |   |   |-- PresenterLayoutWallpaper_Thumb
+|   |   |   |-- SSBAvatarCacheIndex.ini
+|   |   |   |-- VideoCustomFilter
+|   |   |   |-- VideoFilter
+|   |   |   |-- VideoLayout_Thumb
+|   |   |   |-- VirtualBkgnd_Custom
+|   |   |   |-- VirtualBkgnd_Default
+|   |   |   |-- VirtualBkgnd_Video
+|   |   |   |-- VirtualBkgnd_VideoThumb
+|   |   |   |-- WaitingRoom
+|   |   |   |-- WebviewCacheX64
+|   |   |   |-- Zoom.us.ini
+|   |   |   |-- ZoomAppIcon
+|   |   |   |-- ZoomAppResource
+|   |   |   |-- avatar_97aac424e7fe7143dd7c67b7c0e602d1_2
+|   |   |   |-- ddgum8ljsj2s_ekreyqr-g@xmpp.zoom.us
+|   |   |   |-- pas
+|   |   |   |-- users
+|   |   |   |-- viper.ini
+|   |   |   |-- zoommeeting.enc.db
+|   |   |   |-- zoomus.enc.db
+|   |   |   `-- zoomus.tmp.enc.db
+|   |   |-- installer.txt
+|   |   |-- logs
+|   |   |   `-- zoom_feedback
+|   |   `-- reports
+|   |-- audacity
+|   |   |-- Macros
+|   |   |-- Plug-Ins
+|   |   |-- audacity.cfg
+|   |   |-- audiocom_sync.db
+|   |   |-- lastlog.txt
+|   |   |-- pluginregistry.cfg
+|   |   `-- pluginsettings.cfg
+|   `-- discord
+|       |-- 1.0.9157
+|       |-- Cache
+|       |   `-- Cache_Data
+|       |-- Code Cache
+|       |   |-- js
+|       |   `-- wasm
+|       |-- Crashpad
+|       |   |-- attachments
+|       |   |-- reports
+|       |   `-- settings.dat
+|       |-- DawnGraphiteCache
+|       |   |-- data_0
+|       |   |-- data_1
+|       |   |-- data_2
+|       |   |-- data_3
+|       |   `-- index
+|       |-- DawnWebGPUCache
+|       |   |-- data_0
+|       |   |-- data_1
+|       |   |-- data_2
+|       |   |-- data_3
+|       |   `-- index
+|       |-- GPUCache
+|       |   |-- data_0
+|       |   |-- data_1
+|       |   |-- data_2
+|       |   |-- data_3
+|       |   `-- index
+|       |-- Local State
+|       |-- Local Storage
+|       |   `-- leveldb
+|       |-- MediaFoundationWidevineCdm
+|       |   `-- x64
+|       |-- Network
+|       |   |-- Cookies
+|       |   |-- Cookies-journal
+|       |   |-- Network Persistent State
+|       |   |-- NetworkDataMigrated
+|       |   |-- TransportSecurity
+|       |   |-- Trust Tokens
+|       |   `-- Trust Tokens-journal
+|       |-- Preferences
+|       |-- Session Storage
+|       |   |-- 000003.log
+|       |   |-- CURRENT
+|       |   |-- LOCK
+|       |   |-- LOG
+|       |   |-- LOG.old
+|       |   `-- MANIFEST-000001
+|       |-- Shared Dictionary
+|       |   |-- cache
+|       |   |-- db
+|       |   `-- db-journal
+|       |-- SharedStorage
+|       |-- VideoDecodeStats
+|       |   |-- LOCK
+|       |   `-- LOG
+|       |-- WidevineCdm
+|       |   `-- 4.10.2710.0
+|       |-- badge-1.ico
+|       |-- badge-10.ico
+|       |-- badge-11.ico
+|       |-- badge-2.ico
+|       |-- badge-3.ico
+|       |-- badge-4.ico
+|       |-- badge-5.ico
+|       |-- badge-6.ico
+|       |-- badge-7.ico
+|       |-- badge-8.ico
+|       |-- badge-9.ico
+|       |-- blob_storage
+|       |   `-- aa5979b9-f206-44e7-81ce-9c3ab23f899d
+|       |-- component_crx_cache
+|       |   |-- neifaoindggfcjicffkgpmnlppeffabd_1.c900ba9a2d8318263fd43782ee6fd5fb50bad78bf0eb2c972b5922c458af45ed
+|       |   `-- oimompecagnajdejgnnjijobebaeigek_1.d9a253514b6a010dfc1916c55246797e5773f13844ea3ec2d25078e845fef760
+|       |-- deafen-off.png
+|       |-- deafen.png
+|       |-- disconnect.png
+|       |-- domainMigrated
+|       |-- module_data
+|       |   |-- crashlogs
+|       |   |-- discord_hook
+|       |   |-- discord_utils
+|       |   `-- discord_voice
+|       |-- mute-off.png
+|       |-- mute.png
+|       |-- quotes.json
+|       |-- sentry
+|       |   |-- queue
+|       |   `-- scope_v3.json
+|       |-- settings.json
+|       |-- shared_proto_db
+|       |   |-- 000003.log
+|       |   |-- CURRENT
+|       |   |-- LOCK
+|       |   |-- LOG
+|       |   |-- MANIFEST-000001
+|       |   `-- metadata
+|       |-- tray-connected.png
+|       |-- tray-deafened.png
+|       |-- tray-muted.png
+|       |-- tray-speaking.png
+|       |-- tray-unread.png
+|       |-- tray.png
+|       `-- video.png
+|-- Bioinform2025
+|   |-- renamed
+|   `-- sem_1
+|-- Bioinformatics_2025
+|   `-- hw
+|       `-- hw_1
+|           `-- hw_file_1.txt
+|-- Contacts
+|   `-- desktop.ini
+|-- Cookies
+|   |-- DNTException
+|   |   `-- Low
+|   |-- ESE
+|   |   `-- container.dat
+|   |-- Low
+|   `-- PrivacIE
+|       `-- Low
+|-- Desktop
+|   |-- 3 КУРС ОСЕНЬ 2024 г..xls
+|   |-- Discord.lnk
+|   |-- Excel.lnk
+|   |-- GitHub Desktop.lnk
+|   |-- HONOR PC Manager.lnk
+|   |-- PCManager.exe.lnk
+|   |-- PowerPoint.lnk
+|   |-- Telegram Web.lnk
+|   |-- Visual Studio Code.lnk
+|   |-- Word.lnk
+|   |-- desktop.ini
+|   |-- n2vle9jv.exe
+|   |-- youtube
+|   |   |-- goodbyedpi-0.2.3rc1
+|   |   |   |-- 0_russia_update_blacklist_file.cmd
+|   |   |   |-- 1_russia_blacklist.cmd
+|   |   |   |-- 1_russia_blacklist_dnsredir.cmd
+|   |   |   |-- 2_any_country.cmd
+|   |   |   |-- 2_any_country_dnsredir.cmd
+|   |   |   |-- licenses
+|   |   |   |-- russia-blacklist.txt
+|   |   |   |-- russia-youtube.txt
+|   |   |   |-- service_install_russia_blacklist.cmd
+|   |   |   |-- service_install_russia_blacklist_dnsredir.cmd
+|   |   |   |-- service_remove.cmd
+|   |   |   |-- x86
+|   |   |   `-- x86_64
+|   |   `-- goodbyedpi-0.2.3rc1-2.zip
+|   |-- ~WRL0003.tmp
+|   |-- Вопросы к экзамену (1).docx
+|   |-- Загрузки.lnk
+|   |-- Яндекс Музыка.lnk
+|   |-- гугл диск.url
+|   |-- гугл доки.url
+|   |-- гугл презентации.url
+|   |-- гугл табл.url
+|   |-- гугл формы.url
+|   `-- учет денег.lnk
+|-- Doctor Web
+|   |-- CureIt Quarantine
+|   |   |-- 01
+|   |   |   |-- F015214104000f638bf59ad6b32d352c44efbb9f5db6671bcc3c07cee26742b4
+|   |   |   `-- F015214104000f638bf59ad6b32d352c44efbb9f5db6671bcc3c07cee26742b4.met
+|   |   |-- 05
+|   |   |   |-- F05d5ea7aa362cc5368862833b6c16c6843465f10dd0aaaf4957a9093f1fb367
+|   |   |   `-- F05d5ea7aa362cc5368862833b6c16c6843465f10dd0aaaf4957a9093f1fb367.met
+|   |   |-- 17
+|   |   |   |-- F17cfc75aadf273d2483657db5c8050f1fa761c026e6c681035fcdf5afd77da1
+|   |   |   `-- F17cfc75aadf273d2483657db5c8050f1fa761c026e6c681035fcdf5afd77da1.met
+|   |   |-- 29
+|   |   |   |-- F297e9b02342112c42c5b838856b793731d6e364214b95d98a69d16129a0619e
+|   |   |   `-- F297e9b02342112c42c5b838856b793731d6e364214b95d98a69d16129a0619e.met
+|   |   |-- 3e
+|   |   |   |-- F3e8d70b8f7cd014a001b0b213824d5b437689b90dd4c4bff0ef34977c6a8ea2
+|   |   |   `-- F3e8d70b8f7cd014a001b0b213824d5b437689b90dd4c4bff0ef34977c6a8ea2.met
+|   |   |-- 4f
+|   |   |   |-- F4f6f81e5d6b16ac2a3e893e6452ef0fc67510bc9eed69914c7c641e79b3685f
+|   |   |   `-- F4f6f81e5d6b16ac2a3e893e6452ef0fc67510bc9eed69914c7c641e79b3685f.met
+|   |   |-- 79
+|   |   |   |-- F79525d9b87279973a6ce111b3f58ad120b1dc0aa03cb6b0d164865c8be1d448
+|   |   |   `-- F79525d9b87279973a6ce111b3f58ad120b1dc0aa03cb6b0d164865c8be1d448.met
+|   |   |-- 7c
+|   |   |   |-- F7c312aa4ea0f9ad9a5eca5433b1a9c3f67c70cafd7810c5f0a1659010788a52
+|   |   |   `-- F7c312aa4ea0f9ad9a5eca5433b1a9c3f67c70cafd7810c5f0a1659010788a52.met
+|   |   |-- 83
+|   |   |   |-- F831d6494ea16705d6b063e283e22749652f172edfd1a628bf703ca946cf044e
+|   |   |   `-- F831d6494ea16705d6b063e283e22749652f172edfd1a628bf703ca946cf044e.met
+|   |   |-- a7
+|   |   |   |-- Fa7f01ce1459e13f3265f5ce80fa99bcdf32c77d810ee29a8806d4bcbce965d2
+|   |   |   `-- Fa7f01ce1459e13f3265f5ce80fa99bcdf32c77d810ee29a8806d4bcbce965d2.met
+|   |   |-- cb
+|   |   |   |-- Fcb21c98cbd7d8959d7356e739cadb2a281b11a44eb9f6fc211fb10aafa445f3
+|   |   |   `-- Fcb21c98cbd7d8959d7356e739cadb2a281b11a44eb9f6fc211fb10aafa445f3.met
+|   |   `-- eb
+|   |       |-- Feb94c08da31fa7174e0ae4b12386a390fbfce84dea061fdb2b3d1c2f4f24e5c
+|   |       `-- Feb94c08da31fa7174e0ae4b12386a390fbfce84dea061fdb2b3d1c2f4f24e5c.met
+|   `-- cureit.log
+|-- Documents
+|   |-- Audacity
+|   |-- Git-2.47.0-64-bit.exe
+|   |-- GitHub
+|   |   `-- meowhomework
+|   |       |-- hw3_mmokhinaa_code.py
+|   |       |-- hw_3mmokhinaa_kv.md
+|   |       |-- hw_5_cq.txt
+|   |       `-- дз_5_code.py
+|   |-- GitHubDesktopSetup-x64.exe
+|   |-- Muse_Hub.exe
+|   |-- VSCodeUserSetup-x64-1.92.2.exe
+|   |-- WindowsPowerShell
+|   |-- ZoomInstallerFull.exe
+|   |-- audacity-win-v3.6.4-R3.4-64bit-OpenVINO-AI-Plugins.exe
+|   |-- desktop.ini
+|   |-- python-3.13.0-embed-amd64
+|   |   |-- LICENSE.txt
+|   |   |-- _asyncio.pyd
+|   |   |-- _bz2.pyd
+|   |   |-- _ctypes.pyd
+|   |   |-- _decimal.pyd
+|   |   |-- _elementtree.pyd
+|   |   |-- _hashlib.pyd
+|   |   |-- _lzma.pyd
+|   |   |-- _multiprocessing.pyd
+|   |   |-- _overlapped.pyd
+|   |   |-- _queue.pyd
+|   |   |-- _socket.pyd
+|   |   |-- _sqlite3.pyd
+|   |   |-- _ssl.pyd
+|   |   |-- _uuid.pyd
+|   |   |-- _wmi.pyd
+|   |   |-- _zoneinfo.pyd
+|   |   |-- libcrypto-3.dll
+|   |   |-- libffi-8.dll
+|   |   |-- libssl-3.dll
+|   |   |-- pyexpat.pyd
+|   |   |-- python.cat
+|   |   |-- python.exe
+|   |   |-- python3.dll
+|   |   |-- python313._pth
+|   |   |-- python313.dll
+|   |   |-- python313.zip
+|   |   |-- pythonw.exe
+|   |   |-- select.pyd
+|   |   |-- sqlite3.dll
+|   |   |-- tcl86t.dll
+|   |   |-- tk86t.dll
+|   |   |-- unicodedata.pyd
+|   |   |-- vcruntime140.dll
+|   |   |-- vcruntime140_1.dll
+|   |   |-- winsound.pyd
+|   |   `-- zlib1.dll
+|   |-- python-3.13.0-embed-amd64.zip
+|   |-- ssh
+|   |   `-- id_rsa.pub
+|   |-- Мои видеозаписи
+|   |   |-- Captures
+|   |   |   `-- desktop.ini
+|   |   `-- desktop.ini
+|   |-- Моя музыка
+|   |   `-- desktop.ini
+|   |-- Настраиваемые шаблоны Office
+|   `-- мои рисунки
+|       |-- capture_20240912010220690.bmp
+|       `-- desktop.ini
+|-- Downloads
+|   |-- 000.png
+|   |-- 04-41.pdf
+|   |-- 1 (1).pdf
+|   |-- 1 (2).pdf
+|   |-- 1-s2.0-S0009261414004369-main.pdf
+|   |-- 1.pdf
+|   |-- 10 эндокринная.pdf
+|   |-- 11 кожа и вс.pdf
+|   |-- 1203.pdf
+|   |-- 17.02.2025, 18_50_32 - Screen - Видео без названия.webm
+|   |-- 3 КУРС ВЕСНА 2025.xls
+|   |-- 34.pdf
+|   |-- 7a.pdf
+|   |-- 8 Нервная система.pdf
+|   |-- 8c24cc61-80a2-48e2-84a9-49f6264b7107 (1).jpeg
+|   |-- 8c24cc61-80a2-48e2-84a9-49f6264b7107.jpeg
+|   |-- 9 Анализаторы (1).pdf
+|   |-- 9 Анализаторы.pdf
+|   |-- BIOLOGYLIKE_Anatomia_-_OGE (1).pdf
+|   |-- BIOLOGYLIKE_Anatomia_-_OGE.pdf
+|   |-- BM_kNN_praktika (1).ipynb
+|   |-- BM_kNN_praktika.ipynb
+|   |-- BM_linreg_HW (1).ipynb
+|   |-- BM_linreg_HW (2) (1).ipynb
+|   |-- BM_linreg_HW (2).ipynb
+|   |-- BM_linreg_HW.ipynb
+|   |-- BM_linreg_sklearn (1).ipynb
+|   |-- BM_linreg_sklearn (2) (1).ipynb
+|   |-- BM_linreg_sklearn (2).ipynb
+|   |-- BM_linreg_sklearn (3).ipynb
+|   |-- BM_linreg_sklearn.ipynb
+|   |-- BM_main_sem_kNN.ipynb
+|   |-- BvSshClient-Inst.exe
+|   |-- CamScanner 08.01.2025 20.42.pdf
+|   |-- Chen_et_al-2017-Molecular_Nutrition__Food_Research.pdf
+|   |-- Chromatographia_metodichka.pdf
+|   |-- DiscordSetup.exe
+|   |-- Gayton_I_Kholl-_meditsinskaya_fiziologia.pdf
+|   |-- Git-2.47.1.2-64-bit.exe
+|   |-- Good times vs Goal-setting  (1).pdf
+|   |-- Good times vs Goal-setting  (2).pdf
+|   |-- Good times vs Goal-setting .pdf
+|   |-- IMG_6285.MOV
+|   |-- INVITRO_848879450.pdf
+|   |-- Image.pdf
+|   |-- InTech-Ion_exchange_chromatography_an_overview.pdf
+|   |-- Janeway 1989.pdf
+|   |-- Koryavov-VP-Metody-resheniya-zadach-v-obschem-kurse-fiziki-Atomnaya-i-yadernaya-fizika (1).pdf
+|   |-- Lec2_Genome realization_exit.pptx
+|   |-- Rnaseq_age_reg.csv
+|   |-- Rokhlov_OGE_2024_OTVETY.pdf
+|   |-- Rokhlov_OGE_2024_VOPROSY.pdf
+|   |-- Shpora_optika_removed.pdf
+|   |-- TV_Week1.docx
+|   |-- Test_Anemia.csv
+|   |-- Unlimited VPN Proxy - Planet VPN Installer.exe
+|   |-- VanyaVPN-classic (1).exe
+|   |-- WhatsApp Installer.exe
+|   |-- Yandex_Music_x64_5.30.3.exe
+|   |-- YearCompass для айпада.pdf
+|   |-- YearCompass для печати.pdf
+|   |-- aa3e5d13-d572-4c01-8ed4-666e8c7bb8b3.jpeg
+|   |-- aida64extreme735.exe
+|   |-- annurev-biophys-032116-094545-1-10.pdf
+|   |-- annurev-biophys-032116-094545-11-20.pdf
+|   |-- annurev-biophys-032116-094545-21-30.pdf
+|   |-- annurev-biophys-032116-094545-31-46.pdf
+|   |-- annurev-biophys-032116-094545.pdf
+|   |-- archive
+|   |   `-- Test_Anemia.csv
+|   |-- archive.zip
+|   |-- bbe22996-ae56-4c6d-a896-ba2422a6b1fd.jpeg
+|   |-- bio_78_11.jpg
+|   |-- bio_85_13.jpg
+|   |-- biosensors-13-00223-v2 (1).pdf
+|   |-- biosensors-13-00223-v2.pdf
+|   |-- desktop.ini
+|   |-- f1e75d16db125f6891b8c3aabbae42da.jpg
+|   |-- fotor-ai-20241121134430.jpg
+|   |-- fotor-ai-20241121134456.jpg
+|   |-- ilovepdf_split-range.zip
+|   |-- insurance_miptstats.csv
+|   |-- ionnyj_obmen_i_ionnaya_hromatografiya_metodicheskie_razrabotki_k_kursu_lekcij_hromatograficheskie_metody_analiza.pdf
+|   |-- myresult.png
+|   |-- oge_anatomiya.docx
+|   |-- oge_anatomiya.pdf
+|   |-- opticheskaya-biomeditsinskaya-diagnostika (1).pdf
+|   |-- opticheskaya-biomeditsinskaya-diagnostika.pdf
+|   |-- otvety_na_olimpiadnye_zadanija_po_ekologija_11_klass.doc
+|   |-- penguins.csv
+|   |-- photo_5188623138894766490_y.jpg
+|   |-- photo_5199817464345651431_y.jpg
+|   |-- photo_5262559639390775106_x.jpg
+|   |-- photo_5289880832598731853_x.jpg
+|   |-- photo_5289880832598731855_x.jpg
+|   |-- photo_5289880832598731856_x.jpg
+|   |-- photo_5289880832598731861_x.jpg
+|   |-- photo_5289880832598731863_x.jpg
+|   |-- photo_5289880832598731868_x.jpg
+|   |-- photo_5289880832598731871_x.jpg
+|   |-- photo_5292006991734104049_y.jpg
+|   |-- photo_5305370997223976105_x.jpg
+|   |-- photo_5305678430983023239_y.jpg
+|   |-- photo_5305678430983023245_y.jpg
+|   |-- photo_5305678430983023248_x.jpg
+|   |-- photo_5305678430983023250_y.jpg
+|   |-- photo_5323457473874619817_y.jpg
+|   |-- photo_5350647898213310960_y.jpg
+|   |-- photo_5368318454525974867_y.jpg
+|   |-- photo_5465126304413248166_y.jpg
+|   |-- principals and techiniques of biochemistry and molecular biology 7th ed wilson walker.pdf
+|   |-- rcsb_pdb_168L (1).fasta
+|   |-- rcsb_pdb_168L.fasta
+|   |-- seminar_1_linreg_edited (1).ipynb
+|   |-- seminar_1_linreg_edited-2.ipynb
+|   |-- seminar_1_linreg_edited.ipynb
+|   |-- seminar_logreg_new_БМ (1) (1) (1).ipynb
+|   |-- seminar_logreg_new_БМ (1) (1).ipynb
+|   |-- seminar_logreg_new_БМ (1).ipynb
+|   |-- seminar_logreg_new_БМ.ipynb
+|   |-- test_4905e.result.zip
+|   |-- webcam-toy-photo1.jpg
+|   |-- webcam-toy-photo2.jpg
+|   |-- yin2013.pdf
+|   |-- БИ-9 ОГЭ 2025_ДЕМО.pdf
+|   |-- БИ-9 ОГЭ 2025_КОДИФ.pdf
+|   |-- БИ-9 ОГЭ 2025_СПЕЦ.pdf
+|   |-- БИОХИМИЯ Учебник-2019.pdf
+|   |-- Биофизика Семинары.pdf
+|   |-- Биофизика.pdf
+|   |-- Биохимия 1 семестр.pdf
+|   |-- Биохимия. Лекция 1.pdf
+|   |-- Биохимия.pdf
+|   |-- ВПВ (1).pdf
+|   |-- ВПВ.pdf
+|   |-- Вас.pdf
+|   |-- Вопросы к экзамену (1).docx
+|   |-- Вопросы к экзамену.docx
+|   |-- Вопросы к экзамену.pdf
+|   |-- Вопросы.pdf
+|   |-- Дж. Лакович - Основы флуоресцентной спектроскопии-Мир (1986).pdf
+|   |-- Дз лене.pdf
+|   |-- Задачи ФМИ.pdf
+|   |-- Ионообменная хроматография.pdf
+|   |-- Ионя.pptx
+|   |-- Книга-4-ч1-Хемилюминесценция.pdf
+|   |-- Лекции.pdf
+|   |-- Лекция 1. ФизтехКБ2022.pdf
+|   |-- Лекция 2.pdf
+|   |-- Лекция 3 (3).pptx
+|   |-- Лекция_01_Введение.pdf
+|   |-- Листочек.pdf
+|   |-- Машинка_ДЗ_\2711.ipynb
+|   |-- Новая презентация (1).pdf
+|   |-- Новая презентация (2).pdf
+|   |-- Новая презентация.pdf
+|   |-- Новая презентация.pptx
+|   |-- Новая презентация.txt
+|   |-- Новый документ (1).pdf
+|   |-- Новый документ (2).pdf
+|   |-- Новый документ (3).pdf
+|   |-- Новый документ (4) (1).pdf
+|   |-- Новый документ (4).pdf
+|   |-- Новый документ.pdf
+|   |-- ОФС_Ионообменная_хроматография (1).docx
+|   |-- ОФС_Ионообменная_хроматография.docx
+|   |-- Отработка.pdf
+|   |-- Перечень тем предлагаемых для вопроса по выбору на экзамене.docx
+|   |-- Подключение_к_серверу_Алдан3 (1).pdf
+|   |-- Подключение_к_серверу_Алдан3.pdf
+|   |-- Проект_ОФС_Ионнообменная_хроматография.docx
+|   |-- Разбор Кр .pdf
+|   |-- Семинар 2.pdf
+|   |-- Семинары Фми (1).pdf
+|   |-- Семинары Фми.pdf
+|   |-- Угадай мелодию.pdf
+|   |-- ФЛУОР_впв(1).pdf
+|   |-- ФМИ ВПВ ТЕКСТ .docx
+|   |-- Физико-химические методы анализа1 (1).pdf
+|   |-- Физико-химические методы анализа1.pdf
+|   |-- Физико-химические методы анализа2.pdf
+|   |-- Физико-химические методы анализа3.pdf
+|   |-- Физико-химические методы анализа5.pdf
+|   |-- Физико-химические методы анализа7 (1).pdf
+|   |-- Физико-химические методы анализа7.pdf
+|   |-- Физико-химические методы анализа8 (1).pdf
+|   |-- Физико-химические методы анализа8.pdf
+|   |-- Цитология 2.pdf
+|   |-- Цитология.pdf
+|   |-- Шпора (1).pdf
+|   |-- Шпора на письмак_250108_143433.pdf
+|   |-- Шпора.pdf
+|   |-- Экзамен (1).pdf
+|   |-- Экзамен (2).pdf
+|   |-- Экзамен Биохимия  (1).pdf
+|   |-- Экзамен Биохимия  (2).pdf
+|   |-- Экзамен Биохимия  (3).pdf
+|   |-- Экзамен Биохимия  (4).pdf
+|   |-- Экзамен Биохимия  (5).pdf
+|   |-- Экзамен Биохимия  2.pdf
+|   |-- Экзамен Биохимия  4.pdf
+|   |-- Экзамен Биохимия .pdf
+|   |-- Экзамен.pdf
+|   |-- Эмануэль_Кузьмин_люминесценция.pdf
+|   |-- англ я лох.pdf
+|   |-- билеты фми норм.pdf
+|   |-- бха 5 сем лекции_241204_132939.pdf
+|   |-- дз.pdf
+|   |-- дз8Мохина_206.pdf
+|   |-- задачи к экзамену ФМИ (2) (1).pdf
+|   |-- задачи к экзамену ФМИ (2).pdf
+|   |-- задачки.pdf
+|   |-- зачет.pdf
+|   |-- ионя.pdf
+|   |-- итог.pdf
+|   |-- новогодний.pdf
+|   |-- правила.pdf
+|   |-- пути бх.pdf
+|   |-- семинар1.pptx
+|   |-- текст англ (1).docx
+|   |-- текст англ.docx
+|   |-- текст рус.docx
+|   |-- теор.pdf
+|   |-- финальная ведомость 2024.xlsx
+|   |-- флуориметрия_2024_10.pdf
+|   |-- эссе_последняяверсяя (1).docx
+|   `-- это че рил носов.pdf
+|-- Favorites
+|   |-- Bing.url
+|   |-- Links
+|   |   `-- desktop.ini
+|   |-- OVGORSKIY.url
+|   `-- desktop.ini
+|-- Links
+|   |-- Desktop.lnk
+|   |-- Downloads.lnk
+|   `-- desktop.ini
+|-- Local Settings
+|   |-- Adobe
+|   |   |-- Acrobat
+|   |   |   `-- 11.0
+|   |   `-- Color
+|   |       |-- ACECache11.lst
+|   |       `-- Profiles
+|   |-- Application Data
+|   |   |-- Adobe
+|   |   |   |-- Acrobat
+|   |   |   `-- Color
+|   |   |-- Application Data
+|   |   |   |-- Adobe
+|   |   |   |-- Application Data
+|   |   |   |-- Bitvise
+|   |   |   |-- Comms
+|   |   |   |-- ConnectedDevicesPlatform
+|   |   |   |-- CrashDumps
+|   |   |   |-- D3DSCache
+|   |   |   |-- Diagnostics
+|   |   |   |-- Discord
+|   |   |   |-- ElevatedDiagnostics
+|   |   |   |-- FastStone
+|   |   |   |-- GitHubDesktop
+|   |   |   |-- Google
+|   |   |   |-- History
+|   |   |   |-- IconCache.db
+|   |   |   |-- MSfree Inc
+|   |   |   |-- Microsoft
+|   |   |   |-- Microsoft Help
+|   |   |   |-- Muse Hub
+|   |   |   |-- MuseSampler
+|   |   |   |-- NBClipboard
+|   |   |   |-- Nahimic
+|   |   |   |-- NhNotifSys
+|   |   |   |-- Packages
+|   |   |   |-- PeerDistRepub
+|   |   |   |-- PlaceholderTileLogoFolder
+|   |   |   |-- Programs
+|   |   |   |-- Publishers
+|   |   |   |-- Sentry
+|   |   |   |-- SquirrelTemp
+|   |   |   |-- StartIsBack
+|   |   |   |-- Temp
+|   |   |   |-- Temporary Internet Files
+|   |   |   |-- VirtualStore
+|   |   |   |-- Zoom
+|   |   |   |-- audacity
+|   |   |   |-- outline-client-updater
+|   |   |   |-- speech
+|   |   |   `-- yandexmusic-updater
+|   |   |-- Bitvise
+|   |   |   `-- Updates
+|   |   |-- Comms
+|   |   |   |-- Unistore
+|   |   |   `-- UnistoreDB
+|   |   |-- ConnectedDevicesPlatform
+|   |   |   |-- CDPGlobalSettings.cdp
+|   |   |   |-- Connected Devices Platform certificates.sst
+|   |   |   |-- L.Marusya
+|   |   |   |-- L.Marusya.cdp
+|   |   |   `-- L.Marusya.cdpresource
+|   |   |-- CrashDumps
+|   |   |   |-- Unlimited VPN Proxy - Planet VPN Installer.exe.11988.dmp
+|   |   |   |-- VanyaVPN.exe.1208.dmp
+|   |   |   |-- VanyaVPN.exe.15704.dmp
+|   |   |   |-- VanyaVPN.exe.1636.dmp
+|   |   |   |-- VanyaVPN.exe.1876.dmp
+|   |   |   |-- VanyaVPN.exe.2724.dmp
+|   |   |   |-- VanyaVPN.exe.3820.dmp
+|   |   |   |-- VanyaVPN.exe.4344.dmp
+|   |   |   |-- VanyaVPN.exe.9960.dmp
+|   |   |   `-- VanyaVPN.exe.9964.dmp
+|   |   |-- D3DSCache
+|   |   |   |-- 2938879384208e47
+|   |   |   |-- 2c2d6b8adf58e8db
+|   |   |   |-- 2f2b768135687cb8
+|   |   |   |-- 34e2585c5c1e6957
+|   |   |   |-- 44cb2b83af58761
+|   |   |   |-- 4c2ab23a58da3748
+|   |   |   |-- 4d3e565ff4e7221a
+|   |   |   |-- 67f0fbba5ee8065b
+|   |   |   |-- 778304e98e7c76f3
+|   |   |   |-- 79488f6db1539bc7
+|   |   |   |-- 8d679f48c2e0a7b2
+|   |   |   |-- 95ac3fd4d295f14d
+|   |   |   |-- 9b61e292144574c
+|   |   |   |-- a73b75d6d320095d
+|   |   |   |-- aab3c3e1c00c44d
+|   |   |   |-- ab326b5a64fa2db7
+|   |   |   |-- ab818f96a53f7d14
+|   |   |   |-- bf5365afdeda0910
+|   |   |   |-- c32ce2859c8fdaf9
+|   |   |   |-- c9615d1bc17be533
+|   |   |   |-- cb00da9ba77862e
+|   |   |   |-- e8010882af4f153f
+|   |   |   |-- e885543310c8ef56
+|   |   |   |-- e922486ffb18056f
+|   |   |   |-- e9cd951dd8114293
+|   |   |   |-- ecbf0d5a3a180bb
+|   |   |   `-- f4d41c5d09ae781
+|   |   |-- Diagnostics
+|   |   |   `-- 460911090
+|   |   |-- Discord
+|   |   |   |-- Discord_updater_rCURRENT.log
+|   |   |   |-- SquirrelSetup.log
+|   |   |   |-- Update.exe
+|   |   |   |-- app-1.0.9157
+|   |   |   |-- app.ico
+|   |   |   |-- installer.db
+|   |   |   `-- packages
+|   |   |-- ElevatedDiagnostics
+|   |   |   |-- 2550435360
+|   |   |   |-- 3193891667
+|   |   |   `-- 3493975886
+|   |   |-- FastStone
+|   |   |   `-- FSIV
+|   |   |-- GitHubDesktop
+|   |   |   |-- GitHubDesktop.exe
+|   |   |   |-- Squirrel-CheckForUpdate.log
+|   |   |   |-- Squirrel-Shortcut.log
+|   |   |   |-- Update.exe
+|   |   |   |-- app-3.4.6
+|   |   |   |-- app.ico
+|   |   |   |-- bin
+|   |   |   `-- packages
+|   |   |-- Google
+|   |   |   `-- Chrome
+|   |   |-- History
+|   |   |   |-- History.IE5
+|   |   |   |-- Low
+|   |   |   `-- desktop.ini
+|   |   |-- IconCache.db
+|   |   |-- MSfree Inc
+|   |   |   `-- kmsauto.ini
+|   |   |-- Microsoft
+|   |   |   |-- Credentials
+|   |   |   |-- EDP
+|   |   |   |-- Edge
+|   |   |   |-- Event Viewer
+|   |   |   |-- Feeds
+|   |   |   |-- Feeds Cache
+|   |   |   |-- FontCache
+|   |   |   |-- GameDVR
+|   |   |   |-- InputPersonalization
+|   |   |   |-- Internet Explorer
+|   |   |   |-- Media Player
+|   |   |   |-- NetTraces
+|   |   |   |-- Office
+|   |   |   |-- PenWorkspace
+|   |   |   |-- PlayReady
+|   |   |   |-- TokenBroker
+|   |   |   |-- Vault
+|   |   |   |-- Windows
+|   |   |   |-- Windows Media
+|   |   |   |-- Windows Sidebar
+|   |   |   |-- WindowsApps
+|   |   |   |-- fluency
+|   |   |   `-- input
+|   |   |-- Microsoft Help
+|   |   |-- Muse Hub
+|   |   |   |-- lib
+|   |   |   `-- settings.json
+|   |   |-- MuseSampler
+|   |   |-- NBClipboard
+|   |   |   |-- Clipboard
+|   |   |   `-- NaturalBase
+|   |   |-- Nahimic
+|   |   |   `-- ns-sentry-db
+|   |   |-- NhNotifSys
+|   |   |   `-- nahimic
+|   |   |-- Packages
+|   |   |   |-- 1527c705-839a-4832-9118-54d4Bd6a0c89_cw5n1h2txyewy
+|   |   |   |-- 5319275A.WhatsAppDesktop_cv1g1gvanyjgm
+|   |   |   |-- A-Volute.Nahimic_w2gh52qy24etm
+|   |   |   |-- ActiveSync
+|   |   |   |-- AppUp.IntelGraphicsExperience_8j3eq9eme6ctt
+|   |   |   |-- E2A4F912-2574-4A75-9BB0-0D023378592B_cw5n1h2txyewy
+|   |   |   |-- F46D4000-FD22-4DB4-AC8E-4E1DDDE828FE_cw5n1h2txyewy
+|   |   |   |-- FreeVPNPlanet.PlanetVPN_b2qrq2z57ppd2
+|   |   |   |-- Microsoft.AAD.BrokerPlugin_cw5n1h2txyewy
+|   |   |   |-- Microsoft.AccountsControl_cw5n1h2txyewy
+|   |   |   |-- Microsoft.AsyncTextService_8wekyb3d8bbwe
+|   |   |   |-- Microsoft.BioEnrollment_cw5n1h2txyewy
+|   |   |   |-- Microsoft.CredDialogHost_cw5n1h2txyewy
+|   |   |   |-- Microsoft.ECApp_8wekyb3d8bbwe
+|   |   |   |-- Microsoft.LanguageExperiencePackru-RU_8wekyb3d8bbwe
+|   |   |   |-- Microsoft.LockApp_cw5n1h2txyewy
+|   |   |   |-- Microsoft.MicrosoftEdge.Stable_8wekyb3d8bbwe
+|   |   |   |-- Microsoft.MicrosoftEdgeDevToolsClient_8wekyb3d8bbwe
+|   |   |   |-- Microsoft.NET.Native.Framework.2.2_8wekyb3d8bbwe
+|   |   |   |-- Microsoft.NET.Native.Runtime.2.2_8wekyb3d8bbwe
+|   |   |   |-- Microsoft.UI.Xaml.2.8_8wekyb3d8bbwe
+|   |   |   |-- Microsoft.VCLibs.140.00.UWPDesktop_8wekyb3d8bbwe
+|   |   |   |-- Microsoft.VCLibs.140.00_8wekyb3d8bbwe
+|   |   |   |-- Microsoft.Win32WebViewHost_cw5n1h2txyewy
+|   |   |   |-- Microsoft.Windows.Apprep.ChxApp_cw5n1h2txyewy
+|   |   |   |-- Microsoft.Windows.AssignedAccessLockApp_cw5n1h2txyewy
+|   |   |   |-- Microsoft.Windows.CallingShellApp_cw5n1h2txyewy
+|   |   |   |-- Microsoft.Windows.CapturePicker_cw5n1h2txyewy
+|   |   |   |-- Microsoft.Windows.CloudExperienceHost_cw5n1h2txyewy
+|   |   |   |-- Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy
+|   |   |   |-- Microsoft.Windows.NarratorQuickStart_8wekyb3d8bbwe
+|   |   |   |-- Microsoft.Windows.OOBENetworkCaptivePortal_cw5n1h2txyewy
+|   |   |   |-- Microsoft.Windows.OOBENetworkConnectionFlow_cw5n1h2txyewy
+|   |   |   |-- Microsoft.Windows.ParentalControls_cw5n1h2txyewy
+|   |   |   |-- Microsoft.Windows.PeopleExperienceHost_cw5n1h2txyewy
+|   |   |   |-- Microsoft.Windows.PinningConfirmationDialog_cw5n1h2txyewy
+|   |   |   |-- Microsoft.Windows.Search_cw5n1h2txyewy
+|   |   |   |-- Microsoft.Windows.SecHealthUI_cw5n1h2txyewy
+|   |   |   |-- Microsoft.Windows.ShellExperienceHost_cw5n1h2txyewy
+|   |   |   |-- Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy
+|   |   |   |-- Microsoft.Windows.XGpuEjectDialog_cw5n1h2txyewy
+|   |   |   |-- Microsoft.XboxGameCallableUI_cw5n1h2txyewy
+|   |   |   |-- MicrosoftWindows.Client.CBS_cw5n1h2txyewy
+|   |   |   |-- MicrosoftWindows.UndockedDevKit_cw5n1h2txyewy
+|   |   |   |-- Muse.MuseHub_rb9pth70m6nz6
+|   |   |   |-- NcsiUwpApp_8wekyb3d8bbwe
+|   |   |   |-- RealtekSemiconductorCorp.RealtekAudioControl_dt26b99r8h8gj
+|   |   |   |-- Windows.CBSPreview_cw5n1h2txyewy
+|   |   |   |-- Windows.PrintDialog_cw5n1h2txyewy
+|   |   |   |-- c5e2524a-ea46-4f67-841f-6a9465d9d515_cw5n1h2txyewy
+|   |   |   |-- cr.sb.cdm3e4d1a088c1f6d498c84f3c86de73ce49f82a104
+|   |   |   |-- cr.sb.odm3E4D1A088C1F6D498C84F3C86DE73CE49F82A104
+|   |   |   |-- cr.sb.prnc3E4D1A088C1F6D498C84F3C86DE73CE49F82A104
+|   |   |   |-- oice_16_974fa576_32c1d314_110e
+|   |   |   |-- oice_16_974fa576_32c1d314_164d
+|   |   |   |-- oice_16_974fa576_32c1d314_2359
+|   |   |   |-- oice_16_974fa576_32c1d314_2b01
+|   |   |   |-- oice_16_974fa576_32c1d314_3361
+|   |   |   |-- oice_16_974fa576_32c1d314_33da
+|   |   |   |-- oice_16_974fa576_32c1d314_3cd2
+|   |   |   |-- oice_16_974fa576_32c1d314_c6c
+|   |   |   |-- oice_16_974fa576_32c1d314_e58
+|   |   |   |-- windows.immersivecontrolpanel_cw5n1h2txyewy
+|   |   |   `-- windows_ie_ac_001
+|   |   |-- PeerDistRepub
+|   |   |-- PlaceholderTileLogoFolder
+|   |   |   |-- 9NKSQGP7F2NH
+|   |   |   |-- 9NMJCX77QKPX
+|   |   |   `-- 9P15S8PWMQ8C
+|   |   |-- Programs
+|   |   |   |-- AntConc
+|   |   |   |-- Common
+|   |   |   |-- Microsoft VS Code
+|   |   |   |-- YandexMusic
+|   |   |   `-- transmission
+|   |   |-- Publishers
+|   |   |   |-- 8j3eq9eme6ctt
+|   |   |   `-- w2gh52qy24etm
+|   |   |-- Sentry
+|   |   |   |-- 2B7CEFF199A42C2522D59B6747E8BA8F95C961F7
+|   |   |   `-- 667AC2C4123DD49219A6E4E9814C8BA983854980
+|   |   |-- SquirrelTemp
+|   |   |   |-- Squirrel-Install.log
+|   |   |   `-- SquirrelSetup.log
+|   |   |-- StartIsBack
+|   |   |   `-- Cache
+|   |   |-- Temp
+|   |   |   |-- 0db51a3c-b237-4a8d-9396-95b348ddff1f.tmp
+|   |   |   |-- 11de67bad52a6224b77edb8ed1a989bb
+|   |   |   |-- 14EDAB1C-5B7049EC-1879B3E1-5AB41D10
+|   |   |   |-- 29D6E7B6-20B9728E-2C17FF2E-2733F572
+|   |   |   |-- 2A7AE960-4110987C-39843166-235F3A10
+|   |   |   |-- 2e8d214b-92c4-4bba-aa1f-c37538fbd75d.tmp
+|   |   |   |-- 48E8C559-3B79E646-219B583F-17EA9D32
+|   |   |   |-- 5d845c00-e091-443b-8c9f-4cc7d5d64619.tmp
+|   |   |   |-- 621470e3-6877-429a-a24d-ea9f1ff23b72.tmp
+|   |   |   |-- 784507fe-2522-4a1c-8f1c-5242f0d7084c.tmp
+|   |   |   |-- A26CE116-10E520B6-F9A14D74-6ED961A8
+|   |   |   |-- ActivityVisualCache
+|   |   |   |-- AdobeARM.log
+|   |   |   |-- Diagnostics
+|   |   |   |-- Low
+|   |   |   |-- PPT11.0
+|   |   |   |-- PotUpdate
+|   |   |   |-- Setup Log 2025-02-06 #001.txt
+|   |   |   |-- Setup Log 2025-02-13 #001.txt
+|   |   |   |-- TCD2498.tmp
+|   |   |   |-- TCD2499.tmp
+|   |   |   |-- TCD2585.tmp
+|   |   |   |-- TCD25B6.tmp
+|   |   |   |-- TCD26B2.tmp
+|   |   |   |-- TCD26E3.tmp
+|   |   |   |-- TCD280E.tmp
+|   |   |   |-- TCD287D.tmp
+|   |   |   |-- TCD2AA2.tmp
+|   |   |   |-- TCD2AA3.tmp
+|   |   |   |-- TCD2AC3.tmp
+|   |   |   |-- TCD2BBF.tmp
+|   |   |   |-- TCD2C8C.tmp
+|   |   |   |-- TCD2CD7.tmp
+|   |   |   |-- TCD2CF9.tmp
+|   |   |   |-- TCD2D3A.tmp
+|   |   |   |-- TCD2D78.tmp
+|   |   |   |-- TCD31B1.tmp
+|   |   |   |-- TCD3211.tmp
+|   |   |   |-- TCD32CE.tmp
+|   |   |   |-- TCD3317.tmp
+|   |   |   |-- TCD3490.tmp
+|   |   |   |-- TCD3560.tmp
+|   |   |   |-- TCD356D.tmp
+|   |   |   |-- TCD3688.tmp
+|   |   |   |-- TCD37E2.tmp
+|   |   |   |-- TCD3861.tmp
+|   |   |   |-- TCD38EF.tmp
+|   |   |   |-- TCD3A93.tmp
+|   |   |   |-- TCD3B40.tmp
+|   |   |   |-- TCD3BEF.tmp
+|   |   |   |-- TCD3DCE.tmp
+|   |   |   |-- TCD3EEA.tmp
+|   |   |   |-- TCD3EEB.tmp
+|   |   |   |-- TCD3F3C.tmp
+|   |   |   |-- TCD3F4D.tmp
+|   |   |   |-- TCD3F5F.tmp
+|   |   |   |-- TCD3F90.tmp
+|   |   |   |-- TCD3FD0.tmp
+|   |   |   |-- TCD3FF2.tmp
+|   |   |   |-- TCD4003.tmp
+|   |   |   |-- TCD4015.tmp
+|   |   |   |-- TCD41AD.tmp
+|   |   |   |-- TCD41D1.tmp
+|   |   |   |-- TCD41E4.tmp
+|   |   |   |-- TCD41E5.tmp
+|   |   |   |-- TCD41E6.tmp
+|   |   |   |-- TCD41E7.tmp
+|   |   |   |-- TCD41E8.tmp
+|   |   |   |-- TCD4279.tmp
+|   |   |   |-- TCD4336.tmp
+|   |   |   |-- TCD43B5.tmp
+|   |   |   |-- TCD43E6.tmp
+|   |   |   |-- TCD4494.tmp
+|   |   |   |-- TCD46CC.tmp
+|   |   |   |-- TCD4938.tmp
+|   |   |   |-- TCD493A.tmp
+|   |   |   |-- TCD493C.tmp
+|   |   |   |-- TCD493D.tmp
+|   |   |   |-- TCD494E.tmp
+|   |   |   |-- TCD494F.tmp
+|   |   |   |-- TCD4950.tmp
+|   |   |   |-- TCD4962.tmp
+|   |   |   |-- TCD4974.tmp
+|   |   |   |-- TCD4985.tmp
+|   |   |   |-- TCD4997.tmp
+|   |   |   |-- TCD49A9.tmp
+|   |   |   |-- TCD49BA.tmp
+|   |   |   |-- TCD49CC.tmp
+|   |   |   |-- TCD49DD.tmp
+|   |   |   |-- TCD49DF.tmp
+|   |   |   |-- TCD4A3F.tmp
+|   |   |   |-- TCD4A70.tmp
+|   |   |   |-- TCD4C37.tmp
+|   |   |   |-- TCD4EF8.tmp
+|   |   |   |-- TCD5221.tmp
+|   |   |   |-- TCD5222.tmp
+|   |   |   |-- TCD5223.tmp
+|   |   |   |-- TCD5224.tmp
+|   |   |   |-- TCD5225.tmp
+|   |   |   |-- TCD5286.tmp
+|   |   |   |-- TCD5297.tmp
+|   |   |   |-- TCD52B8.tmp
+|   |   |   |-- TCD5E48.tmp
+|   |   |   |-- TCD600F.tmp
+|   |   |   |-- TCD897A.tmp
+|   |   |   |-- TCD897B.tmp
+|   |   |   |-- TCD897C.tmp
+|   |   |   |-- TCD897D.tmp
+|   |   |   |-- TCD897E.tmp
+|   |   |   |-- TCD8980.tmp
+|   |   |   |-- TCD8982.tmp
+|   |   |   |-- TCD8983.tmp
+|   |   |   |-- TCD8995.tmp
+|   |   |   |-- TCD8997.tmp
+|   |   |   |-- TCD8998.tmp
+|   |   |   |-- TCD8999.tmp
+|   |   |   |-- TCD89AC.tmp
+|   |   |   |-- TCD89AD.tmp
+|   |   |   |-- TCD89BE.tmp
+|   |   |   |-- TCD89D0.tmp
+|   |   |   |-- TCD89F2.tmp
+|   |   |   |-- TCD8A03.tmp
+|   |   |   |-- TCD8A05.tmp
+|   |   |   |-- TCD8B30.tmp
+|   |   |   |-- TCDB365.tmp
+|   |   |   |-- TCDB366.tmp
+|   |   |   |-- TCDB367.tmp
+|   |   |   |-- TCDB368.tmp
+|   |   |   |-- TCDB369.tmp
+|   |   |   |-- TCDB37A.tmp
+|   |   |   |-- TCDB37B.tmp
+|   |   |   |-- TCDB3CB.tmp
+|   |   |   |-- TCDBC3E.tmp
+|   |   |   |-- TCDBC3F.tmp
+|   |   |   |-- TCDBC51.tmp
+|   |   |   |-- TCDBC72.tmp
+|   |   |   |-- TCDBC85.tmp
+|   |   |   |-- TCDBC95.tmp
+|   |   |   |-- TCDBD72.tmp
+|   |   |   |-- TCDBE5F.tmp
+|   |   |   |-- TCDCB5D.tmp
+|   |   |   |-- TCDCB5E.tmp
+|   |   |   |-- TCDCBFC.tmp
+|   |   |   |-- TCDCC5D.tmp
+|   |   |   |-- TCDCC5E.tmp
+|   |   |   |-- TCDCCF1.tmp
+|   |   |   |-- TCDCCF2.tmp
+|   |   |   |-- TCDCCF3.tmp
+|   |   |   |-- TCDCCF4.tmp
+|   |   |   |-- TCDCCF5.tmp
+|   |   |   |-- TCDCD45.tmp
+|   |   |   |-- TCDCD57.tmp
+|   |   |   |-- TCDCD58.tmp
+|   |   |   |-- TCDCDAA.tmp
+|   |   |   |-- TCDCDAB.tmp
+|   |   |   |-- TCDCDBC.tmp
+|   |   |   |-- TCDCE11.tmp
+|   |   |   |-- TCDCE12.tmp
+|   |   |   |-- TCDCE13.tmp
+|   |   |   |-- TCDCE1C.tmp
+|   |   |   |-- TCDCE34.tmp
+|   |   |   |-- TCDCE56.tmp
+|   |   |   |-- TCDCE57.tmp
+|   |   |   |-- TCDCEC7.tmp
+|   |   |   |-- TCDCF56.tmp
+|   |   |   |-- TCDCF84.tmp
+|   |   |   |-- TCDCFB6.tmp
+|   |   |   |-- TCDD016.tmp
+|   |   |   |-- TCDD14F.tmp
+|   |   |   |-- TCDD150.tmp
+|   |   |   |-- TCDD164.tmp
+|   |   |   |-- TCDD165.tmp
+|   |   |   |-- TCDD166.tmp
+|   |   |   |-- TCDD169.tmp
+|   |   |   |-- TCDD16C.tmp
+|   |   |   |-- TCDD16E.tmp
+|   |   |   |-- TCDD17E.tmp
+|   |   |   |-- TCDD17F.tmp
+|   |   |   |-- TCDD180.tmp
+|   |   |   |-- TCDD182.tmp
+|   |   |   |-- TCDD184.tmp
+|   |   |   |-- TCDD195.tmp
+|   |   |   |-- TCDD19A.tmp
+|   |   |   |-- TCDD19B.tmp
+|   |   |   |-- TCDD19C.tmp
+|   |   |   |-- TCDD19D.tmp
+|   |   |   |-- TCDD1BE.tmp
+|   |   |   |-- TCDD2CA.tmp
+|   |   |   |-- TCDD770.tmp
+|   |   |   |-- TCDD771.tmp
+|   |   |   |-- TCDD772.tmp
+|   |   |   |-- TCDD773.tmp
+|   |   |   |-- TCDD774.tmp
+|   |   |   |-- TCDD785.tmp
+|   |   |   |-- TCDD7E4.tmp
+|   |   |   |-- TCDD873.tmp
+|   |   |   |-- TCDE55D.tmp
+|   |   |   |-- TCDE55E.tmp
+|   |   |   |-- TCDE58F.tmp
+|   |   |   |-- TCDE5DF.tmp
+|   |   |   |-- TCDE600.tmp
+|   |   |   |-- TCDE660.tmp
+|   |   |   |-- TCDE682.tmp
+|   |   |   |-- TCDE683.tmp
+|   |   |   |-- TCDE6B4.tmp
+|   |   |   |-- TCDE752.tmp
+|   |   |   |-- TCDE798.tmp
+|   |   |   |-- TCDE7F1.tmp
+|   |   |   |-- TCDE7F7.tmp
+|   |   |   |-- TCDE838.tmp
+|   |   |   |-- TCDE860.tmp
+|   |   |   |-- TCDE88A.tmp
+|   |   |   |-- TCDE88B.tmp
+|   |   |   |-- TCDE89C.tmp
+|   |   |   |-- TCDE8B0.tmp
+|   |   |   |-- TCDE907.tmp
+|   |   |   |-- TCDE908.tmp
+|   |   |   |-- TCDE91C.tmp
+|   |   |   |-- TCDE91D.tmp
+|   |   |   |-- TCDE91E.tmp
+|   |   |   |-- TCDE94F.tmp
+|   |   |   |-- TCDE961.tmp
+|   |   |   |-- TCDE969.tmp
+|   |   |   |-- TCDE96E.tmp
+|   |   |   |-- TCDE991.tmp
+|   |   |   |-- TCDE9D2.tmp
+|   |   |   |-- TCDEA23.tmp
+|   |   |   |-- TCDEA43.tmp
+|   |   |   |-- TCDEA4A.tmp
+|   |   |   |-- TCDEA58.tmp
+|   |   |   |-- TCDEA59.tmp
+|   |   |   |-- TCDEA5A.tmp
+|   |   |   |-- TCDEA5B.tmp
+|   |   |   |-- TCDEA6C.tmp
+|   |   |   |-- TCDEA9C.tmp
+|   |   |   |-- TCDEACA.tmp
+|   |   |   |-- TCDEAEC.tmp
+|   |   |   |-- TCDEB6E.tmp
+|   |   |   |-- TCDEBF8.tmp
+|   |   |   |-- TCDEBF9.tmp
+|   |   |   |-- TCDEC03.tmp
+|   |   |   |-- TCDEC13.tmp
+|   |   |   |-- TCDEC27.tmp
+|   |   |   |-- TCDEC29.tmp
+|   |   |   |-- TCDEC39.tmp
+|   |   |   |-- TCDEC3A.tmp
+|   |   |   |-- TCDEC3C.tmp
+|   |   |   |-- TCDEC4E.tmp
+|   |   |   |-- TCDEC61.tmp
+|   |   |   |-- TCDEC62.tmp
+|   |   |   |-- TCDEC83.tmp
+|   |   |   |-- TCDECB4.tmp
+|   |   |   |-- TCDECC1.tmp
+|   |   |   |-- TCDECD5.tmp
+|   |   |   |-- TCDED16.tmp
+|   |   |   |-- TCDEDB4.tmp
+|   |   |   |-- TCDEE04.tmp
+|   |   |   |-- TCDEE06.tmp
+|   |   |   |-- TCDEE27.tmp
+|   |   |   |-- TCDEE68.tmp
+|   |   |   |-- TCDF0BB.tmp
+|   |   |   |-- TCDF7CA.tmp
+|   |   |   |-- TCDF7CB.tmp
+|   |   |   |-- TCDF7FC.tmp
+|   |   |   |-- TCDF88B.tmp
+|   |   |   |-- TCDF8AC.tmp
+|   |   |   |-- TCDF92B.tmp
+|   |   |   |-- TCDF9AA.tmp
+|   |   |   |-- TCDF9FA.tmp
+|   |   |   |-- TCDFA89.tmp
+|   |   |   |-- TCDFA8B.tmp
+|   |   |   |-- TCDFA9C.tmp
+|   |   |   |-- TCDFA9E.tmp
+|   |   |   |-- TCDFACF.tmp
+|   |   |   |-- TCDFAE1.tmp
+|   |   |   |-- TCDFB02.tmp
+|   |   |   |-- TCDFB72.tmp
+|   |   |   |-- TCDFB94.tmp
+|   |   |   |-- TCDFB95.tmp
+|   |   |   |-- TCDFDBA.tmp
+|   |   |   |-- VBE
+|   |   |   |-- a81b6183-6f23-4317-9184-a9b5eb7273c0.tmp
+|   |   |   |-- acrord32_sbx
+|   |   |   |-- battery-report.xml
+|   |   |   |-- bd410373-5db2-4be2-b5a9-8c1a3861433a.tmp
+|   |   |   |-- chocolatey
+|   |   |   |-- chrome_BITS_3536_1057211924
+|   |   |   |-- chrome_BITS_3536_1691726613
+|   |   |   |-- chrome_BITS_3536_321720481
+|   |   |   |-- chrome_BITS_3536_331704793
+|   |   |   |-- chrome_BITS_3536_403904183
+|   |   |   |-- chrome_BITS_3536_416345208
+|   |   |   |-- chrome_BITS_3536_446124358
+|   |   |   |-- chrome_BITS_3536_490403389
+|   |   |   |-- chrome_BITS_3536_546500828
+|   |   |   |-- chrome_BITS_3536_798511780
+|   |   |   |-- chrome_BITS_3536_942194103
+|   |   |   |-- chrome_BITS_5816_1189557346
+|   |   |   |-- chrome_BITS_5816_1373955235
+|   |   |   |-- chrome_url_fetcher_2112_145627601
+|   |   |   |-- de7eea52-1fd8-4048-8727-b400e3dd3b1b.tmp
+|   |   |   |-- e95a5b55-eb3b-4cc7-81c9-167d61afd5d0.tmp
+|   |   |   |-- edge_BITS_19832_1049458583
+|   |   |   |-- edge_BITS_19832_1561385933
+|   |   |   |-- edge_BITS_19832_1799186060
+|   |   |   |-- edge_BITS_19832_2114485821
+|   |   |   |-- edge_BITS_19832_317885892
+|   |   |   |-- edge_BITS_19832_5352914
+|   |   |   |-- msdt
+|   |   |   |-- msdtadmin
+|   |   |   |-- msohtmlclip
+|   |   |   |-- msohtmlclip1
+|   |   |   |-- netadapters.txt
+|   |   |   |-- nsb597C.tmp
+|   |   |   |-- nsg74C9.tmp
+|   |   |   |-- nsjAD5E.tmp
+|   |   |   |-- nso48B5.tmp
+|   |   |   |-- nsqDC3F.tmp
+|   |   |   |-- pyright-9116-bI4D3a11ssjO
+|   |   |   |-- python-languageserver-cancellation
+|   |   |   |-- system-commandline-sentinel-files
+|   |   |   |-- vscode-inno-updater-1738860878.log
+|   |   |   |-- vscode-inno-updater-1739437044.log
+|   |   |   |-- vscode-stable-user-x64
+|   |   |   |-- {054AE0D8-6D21-4B2E-9E0F-9B3D65638121} - OProcSessId.dat
+|   |   |   |-- {0A612568-7934-4503-9F11-D0793CD580DE}
+|   |   |   |-- {0FC1D3E5-8EAF-41FD-8F6F-FBE0C2FC166C} - OProcSessId.dat
+|   |   |   |-- {17C82FAD-A1BB-43B1-994D-1B7947BBFA5C} - OProcSessId.dat
+|   |   |   |-- {22650122-2816-4018-A5A9-246ACCF3329A} - OProcSessId.dat
+|   |   |   |-- {2678A461-642A-4012-BE5D-9CB0E47FDC8D}
+|   |   |   |-- {67BAF41D-13A5-4C75-9463-810200ACA2EA}
+|   |   |   |-- {7B07F3B1-EB15-472E-AD36-A33EDF77D64A}
+|   |   |   |-- {84BBD97A-E8A5-41A2-9928-8AED2A2F570B} - OProcSessId.dat
+|   |   |   |-- {8C0A52CB-A8AE-4769-8E49-1EEFE03FDDF8} - OProcSessId.dat
+|   |   |   |-- {AF1ABB8C-C533-472F-9B94-800E743CB087}
+|   |   |   |-- {CE6E5578-A554-4F67-93DC-81F13F7EC892} - OProcSessId.dat
+|   |   |   `-- {D8AC911B-83D6-45FA-8117-93B8A2EA275E} - OProcSessId.dat
+|   |   |-- Temporary Internet Files
+|   |   |   |-- Content.IE5
+|   |   |   |-- Content.MSO
+|   |   |   |-- Content.Word
+|   |   |   |-- IE
+|   |   |   |-- Low
+|   |   |   `-- Virtualized
+|   |   |-- VirtualStore
+|   |   |   `-- ProgramData
+|   |   |-- Zoom
+|   |   |   |-- data
+|   |   |   `-- plugin
+|   |   |-- audacity
+|   |   |   |-- SessionData
+|   |   |   `-- crashreports
+|   |   |-- outline-client-updater
+|   |   |   `-- installer.exe
+|   |   |-- speech
+|   |   |   `-- Microsoft
+|   |   `-- yandexmusic-updater
+|   |       `-- installer.exe
+|   |-- Bitvise
+|   |   `-- Updates
+|   |-- Comms
+|   |   |-- Unistore
+|   |   |   `-- data
+|   |   `-- UnistoreDB
+|   |       |-- USS.jcp
+|   |       |-- USS.jtx
+|   |       |-- USSres00001.jrs
+|   |       |-- USSres00002.jrs
+|   |       |-- USStmp.jtx
+|   |       |-- store.jfm
+|   |       `-- store.vol
+|   |-- ConnectedDevicesPlatform
+|   |   |-- CDPGlobalSettings.cdp
+|   |   |-- Connected Devices Platform certificates.sst
+|   |   |-- L.Marusya
+|   |   |   |-- ActivitiesCache.db
+|   |   |   |-- ActivitiesCache.db-shm
+|   |   |   `-- ActivitiesCache.db-wal
+|   |   |-- L.Marusya.cdp
+|   |   `-- L.Marusya.cdpresource
+|   |-- CrashDumps
+|   |   |-- Unlimited VPN Proxy - Planet VPN Installer.exe.11988.dmp
+|   |   |-- VanyaVPN.exe.1208.dmp
+|   |   |-- VanyaVPN.exe.15704.dmp
+|   |   |-- VanyaVPN.exe.1636.dmp
+|   |   |-- VanyaVPN.exe.1876.dmp
+|   |   |-- VanyaVPN.exe.2724.dmp
+|   |   |-- VanyaVPN.exe.3820.dmp
+|   |   |-- VanyaVPN.exe.4344.dmp
+|   |   |-- VanyaVPN.exe.9960.dmp
+|   |   `-- VanyaVPN.exe.9964.dmp
+|   |-- D3DSCache
+|   |   |-- 2938879384208e47
+|   |   |   |-- 6F75932F-7DFC-4FB0-B4B8-12DE1AC415DA_VEN_8086&DEV_A7A0&SUBSYS_2040&REV_4.idx
+|   |   |   |-- 6F75932F-7DFC-4FB0-B4B8-12DE1AC415DA_VEN_8086&DEV_A7A0&SUBSYS_2040&REV_4.lock
+|   |   |   |-- 6F75932F-7DFC-4FB0-B4B8-12DE1AC415DA_VEN_8086&DEV_A7A0&SUBSYS_2040&REV_4.val
+|   |   |   |-- F4EB2D6C-ED2B-4BDD-AD9D-F913287E6768.idx
+|   |   |   |-- F4EB2D6C-ED2B-4BDD-AD9D-F913287E6768.lock
+|   |   |   `-- F4EB2D6C-ED2B-4BDD-AD9D-F913287E6768.val
+|   |   |-- 2c2d6b8adf58e8db
+|   |   |   |-- 6F75932F-7DFC-4FB0-B4B8-12DE1AC415DA_VEN_8086&DEV_A7A0&SUBSYS_2040&REV_4.idx
+|   |   |   |-- 6F75932F-7DFC-4FB0-B4B8-12DE1AC415DA_VEN_8086&DEV_A7A0&SUBSYS_2040&REV_4.lock
+|   |   |   |-- 6F75932F-7DFC-4FB0-B4B8-12DE1AC415DA_VEN_8086&DEV_A7A0&SUBSYS_2040&REV_4.val
+|   |   |   |-- F4EB2D6C-ED2B-4BDD-AD9D-F913287E6768.idx
+|   |   |   |-- F4EB2D6C-ED2B-4BDD-AD9D-F913287E6768.lock
+|   |   |   `-- F4EB2D6C-ED2B-4BDD-AD9D-F913287E6768.val
+|   |   |-- 2f2b768135687cb8
+|   |   |   |-- 6F75932F-7DFC-4FB0-B4B8-12DE1AC415DA_VEN_8086&DEV_A7A0&SUBSYS_2040&REV_4.idx
+|   |   |   |-- 6F75932F-7DFC-4FB0-B4B8-12DE1AC415DA_VEN_8086&DEV_A7A0&SUBSYS_2040&REV_4.lock
+|   |   |   |-- 6F75932F-7DFC-4FB0-B4B8-12DE1AC415DA_VEN_8086&DEV_A7A0&SUBSYS_2040&REV_4.val
+|   |   |   |-- F4EB2D6C-ED2B-4BDD-AD9D-F913287E6768.idx
+|   |   |   |-- F4EB2D6C-ED2B-4BDD-AD9D-F913287E6768.lock
+|   |   |   `-- F4EB2D6C-ED2B-4BDD-AD9D-F913287E6768.val
+|   |   |-- 34e2585c5c1e6957
+|   |   |   |-- 6F75932F-7DFC-4FB0-B4B8-12DE1AC415DA_VEN_8086&DEV_A7A0&SUBSYS_2040&REV_4.idx
+|   |   |   |-- 6F75932F-7DFC-4FB0-B4B8-12DE1AC415DA_VEN_8086&DEV_A7A0&SUBSYS_2040&REV_4.lock
+|   |   |   |-- 6F75932F-7DFC-4FB0-B4B8-12DE1AC415DA_VEN_8086&DEV_A7A0&SUBSYS_2040&REV_4.val
+|   |   |   |-- F4EB2D6C-ED2B-4BDD-AD9D-F913287E6768.idx
+|   |   |   |-- F4EB2D6C-ED2B-4BDD-AD9D-F913287E6768.lock
+|   |   |   `-- F4EB2D6C-ED2B-4BDD-AD9D-F913287E6768.val
+|   |   |-- 44cb2b83af58761
+|   |   |   |-- 6F75932F-7DFC-4FB0-B4B8-12DE1AC415DA_VEN_8086&DEV_A7A0&SUBSYS_2040&REV_4.idx
+|   |   |   |-- 6F75932F-7DFC-4FB0-B4B8-12DE1AC415DA_VEN_8086&DEV_A7A0&SUBSYS_2040&REV_4.lock
+|   |   |   |-- 6F75932F-7DFC-4FB0-B4B8-12DE1AC415DA_VEN_8086&DEV_A7A0&SUBSYS_2040&REV_4.val
+|   |   |   |-- F4EB2D6C-ED2B-4BDD-AD9D-F913287E6768.idx
+|   |   |   |-- F4EB2D6C-ED2B-4BDD-AD9D-F913287E6768.lock
+|   |   |   `-- F4EB2D6C-ED2B-4BDD-AD9D-F913287E6768.val
+|   |   |-- 4c2ab23a58da3748
+|   |   |   |-- 6F75932F-7DFC-4FB0-B4B8-12DE1AC415DA_VEN_8086&DEV_A7A0&SUBSYS_2040&REV_4.idx
+|   |   |   |-- 6F75932F-7DFC-4FB0-B4B8-12DE1AC415DA_VEN_8086&DEV_A7A0&SUBSYS_2040&REV_4.lock
+|   |   |   |-- 6F75932F-7DFC-4FB0-B4B8-12DE1AC415DA_VEN_8086&DEV_A7A0&SUBSYS_2040&REV_4.val
+|   |   |   |-- F4EB2D6C-ED2B-4BDD-AD9D-F913287E6768.idx
+|   |   |   |-- F4EB2D6C-ED2B-4BDD-AD9D-F913287E6768.lock
+|   |   |   `-- F4EB2D6C-ED2B-4BDD-AD9D-F913287E6768.val
+|   |   |-- 4d3e565ff4e7221a
+|   |   |   |-- 6F75932F-7DFC-4FB0-B4B8-12DE1AC415DA_VEN_8086&DEV_A7A0&SUBSYS_2040&REV_4.idx
+|   |   |   |-- 6F75932F-7DFC-4FB0-B4B8-12DE1AC415DA_VEN_8086&DEV_A7A0&SUBSYS_2040&REV_4.lock
+|   |   |   |-- 6F75932F-7DFC-4FB0-B4B8-12DE1AC415DA_VEN_8086&DEV_A7A0&SUBSYS_2040&REV_4.val
+|   |   |   |-- F4EB2D6C-ED2B-4BDD-AD9D-F913287E6768.idx
+|   |   |   |-- F4EB2D6C-ED2B-4BDD-AD9D-F913287E6768.lock
+|   |   |   `-- F4EB2D6C-ED2B-4BDD-AD9D-F913287E6768.val
+|   |   |-- 67f0fbba5ee8065b
+|   |   |   |-- 6F75932F-7DFC-4FB0-B4B8-12DE1AC415DA_VEN_8086&DEV_A7A0&SUBSYS_2040&REV_4.idx
+|   |   |   |-- 6F75932F-7DFC-4FB0-B4B8-12DE1AC415DA_VEN_8086&DEV_A7A0&SUBSYS_2040&REV_4.lock
+|   |   |   |-- 6F75932F-7DFC-4FB0-B4B8-12DE1AC415DA_VEN_8086&DEV_A7A0&SUBSYS_2040&REV_4.val
+|   |   |   |-- F4EB2D6C-ED2B-4BDD-AD9D-F913287E6768.idx
+|   |   |   |-- F4EB2D6C-ED2B-4BDD-AD9D-F913287E6768.lock
+|   |   |   `-- F4EB2D6C-ED2B-4BDD-AD9D-F913287E6768.val
+|   |   |-- 778304e98e7c76f3
+|   |   |   |-- 6F75932F-7DFC-4FB0-B4B8-12DE1AC415DA_VEN_8086&DEV_A7A0&SUBSYS_2040&REV_4.idx
+|   |   |   |-- 6F75932F-7DFC-4FB0-B4B8-12DE1AC415DA_VEN_8086&DEV_A7A0&SUBSYS_2040&REV_4.lock
+|   |   |   |-- 6F75932F-7DFC-4FB0-B4B8-12DE1AC415DA_VEN_8086&DEV_A7A0&SUBSYS_2040&REV_4.val
+|   |   |   |-- F4EB2D6C-ED2B-4BDD-AD9D-F913287E6768.idx
+|   |   |   |-- F4EB2D6C-ED2B-4BDD-AD9D-F913287E6768.lock
+|   |   |   `-- F4EB2D6C-ED2B-4BDD-AD9D-F913287E6768.val
+|   |   |-- 79488f6db1539bc7
+|   |   |   |-- 6F75932F-7DFC-4FB0-B4B8-12DE1AC415DA_VEN_8086&DEV_A7A0&SUBSYS_2040&REV_4.idx
+|   |   |   |-- 6F75932F-7DFC-4FB0-B4B8-12DE1AC415DA_VEN_8086&DEV_A7A0&SUBSYS_2040&REV_4.lock
+|   |   |   |-- 6F75932F-7DFC-4FB0-B4B8-12DE1AC415DA_VEN_8086&DEV_A7A0&SUBSYS_2040&REV_4.val
+|   |   |   |-- F4EB2D6C-ED2B-4BDD-AD9D-F913287E6768.idx
+|   |   |   |-- F4EB2D6C-ED2B-4BDD-AD9D-F913287E6768.lock
+|   |   |   `-- F4EB2D6C-ED2B-4BDD-AD9D-F913287E6768.val
+|   |   |-- 8d679f48c2e0a7b2
+|   |   |   |-- 6F75932F-7DFC-4FB0-B4B8-12DE1AC415DA_VEN_8086&DEV_A7A0&SUBSYS_2040&REV_4.idx
+|   |   |   |-- 6F75932F-7DFC-4FB0-B4B8-12DE1AC415DA_VEN_8086&DEV_A7A0&SUBSYS_2040&REV_4.lock
+|   |   |   |-- 6F75932F-7DFC-4FB0-B4B8-12DE1AC415DA_VEN_8086&DEV_A7A0&SUBSYS_2040&REV_4.val
+|   |   |   |-- F4EB2D6C-ED2B-4BDD-AD9D-F913287E6768.idx
+|   |   |   |-- F4EB2D6C-ED2B-4BDD-AD9D-F913287E6768.lock
+|   |   |   `-- F4EB2D6C-ED2B-4BDD-AD9D-F913287E6768.val
+|   |   |-- 95ac3fd4d295f14d
+|   |   |   |-- 6F75932F-7DFC-4FB0-B4B8-12DE1AC415DA_VEN_8086&DEV_A7A0&SUBSYS_2040&REV_4.idx
+|   |   |   |-- 6F75932F-7DFC-4FB0-B4B8-12DE1AC415DA_VEN_8086&DEV_A7A0&SUBSYS_2040&REV_4.lock
+|   |   |   |-- 6F75932F-7DFC-4FB0-B4B8-12DE1AC415DA_VEN_8086&DEV_A7A0&SUBSYS_2040&REV_4.val
+|   |   |   |-- F4EB2D6C-ED2B-4BDD-AD9D-F913287E6768.idx
+|   |   |   |-- F4EB2D6C-ED2B-4BDD-AD9D-F913287E6768.lock
+|   |   |   `-- F4EB2D6C-ED2B-4BDD-AD9D-F913287E6768.val
+|   |   |-- 9b61e292144574c
+|   |   |   |-- 6F75932F-7DFC-4FB0-B4B8-12DE1AC415DA_VEN_8086&DEV_A7A0&SUBSYS_2040&REV_4.idx
+|   |   |   |-- 6F75932F-7DFC-4FB0-B4B8-12DE1AC415DA_VEN_8086&DEV_A7A0&SUBSYS_2040&REV_4.lock
+|   |   |   |-- 6F75932F-7DFC-4FB0-B4B8-12DE1AC415DA_VEN_8086&DEV_A7A0&SUBSYS_2040&REV_4.val
+|   |   |   |-- F4EB2D6C-ED2B-4BDD-AD9D-F913287E6768.idx
+|   |   |   |-- F4EB2D6C-ED2B-4BDD-AD9D-F913287E6768.lock
+|   |   |   `-- F4EB2D6C-ED2B-4BDD-AD9D-F913287E6768.val
+|   |   |-- a73b75d6d320095d
+|   |   |   |-- 6F75932F-7DFC-4FB0-B4B8-12DE1AC415DA_VEN_8086&DEV_A7A0&SUBSYS_2040&REV_4.idx
+|   |   |   |-- 6F75932F-7DFC-4FB0-B4B8-12DE1AC415DA_VEN_8086&DEV_A7A0&SUBSYS_2040&REV_4.lock
+|   |   |   |-- 6F75932F-7DFC-4FB0-B4B8-12DE1AC415DA_VEN_8086&DEV_A7A0&SUBSYS_2040&REV_4.val
+|   |   |   |-- F4EB2D6C-ED2B-4BDD-AD9D-F913287E6768.idx
+|   |   |   |-- F4EB2D6C-ED2B-4BDD-AD9D-F913287E6768.lock
+|   |   |   `-- F4EB2D6C-ED2B-4BDD-AD9D-F913287E6768.val
+|   |   |-- aab3c3e1c00c44d
+|   |   |   |-- 6F75932F-7DFC-4FB0-B4B8-12DE1AC415DA_VEN_8086&DEV_A7A0&SUBSYS_2040&REV_4.idx
+|   |   |   |-- 6F75932F-7DFC-4FB0-B4B8-12DE1AC415DA_VEN_8086&DEV_A7A0&SUBSYS_2040&REV_4.lock
+|   |   |   |-- 6F75932F-7DFC-4FB0-B4B8-12DE1AC415DA_VEN_8086&DEV_A7A0&SUBSYS_2040&REV_4.val
+|   |   |   |-- F4EB2D6C-ED2B-4BDD-AD9D-F913287E6768.idx
+|   |   |   |-- F4EB2D6C-ED2B-4BDD-AD9D-F913287E6768.lock
+|   |   |   `-- F4EB2D6C-ED2B-4BDD-AD9D-F913287E6768.val
+|   |   |-- ab326b5a64fa2db7
+|   |   |   |-- 6F75932F-7DFC-4FB0-B4B8-12DE1AC415DA_VEN_8086&DEV_A7A0&SUBSYS_2040&REV_4.idx
+|   |   |   |-- 6F75932F-7DFC-4FB0-B4B8-12DE1AC415DA_VEN_8086&DEV_A7A0&SUBSYS_2040&REV_4.lock
+|   |   |   |-- 6F75932F-7DFC-4FB0-B4B8-12DE1AC415DA_VEN_8086&DEV_A7A0&SUBSYS_2040&REV_4.val
+|   |   |   |-- F4EB2D6C-ED2B-4BDD-AD9D-F913287E6768.idx
+|   |   |   |-- F4EB2D6C-ED2B-4BDD-AD9D-F913287E6768.lock
+|   |   |   `-- F4EB2D6C-ED2B-4BDD-AD9D-F913287E6768.val
+|   |   |-- ab818f96a53f7d14
+|   |   |   |-- 6F75932F-7DFC-4FB0-B4B8-12DE1AC415DA_VEN_8086&DEV_A7A0&SUBSYS_2040&REV_4.idx
+|   |   |   |-- 6F75932F-7DFC-4FB0-B4B8-12DE1AC415DA_VEN_8086&DEV_A7A0&SUBSYS_2040&REV_4.lock
+|   |   |   |-- 6F75932F-7DFC-4FB0-B4B8-12DE1AC415DA_VEN_8086&DEV_A7A0&SUBSYS_2040&REV_4.val
+|   |   |   |-- F4EB2D6C-ED2B-4BDD-AD9D-F913287E6768.idx
+|   |   |   |-- F4EB2D6C-ED2B-4BDD-AD9D-F913287E6768.lock
+|   |   |   `-- F4EB2D6C-ED2B-4BDD-AD9D-F913287E6768.val
+|   |   |-- bf5365afdeda0910
+|   |   |   |-- 6F75932F-7DFC-4FB0-B4B8-12DE1AC415DA_VEN_8086&DEV_A7A0&SUBSYS_2040&REV_4.idx
+|   |   |   |-- 6F75932F-7DFC-4FB0-B4B8-12DE1AC415DA_VEN_8086&DEV_A7A0&SUBSYS_2040&REV_4.lock
+|   |   |   |-- 6F75932F-7DFC-4FB0-B4B8-12DE1AC415DA_VEN_8086&DEV_A7A0&SUBSYS_2040&REV_4.val
+|   |   |   |-- F4EB2D6C-ED2B-4BDD-AD9D-F913287E6768.idx
+|   |   |   |-- F4EB2D6C-ED2B-4BDD-AD9D-F913287E6768.lock
+|   |   |   `-- F4EB2D6C-ED2B-4BDD-AD9D-F913287E6768.val
+|   |   |-- c32ce2859c8fdaf9
+|   |   |   |-- 6F75932F-7DFC-4FB0-B4B8-12DE1AC415DA_VEN_8086&DEV_A7A0&SUBSYS_2040&REV_4.idx
+|   |   |   |-- 6F75932F-7DFC-4FB0-B4B8-12DE1AC415DA_VEN_8086&DEV_A7A0&SUBSYS_2040&REV_4.lock
+|   |   |   |-- 6F75932F-7DFC-4FB0-B4B8-12DE1AC415DA_VEN_8086&DEV_A7A0&SUBSYS_2040&REV_4.val
+|   |   |   |-- F4EB2D6C-ED2B-4BDD-AD9D-F913287E6768.idx
+|   |   |   |-- F4EB2D6C-ED2B-4BDD-AD9D-F913287E6768.lock
+|   |   |   `-- F4EB2D6C-ED2B-4BDD-AD9D-F913287E6768.val
+|   |   |-- c9615d1bc17be533
+|   |   |   |-- 6F75932F-7DFC-4FB0-B4B8-12DE1AC415DA_VEN_8086&DEV_A7A0&SUBSYS_2040&REV_4.idx
+|   |   |   |-- 6F75932F-7DFC-4FB0-B4B8-12DE1AC415DA_VEN_8086&DEV_A7A0&SUBSYS_2040&REV_4.lock
+|   |   |   |-- 6F75932F-7DFC-4FB0-B4B8-12DE1AC415DA_VEN_8086&DEV_A7A0&SUBSYS_2040&REV_4.val
+|   |   |   |-- F4EB2D6C-ED2B-4BDD-AD9D-F913287E6768.idx
+|   |   |   |-- F4EB2D6C-ED2B-4BDD-AD9D-F913287E6768.lock
+|   |   |   `-- F4EB2D6C-ED2B-4BDD-AD9D-F913287E6768.val
+|   |   |-- cb00da9ba77862e
+|   |   |   |-- 6F75932F-7DFC-4FB0-B4B8-12DE1AC415DA_VEN_8086&DEV_A7A0&SUBSYS_2040&REV_4.idx
+|   |   |   |-- 6F75932F-7DFC-4FB0-B4B8-12DE1AC415DA_VEN_8086&DEV_A7A0&SUBSYS_2040&REV_4.lock
+|   |   |   |-- 6F75932F-7DFC-4FB0-B4B8-12DE1AC415DA_VEN_8086&DEV_A7A0&SUBSYS_2040&REV_4.val
+|   |   |   |-- F4EB2D6C-ED2B-4BDD-AD9D-F913287E6768.idx
+|   |   |   |-- F4EB2D6C-ED2B-4BDD-AD9D-F913287E6768.lock
+|   |   |   `-- F4EB2D6C-ED2B-4BDD-AD9D-F913287E6768.val
+|   |   |-- e8010882af4f153f
+|   |   |   |-- 6F75932F-7DFC-4FB0-B4B8-12DE1AC415DA_VEN_8086&DEV_A7A0&SUBSYS_2040&REV_4.idx
+|   |   |   |-- 6F75932F-7DFC-4FB0-B4B8-12DE1AC415DA_VEN_8086&DEV_A7A0&SUBSYS_2040&REV_4.lock
+|   |   |   |-- 6F75932F-7DFC-4FB0-B4B8-12DE1AC415DA_VEN_8086&DEV_A7A0&SUBSYS_2040&REV_4.val
+|   |   |   |-- F4EB2D6C-ED2B-4BDD-AD9D-F913287E6768.idx
+|   |   |   |-- F4EB2D6C-ED2B-4BDD-AD9D-F913287E6768.lock
+|   |   |   `-- F4EB2D6C-ED2B-4BDD-AD9D-F913287E6768.val
+|   |   |-- e885543310c8ef56
+|   |   |   |-- 6F75932F-7DFC-4FB0-B4B8-12DE1AC415DA_VEN_8086&DEV_A7A0&SUBSYS_2040&REV_4.idx
+|   |   |   |-- 6F75932F-7DFC-4FB0-B4B8-12DE1AC415DA_VEN_8086&DEV_A7A0&SUBSYS_2040&REV_4.lock
+|   |   |   |-- 6F75932F-7DFC-4FB0-B4B8-12DE1AC415DA_VEN_8086&DEV_A7A0&SUBSYS_2040&REV_4.val
+|   |   |   |-- F4EB2D6C-ED2B-4BDD-AD9D-F913287E6768.idx
+|   |   |   |-- F4EB2D6C-ED2B-4BDD-AD9D-F913287E6768.lock
+|   |   |   `-- F4EB2D6C-ED2B-4BDD-AD9D-F913287E6768.val
+|   |   |-- e922486ffb18056f
+|   |   |   |-- 6F75932F-7DFC-4FB0-B4B8-12DE1AC415DA_VEN_8086&DEV_A7A0&SUBSYS_2040&REV_4.idx
+|   |   |   |-- 6F75932F-7DFC-4FB0-B4B8-12DE1AC415DA_VEN_8086&DEV_A7A0&SUBSYS_2040&REV_4.lock
+|   |   |   |-- 6F75932F-7DFC-4FB0-B4B8-12DE1AC415DA_VEN_8086&DEV_A7A0&SUBSYS_2040&REV_4.val
+|   |   |   |-- F4EB2D6C-ED2B-4BDD-AD9D-F913287E6768.idx
+|   |   |   |-- F4EB2D6C-ED2B-4BDD-AD9D-F913287E6768.lock
+|   |   |   `-- F4EB2D6C-ED2B-4BDD-AD9D-F913287E6768.val
+|   |   |-- e9cd951dd8114293
+|   |   |   |-- 6F75932F-7DFC-4FB0-B4B8-12DE1AC415DA_VEN_8086&DEV_A7A0&SUBSYS_2040&REV_4.idx
+|   |   |   |-- 6F75932F-7DFC-4FB0-B4B8-12DE1AC415DA_VEN_8086&DEV_A7A0&SUBSYS_2040&REV_4.lock
+|   |   |   |-- 6F75932F-7DFC-4FB0-B4B8-12DE1AC415DA_VEN_8086&DEV_A7A0&SUBSYS_2040&REV_4.val
+|   |   |   |-- F4EB2D6C-ED2B-4BDD-AD9D-F913287E6768.idx
+|   |   |   |-- F4EB2D6C-ED2B-4BDD-AD9D-F913287E6768.lock
+|   |   |   `-- F4EB2D6C-ED2B-4BDD-AD9D-F913287E6768.val
+|   |   |-- ecbf0d5a3a180bb
+|   |   |   |-- 6F75932F-7DFC-4FB0-B4B8-12DE1AC415DA_VEN_8086&DEV_A7A0&SUBSYS_2040&REV_4.idx
+|   |   |   |-- 6F75932F-7DFC-4FB0-B4B8-12DE1AC415DA_VEN_8086&DEV_A7A0&SUBSYS_2040&REV_4.lock
+|   |   |   |-- 6F75932F-7DFC-4FB0-B4B8-12DE1AC415DA_VEN_8086&DEV_A7A0&SUBSYS_2040&REV_4.val
+|   |   |   |-- F4EB2D6C-ED2B-4BDD-AD9D-F913287E6768.idx
+|   |   |   |-- F4EB2D6C-ED2B-4BDD-AD9D-F913287E6768.lock
+|   |   |   `-- F4EB2D6C-ED2B-4BDD-AD9D-F913287E6768.val
+|   |   `-- f4d41c5d09ae781
+|   |       |-- 6F75932F-7DFC-4FB0-B4B8-12DE1AC415DA_VEN_8086&DEV_A7A0&SUBSYS_2040&REV_4.idx
+|   |       |-- 6F75932F-7DFC-4FB0-B4B8-12DE1AC415DA_VEN_8086&DEV_A7A0&SUBSYS_2040&REV_4.lock
+|   |       |-- 6F75932F-7DFC-4FB0-B4B8-12DE1AC415DA_VEN_8086&DEV_A7A0&SUBSYS_2040&REV_4.val
+|   |       |-- F4EB2D6C-ED2B-4BDD-AD9D-F913287E6768.idx
+|   |       |-- F4EB2D6C-ED2B-4BDD-AD9D-F913287E6768.lock
+|   |       `-- F4EB2D6C-ED2B-4BDD-AD9D-F913287E6768.val
+|   |-- Diagnostics
+|   |   `-- 460911090
+|   |       |-- 2025010510.000
+|   |       `-- latest.cab
+|   |-- Discord
+|   |   |-- Discord_updater_rCURRENT.log
+|   |   |-- SquirrelSetup.log
+|   |   |-- Update.exe
+|   |   |-- app-1.0.9157
+|   |   |   |-- Discord.exe
+|   |   |   |-- Discord.exe.sig
+|   |   |   |-- app.ico
+|   |   |   |-- chrome_100_percent.pak
+|   |   |   |-- chrome_200_percent.pak
+|   |   |   |-- d3dcompiler_47.dll
+|   |   |   |-- ffmpeg.dll
+|   |   |   |-- icudtl.dat
+|   |   |   |-- libEGL.dll
+|   |   |   |-- libGLESv2.dll
+|   |   |   |-- locales
+|   |   |   |-- modules
+|   |   |   |-- resources
+|   |   |   |-- resources.pak
+|   |   |   |-- snapshot_blob.bin
+|   |   |   |-- updater.node
+|   |   |   |-- v8_context_snapshot.bin
+|   |   |   |-- vk_swiftshader.dll
+|   |   |   |-- vk_swiftshader_icd.json
+|   |   |   `-- vulkan-1.dll
+|   |   |-- app.ico
+|   |   |-- installer.db
+|   |   `-- packages
+|   |       |-- Discord-1.0.9157-full.nupkg
+|   |       |-- RELEASES
+|   |       `-- SquirrelTemp
+|   |-- ElevatedDiagnostics
+|   |   |-- 2550435360
+|   |   |   |-- 2025020415.000
+|   |   |   |-- 2025020415.001
+|   |   |   |-- 2025021014.000
+|   |   |   |-- 2025021108.000
+|   |   |   |-- 2025021108.001
+|   |   |   |-- 2025021808.000
+|   |   |   `-- latest.cab
+|   |   |-- 3193891667
+|   |   |   |-- 2024090810.000
+|   |   |   |-- 2024090810.001
+|   |   |   |-- 2025020415.000
+|   |   |   |-- 2025020415.001
+|   |   |   |-- 2025020415.002
+|   |   |   |-- 2025021014.000
+|   |   |   |-- 2025021108.000
+|   |   |   |-- 2025021108.001
+|   |   |   |-- 2025021808.000
+|   |   |   `-- latest.cab
+|   |   `-- 3493975886
+|   |       |-- 2024122921.000
+|   |       `-- latest.cab
+|   |-- FastStone
+|   |   `-- FSIV
+|   |       |-- FSIV.db
+|   |       |-- FSSettings.db
+|   |       |-- FSViewerWallPaper.png
+|   |       `-- HisFolderList.db
+|   |-- GitHubDesktop
+|   |   |-- GitHubDesktop.exe
+|   |   |-- Squirrel-CheckForUpdate.log
+|   |   |-- Squirrel-Shortcut.log
+|   |   |-- Update.exe
+|   |   |-- app-3.4.6
+|   |   |   |-- GitHubDesktop.exe
+|   |   |   |-- LICENSE
+|   |   |   |-- Squirrel-UpdateSelf.log
+|   |   |   |-- chrome_100_percent.pak
+|   |   |   |-- chrome_200_percent.pak
+|   |   |   |-- d3dcompiler_47.dll
+|   |   |   |-- ffmpeg.dll
+|   |   |   |-- icudtl.dat
+|   |   |   |-- libEGL.dll
+|   |   |   |-- libGLESv2.dll
+|   |   |   |-- locales
+|   |   |   |-- resources
+|   |   |   |-- resources.pak
+|   |   |   |-- snapshot_blob.bin
+|   |   |   |-- squirrel.exe
+|   |   |   |-- v8_context_snapshot.bin
+|   |   |   |-- vk_swiftshader.dll
+|   |   |   |-- vk_swiftshader_icd.json
+|   |   |   `-- vulkan-1.dll
+|   |   |-- app.ico
+|   |   |-- bin
+|   |   |   |-- github
+|   |   |   `-- github.bat
+|   |   `-- packages
+|   |       |-- GitHubDesktop-3.4.6-full.nupkg
+|   |       |-- RELEASES
+|   |       `-- SquirrelTemp
+|   |-- Google
+|   |   `-- Chrome
+|   |       `-- User Data
+|   |-- History
+|   |   |-- History.IE5
+|   |   |   |-- MSHist012025012720250203
+|   |   |   |-- MSHist012025020320250210
+|   |   |   |-- MSHist012025021020250217
+|   |   |   |-- MSHist012025021720250218
+|   |   |   |-- MSHist012025021820250219
+|   |   |   `-- container.dat
+|   |   |-- Low
+|   |   |   `-- History.IE5
+|   |   `-- desktop.ini
+|   |-- IconCache.db
+|   |-- MSfree Inc
+|   |   `-- kmsauto.ini
+|   |-- Microsoft
+|   |   |-- Credentials
+|   |   |   |-- 37119E49A725CC10C92BBB1992B8EAEE
+|   |   |   `-- DFBE70A7E5CC19A398EBF1B96859CE5D
+|   |   |-- EDP
+|   |   |   `-- Recovery
+|   |   |-- Edge
+|   |   |   `-- User Data
+|   |   |-- Event Viewer
+|   |   |-- Feeds
+|   |   |-- Feeds Cache
+|   |   |-- FontCache
+|   |   |   `-- 4
+|   |   |-- GameDVR
+|   |   |   `-- KnownGameList.bin
+|   |   |-- InputPersonalization
+|   |   |   `-- TrainedDataStore
+|   |   |-- Internet Explorer
+|   |   |   |-- CacheStorage
+|   |   |   |-- DOMStore
+|   |   |   |-- IECompatData
+|   |   |   |-- MSIMGSIZ.DAT
+|   |   |   |-- TabRoaming
+|   |   |   |-- Tracking Protection
+|   |   |   |-- brndlog.bak
+|   |   |   |-- brndlog.txt
+|   |   |   |-- ie4uinit-ClearIconCache.log
+|   |   |   |-- ie4uinit-UserConfig.log
+|   |   |   `-- imagestore
+|   |   |-- Media Player
+|   |   |   |-- CurrentDatabase_400.wmdb
+|   |   |   |-- LocalMLS_3.wmdb
+|   |   |   `-- Sync Playlists
+|   |   |-- NetTraces
+|   |   |-- Office
+|   |   |   |-- 16.0
+|   |   |   |-- FeatureFlags
+|   |   |   |-- OTele
+|   |   |   `-- UnsavedFiles
+|   |   |-- PenWorkspace
+|   |   |   `-- DiscoverCacheData.dat
+|   |   |-- PlayReady
+|   |   |   `-- Internet Explorer
+|   |   |-- TokenBroker
+|   |   |   `-- Cache
+|   |   |-- Vault
+|   |   |   |-- 4BF4C442-9B8A-41A0-B380-DD4A704DDB28
+|   |   |   `-- UserProfileRoaming
+|   |   |-- Windows
+|   |   |   |-- 0
+|   |   |   |-- 1024
+|   |   |   |-- 1049
+|   |   |   |-- ActionCenterCache
+|   |   |   |-- AppCache
+|   |   |   |-- Application Shortcuts
+|   |   |   |-- Burn
+|   |   |   |-- Caches
+|   |   |   |-- CloudStore
+|   |   |   |-- Explorer
+|   |   |   |-- Fonts
+|   |   |   |-- GameExplorer
+|   |   |   |-- History
+|   |   |   |-- IECompatCache
+|   |   |   |-- IECompatUaCache
+|   |   |   |-- INetCache
+|   |   |   |-- INetCookies
+|   |   |   |-- Notifications
+|   |   |   |-- PPBCompatCache
+|   |   |   |-- PPBCompatUaCache
+|   |   |   |-- PowerShell
+|   |   |   |-- Ringtones
+|   |   |   |-- RoamingTiles
+|   |   |   |-- Shell
+|   |   |   |-- Temporary Internet Files
+|   |   |   |-- Themes
+|   |   |   |-- UsrClass.dat
+|   |   |   |-- UsrClass.dat.LOG1
+|   |   |   |-- UsrClass.dat.LOG2
+|   |   |   |-- UsrClass.dat{7c2ad125-525a-11ef-b76a-cec4aace138a}.TM.blf
+|   |   |   |-- UsrClass.dat{7c2ad125-525a-11ef-b76a-cec4aace138a}.TMContainer00000000000000000001.regtrans-ms
+|   |   |   |-- UsrClass.dat{7c2ad125-525a-11ef-b76a-cec4aace138a}.TMContainer00000000000000000002.regtrans-ms
+|   |   |   |-- WebCache
+|   |   |   |-- WebCacheLock.dat
+|   |   |   `-- WinX
+|   |   |-- Windows Media
+|   |   |   `-- 12.0
+|   |   |-- Windows Sidebar
+|   |   |   |-- Gadgets
+|   |   |   `-- settings.ini
+|   |   |-- WindowsApps
+|   |   |   |-- Backup
+|   |   |   |-- FreeVPNPlanet.PlanetVPN_b2qrq2z57ppd2
+|   |   |   `-- PlanetVPN.exe
+|   |   |-- fluency
+|   |   |   `-- lm
+|   |   `-- input
+|   |       |-- af-ZA
+|   |       |-- ar-AE
+|   |       |-- ar-BH
+|   |       |-- ar-DZ
+|   |       |-- ar-EG
+|   |       |-- ar-IQ
+|   |       |-- ar-JO
+|   |       |-- ar-KW
+|   |       |-- ar-LB
+|   |       |-- ar-LY
+|   |       |-- ar-MA
+|   |       |-- ar-OM
+|   |       |-- ar-QA
+|   |       |-- ar-SA
+|   |       |-- ar-SY
+|   |       |-- ar-TN
+|   |       |-- ar-YE
+|   |       |-- az-Latn-AZ
+|   |       |-- bg-BG
+|   |       |-- bn-BD
+|   |       |-- ca-ES
+|   |       |-- cs-CZ
+|   |       |-- da-DK
+|   |       |-- de-AT
+|   |       |-- de-CH
+|   |       |-- de-DE
+|   |       |-- de-LI
+|   |       |-- de-LU
+|   |       |-- el-GR
+|   |       |-- en-029
+|   |       |-- en-AU
+|   |       |-- en-BZ
+|   |       |-- en-CA
+|   |       |-- en-GB
+|   |       |-- en-HK
+|   |       |-- en-ID
+|   |       |-- en-IE
+|   |       |-- en-IN
+|   |       |-- en-JM
+|   |       |-- en-MY
+|   |       |-- en-NZ
+|   |       |-- en-SG
+|   |       |-- en-TT
+|   |       |-- en-US
+|   |       |-- en-ZA
+|   |       |-- en-ZW
+|   |       |-- es-419
+|   |       |-- es-AR
+|   |       |-- es-BO
+|   |       |-- es-CL
+|   |       |-- es-CO
+|   |       |-- es-CR
+|   |       |-- es-DO
+|   |       |-- es-EC
+|   |       |-- es-ES
+|   |       |-- es-GT
+|   |       |-- es-HN
+|   |       |-- es-MX
+|   |       |-- es-NI
+|   |       |-- es-PA
+|   |       |-- es-PE
+|   |       |-- es-PR
+|   |       |-- es-PY
+|   |       |-- es-SV
+|   |       |-- es-US
+|   |       |-- es-UY
+|   |       |-- es-VE
+|   |       |-- et-EE
+|   |       |-- eu-ES
+|   |       |-- fa-IR
+|   |       |-- fi-FI
+|   |       |-- fr-029
+|   |       |-- fr-BE
+|   |       |-- fr-CA
+|   |       |-- fr-CD
+|   |       |-- fr-CH
+|   |       |-- fr-CI
+|   |       |-- fr-CM
+|   |       |-- fr-FR
+|   |       |-- fr-HT
+|   |       |-- fr-LU
+|   |       |-- fr-MA
+|   |       |-- fr-MC
+|   |       |-- fr-ML
+|   |       |-- fr-RE
+|   |       |-- fr-SN
+|   |       |-- gl-ES
+|   |       |-- ha-Latn-NG
+|   |       |-- he-IL
+|   |       |-- hi-IN
+|   |       |-- hr-BA
+|   |       |-- hr-HR
+|   |       |-- hu-HU
+|   |       |-- hy-AM
+|   |       |-- id-ID
+|   |       |-- it-CH
+|   |       |-- it-IT
+|   |       |-- ka-GE
+|   |       |-- kk-KZ
+|   |       |-- lt-LT
+|   |       |-- lv-LV
+|   |       |-- mk-MK
+|   |       |-- ms-BN
+|   |       |-- ms-MY
+|   |       |-- nb-NO
+|   |       |-- nl-BE
+|   |       |-- nl-NL
+|   |       |-- pl-PL
+|   |       |-- pt-BR
+|   |       |-- pt-PT
+|   |       |-- ro-MD
+|   |       |-- ro-RO
+|   |       |-- ru-RU
+|   |       |-- sk-SK
+|   |       |-- sl-SI
+|   |       |-- sq-AL
+|   |       |-- sr-Cyrl-BA
+|   |       |-- sr-Cyrl-ME
+|   |       |-- sr-Cyrl-RS
+|   |       |-- sr-Latn-BA
+|   |       |-- sr-Latn-ME
+|   |       |-- sr-Latn-RS
+|   |       |-- sv-FI
+|   |       |-- sv-SE
+|   |       |-- tr-TR
+|   |       |-- uk-UA
+|   |       `-- uz-Latn-UZ
+|   |-- Microsoft Help
+|   |-- Muse Hub
+|   |   |-- lib
+|   |   |   `-- protLib.dll
+|   |   `-- settings.json
+|   |-- MuseSampler
+|   |-- NBClipboard
+|   |   |-- Clipboard
+|   |   |   |-- 20241016000034910_0.png
+|   |   |   |-- 20241016000034912_1.jpg
+|   |   |   |-- 20241113164521241_0.jpg
+|   |   |   |-- 20241113164521250_1.jpg
+|   |   |   |-- 20241203233729395_0.png
+|   |   |   |-- 20241203233729397_1.png
+|   |   |   |-- 20241205184414773_0.png
+|   |   |   `-- 20241205184414775_1.png
+|   |   `-- NaturalBase
+|   |       |-- naturalbase_224480205.db
+|   |       |-- naturalbase_224480205.db-shm
+|   |       `-- naturalbase_224480205.db-wal
+|   |-- Nahimic
+|   |   `-- ns-sentry-db
+|   |       |-- 0eeca0ce-8333-42bb-d126-0b89c7148d5c.run
+|   |       `-- 0eeca0ce-8333-42bb-d126-0b89c7148d5c.run.lock
+|   |-- NhNotifSys
+|   |   `-- nahimic
+|   |       |-- DarkIcon.ico
+|   |       |-- NhNotifSys.dll
+|   |       |-- a_heartbeat
+|   |       |-- a_queue
+|   |       |-- nahimicNotifSys.exe
+|   |       |-- zh-hans
+|   |       `-- zh-hant
+|   |-- Packages
+|   |   |-- 1527c705-839a-4832-9118-54d4Bd6a0c89_cw5n1h2txyewy
+|   |   |   |-- AC
+|   |   |   |-- AppData
+|   |   |   |-- LocalCache
+|   |   |   |-- LocalState
+|   |   |   |-- RoamingState
+|   |   |   |-- Settings
+|   |   |   |-- SystemAppData
+|   |   |   `-- TempState
+|   |   |-- 5319275A.WhatsAppDesktop_cv1g1gvanyjgm
+|   |   |   |-- AC
+|   |   |   |-- AppData
+|   |   |   |-- LocalCache
+|   |   |   |-- LocalState
+|   |   |   |-- RoamingState
+|   |   |   |-- Settings
+|   |   |   |-- SystemAppData
+|   |   |   `-- TempState
+|   |   |-- A-Volute.Nahimic_w2gh52qy24etm
+|   |   |   |-- AC
+|   |   |   |-- AppData
+|   |   |   |-- LocalCache
+|   |   |   |-- LocalState
+|   |   |   |-- RoamingState
+|   |   |   |-- Settings
+|   |   |   |-- SystemAppData
+|   |   |   `-- TempState
+|   |   |-- ActiveSync
+|   |   |   `-- LocalState
+|   |   |-- AppUp.IntelGraphicsExperience_8j3eq9eme6ctt
+|   |   |   |-- AC
+|   |   |   |-- AppData
+|   |   |   |-- LocalCache
+|   |   |   |-- LocalState
+|   |   |   |-- RoamingState
+|   |   |   |-- Settings
+|   |   |   |-- SystemAppData
+|   |   |   `-- TempState
+|   |   |-- E2A4F912-2574-4A75-9BB0-0D023378592B_cw5n1h2txyewy
+|   |   |   |-- AC
+|   |   |   |-- AppData
+|   |   |   |-- LocalCache
+|   |   |   |-- LocalState
+|   |   |   |-- RoamingState
+|   |   |   |-- Settings
+|   |   |   |-- SystemAppData
+|   |   |   `-- TempState
+|   |   |-- F46D4000-FD22-4DB4-AC8E-4E1DDDE828FE_cw5n1h2txyewy
+|   |   |   |-- AC
+|   |   |   |-- AppData
+|   |   |   |-- LocalCache
+|   |   |   |-- LocalState
+|   |   |   |-- RoamingState
+|   |   |   |-- Settings
+|   |   |   |-- SystemAppData
+|   |   |   `-- TempState
+|   |   |-- FreeVPNPlanet.PlanetVPN_b2qrq2z57ppd2
+|   |   |   |-- AC
+|   |   |   |-- AppData
+|   |   |   |-- LocalCache
+|   |   |   |-- LocalState
+|   |   |   |-- RoamingState
+|   |   |   |-- Settings
+|   |   |   |-- SystemAppData
+|   |   |   `-- TempState
+|   |   |-- Microsoft.AAD.BrokerPlugin_cw5n1h2txyewy
+|   |   |   |-- AC
+|   |   |   |-- AppData
+|   |   |   |-- LocalCache
+|   |   |   |-- LocalState
+|   |   |   |-- RoamingState
+|   |   |   |-- Settings
+|   |   |   |-- SystemAppData
+|   |   |   `-- TempState
+|   |   |-- Microsoft.AccountsControl_cw5n1h2txyewy
+|   |   |   |-- AC
+|   |   |   |-- AppData
+|   |   |   |-- LocalCache
+|   |   |   |-- LocalState
+|   |   |   |-- RoamingState
+|   |   |   |-- Settings
+|   |   |   |-- SystemAppData
+|   |   |   `-- TempState
+|   |   |-- Microsoft.AsyncTextService_8wekyb3d8bbwe
+|   |   |   |-- AC
+|   |   |   |-- AppData
+|   |   |   |-- LocalCache
+|   |   |   |-- LocalState
+|   |   |   |-- RoamingState
+|   |   |   |-- Settings
+|   |   |   |-- SystemAppData
+|   |   |   `-- TempState
+|   |   |-- Microsoft.BioEnrollment_cw5n1h2txyewy
+|   |   |   |-- AC
+|   |   |   |-- AppData
+|   |   |   |-- LocalCache
+|   |   |   |-- LocalState
+|   |   |   |-- RoamingState
+|   |   |   |-- Settings
+|   |   |   |-- SystemAppData
+|   |   |   `-- TempState
+|   |   |-- Microsoft.CredDialogHost_cw5n1h2txyewy
+|   |   |   |-- AC
+|   |   |   |-- AppData
+|   |   |   |-- LocalCache
+|   |   |   |-- LocalState
+|   |   |   |-- RoamingState
+|   |   |   |-- Settings
+|   |   |   |-- SystemAppData
+|   |   |   `-- TempState
+|   |   |-- Microsoft.ECApp_8wekyb3d8bbwe
+|   |   |   |-- AC
+|   |   |   |-- AppData
+|   |   |   |-- LocalCache
+|   |   |   |-- LocalState
+|   |   |   |-- RoamingState
+|   |   |   |-- Settings
+|   |   |   |-- SystemAppData
+|   |   |   `-- TempState
+|   |   |-- Microsoft.LanguageExperiencePackru-RU_8wekyb3d8bbwe
+|   |   |   |-- AC
+|   |   |   |-- AppData
+|   |   |   |-- LocalCache
+|   |   |   |-- LocalState
+|   |   |   |-- RoamingState
+|   |   |   |-- Settings
+|   |   |   |-- SystemAppData
+|   |   |   `-- TempState
+|   |   |-- Microsoft.LockApp_cw5n1h2txyewy
+|   |   |   |-- AC
+|   |   |   |-- AppData
+|   |   |   |-- LocalCache
+|   |   |   |-- LocalState
+|   |   |   |-- RoamingState
+|   |   |   |-- Settings
+|   |   |   |-- SystemAppData
+|   |   |   `-- TempState
+|   |   |-- Microsoft.MicrosoftEdge.Stable_8wekyb3d8bbwe
+|   |   |   |-- AC
+|   |   |   |-- AppData
+|   |   |   |-- LocalCache
+|   |   |   |-- LocalState
+|   |   |   |-- RoamingState
+|   |   |   |-- Settings
+|   |   |   |-- SystemAppData
+|   |   |   `-- TempState
+|   |   |-- Microsoft.MicrosoftEdgeDevToolsClient_8wekyb3d8bbwe
+|   |   |   |-- AC
+|   |   |   |-- AppData
+|   |   |   |-- LocalCache
+|   |   |   |-- LocalState
+|   |   |   |-- RoamingState
+|   |   |   |-- Settings
+|   |   |   |-- SystemAppData
+|   |   |   `-- TempState
+|   |   |-- Microsoft.NET.Native.Framework.2.2_8wekyb3d8bbwe
+|   |   |   `-- AC
+|   |   |-- Microsoft.NET.Native.Runtime.2.2_8wekyb3d8bbwe
+|   |   |   `-- AC
+|   |   |-- Microsoft.UI.Xaml.2.8_8wekyb3d8bbwe
+|   |   |   `-- AC
+|   |   |-- Microsoft.VCLibs.140.00.UWPDesktop_8wekyb3d8bbwe
+|   |   |   `-- AC
+|   |   |-- Microsoft.VCLibs.140.00_8wekyb3d8bbwe
+|   |   |   `-- AC
+|   |   |-- Microsoft.Win32WebViewHost_cw5n1h2txyewy
+|   |   |   |-- AC
+|   |   |   |-- AppData
+|   |   |   |-- LocalCache
+|   |   |   |-- LocalState
+|   |   |   |-- RoamingState
+|   |   |   |-- Settings
+|   |   |   |-- SystemAppData
+|   |   |   `-- TempState
+|   |   |-- Microsoft.Windows.Apprep.ChxApp_cw5n1h2txyewy
+|   |   |   |-- AC
+|   |   |   |-- AppData
+|   |   |   |-- LocalCache
+|   |   |   |-- LocalState
+|   |   |   |-- RoamingState
+|   |   |   |-- Settings
+|   |   |   |-- SystemAppData
+|   |   |   `-- TempState
+|   |   |-- Microsoft.Windows.AssignedAccessLockApp_cw5n1h2txyewy
+|   |   |   |-- AC
+|   |   |   |-- AppData
+|   |   |   |-- LocalCache
+|   |   |   |-- LocalState
+|   |   |   |-- RoamingState
+|   |   |   |-- Settings
+|   |   |   |-- SystemAppData
+|   |   |   `-- TempState
+|   |   |-- Microsoft.Windows.CallingShellApp_cw5n1h2txyewy
+|   |   |   |-- AC
+|   |   |   |-- AppData
+|   |   |   |-- LocalCache
+|   |   |   |-- LocalState
+|   |   |   |-- RoamingState
+|   |   |   |-- Settings
+|   |   |   |-- SystemAppData
+|   |   |   `-- TempState
+|   |   |-- Microsoft.Windows.CapturePicker_cw5n1h2txyewy
+|   |   |   |-- AC
+|   |   |   |-- AppData
+|   |   |   |-- LocalCache
+|   |   |   |-- LocalState
+|   |   |   |-- RoamingState
+|   |   |   |-- Settings
+|   |   |   |-- SystemAppData
+|   |   |   `-- TempState
+|   |   |-- Microsoft.Windows.CloudExperienceHost_cw5n1h2txyewy
+|   |   |   |-- AC
+|   |   |   |-- AppData
+|   |   |   |-- LocalCache
+|   |   |   |-- LocalState
+|   |   |   |-- RoamingState
+|   |   |   |-- Settings
+|   |   |   |-- SystemAppData
+|   |   |   `-- TempState
+|   |   |-- Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy
+|   |   |   |-- AC
+|   |   |   |-- AppData
+|   |   |   |-- LocalCache
+|   |   |   |-- LocalState
+|   |   |   |-- RoamingState
+|   |   |   |-- Settings
+|   |   |   |-- SystemAppData
+|   |   |   `-- TempState
+|   |   |-- Microsoft.Windows.NarratorQuickStart_8wekyb3d8bbwe
+|   |   |   |-- AC
+|   |   |   |-- AppData
+|   |   |   |-- LocalCache
+|   |   |   |-- LocalState
+|   |   |   |-- RoamingState
+|   |   |   |-- Settings
+|   |   |   |-- SystemAppData
+|   |   |   `-- TempState
+|   |   |-- Microsoft.Windows.OOBENetworkCaptivePortal_cw5n1h2txyewy
+|   |   |   |-- AC
+|   |   |   |-- AppData
+|   |   |   |-- LocalCache
+|   |   |   |-- LocalState
+|   |   |   |-- RoamingState
+|   |   |   |-- Settings
+|   |   |   |-- SystemAppData
+|   |   |   `-- TempState
+|   |   |-- Microsoft.Windows.OOBENetworkConnectionFlow_cw5n1h2txyewy
+|   |   |   |-- AC
+|   |   |   |-- AppData
+|   |   |   |-- LocalCache
+|   |   |   |-- LocalState
+|   |   |   |-- RoamingState
+|   |   |   |-- Settings
+|   |   |   |-- SystemAppData
+|   |   |   `-- TempState
+|   |   |-- Microsoft.Windows.ParentalControls_cw5n1h2txyewy
+|   |   |   |-- AC
+|   |   |   |-- AppData
+|   |   |   |-- LocalCache
+|   |   |   |-- LocalState
+|   |   |   |-- RoamingState
+|   |   |   |-- Settings
+|   |   |   |-- SystemAppData
+|   |   |   `-- TempState
+|   |   |-- Microsoft.Windows.PeopleExperienceHost_cw5n1h2txyewy
+|   |   |   |-- AC
+|   |   |   |-- AppData
+|   |   |   |-- LocalCache
+|   |   |   |-- LocalState
+|   |   |   |-- RoamingState
+|   |   |   |-- Settings
+|   |   |   |-- SystemAppData
+|   |   |   `-- TempState
+|   |   |-- Microsoft.Windows.PinningConfirmationDialog_cw5n1h2txyewy
+|   |   |   |-- AC
+|   |   |   |-- AppData
+|   |   |   |-- LocalCache
+|   |   |   |-- LocalState
+|   |   |   |-- RoamingState
+|   |   |   |-- Settings
+|   |   |   |-- SystemAppData
+|   |   |   `-- TempState
+|   |   |-- Microsoft.Windows.Search_cw5n1h2txyewy
+|   |   |   |-- AC
+|   |   |   |-- AppData
+|   |   |   |-- LocalCache
+|   |   |   |-- LocalState
+|   |   |   |-- RoamingState
+|   |   |   |-- Settings
+|   |   |   |-- SystemAppData
+|   |   |   `-- TempState
+|   |   |-- Microsoft.Windows.SecHealthUI_cw5n1h2txyewy
+|   |   |   |-- AC
+|   |   |   |-- AppData
+|   |   |   |-- LocalCache
+|   |   |   |-- LocalState
+|   |   |   |-- RoamingState
+|   |   |   |-- Settings
+|   |   |   |-- SystemAppData
+|   |   |   `-- TempState
+|   |   |-- Microsoft.Windows.ShellExperienceHost_cw5n1h2txyewy
+|   |   |   |-- AC
+|   |   |   |-- AppData
+|   |   |   |-- LocalCache
+|   |   |   |-- LocalState
+|   |   |   |-- RoamingState
+|   |   |   |-- Settings
+|   |   |   |-- SystemAppData
+|   |   |   `-- TempState
+|   |   |-- Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy
+|   |   |   |-- AC
+|   |   |   |-- AppData
+|   |   |   |-- LocalCache
+|   |   |   |-- LocalState
+|   |   |   |-- RoamingState
+|   |   |   |-- Settings
+|   |   |   |-- SystemAppData
+|   |   |   `-- TempState
+|   |   |-- Microsoft.Windows.XGpuEjectDialog_cw5n1h2txyewy
+|   |   |   |-- AC
+|   |   |   |-- AppData
+|   |   |   |-- LocalCache
+|   |   |   |-- LocalState
+|   |   |   |-- RoamingState
+|   |   |   |-- Settings
+|   |   |   |-- SystemAppData
+|   |   |   `-- TempState
+|   |   |-- Microsoft.XboxGameCallableUI_cw5n1h2txyewy
+|   |   |   |-- AC
+|   |   |   |-- AppData
+|   |   |   |-- LocalCache
+|   |   |   |-- LocalState
+|   |   |   |-- RoamingState
+|   |   |   |-- Settings
+|   |   |   |-- SystemAppData
+|   |   |   `-- TempState
+|   |   |-- MicrosoftWindows.Client.CBS_cw5n1h2txyewy
+|   |   |   |-- AC
+|   |   |   |-- AppData
+|   |   |   |-- LocalCache
+|   |   |   |-- LocalState
+|   |   |   |-- RoamingState
+|   |   |   |-- Settings
+|   |   |   |-- SystemAppData
+|   |   |   `-- TempState
+|   |   |-- MicrosoftWindows.UndockedDevKit_cw5n1h2txyewy
+|   |   |   |-- AC
+|   |   |   |-- AppData
+|   |   |   |-- LocalCache
+|   |   |   |-- LocalState
+|   |   |   |-- RoamingState
+|   |   |   |-- Settings
+|   |   |   |-- SystemAppData
+|   |   |   `-- TempState
+|   |   |-- Muse.MuseHub_rb9pth70m6nz6
+|   |   |   |-- AC
+|   |   |   |-- AppData
+|   |   |   |-- LocalCache
+|   |   |   |-- LocalState
+|   |   |   |-- RoamingState
+|   |   |   |-- Settings
+|   |   |   |-- SystemAppData
+|   |   |   `-- TempState
+|   |   |-- NcsiUwpApp_8wekyb3d8bbwe
+|   |   |   |-- AC
+|   |   |   |-- AppData
+|   |   |   |-- LocalCache
+|   |   |   |-- LocalState
+|   |   |   |-- RoamingState
+|   |   |   |-- Settings
+|   |   |   |-- SystemAppData
+|   |   |   `-- TempState
+|   |   |-- RealtekSemiconductorCorp.RealtekAudioControl_dt26b99r8h8gj
+|   |   |   |-- AC
+|   |   |   |-- AppData
+|   |   |   |-- LocalCache
+|   |   |   |-- LocalState
+|   |   |   |-- RoamingState
+|   |   |   |-- Settings
+|   |   |   |-- SystemAppData
+|   |   |   `-- TempState
+|   |   |-- Windows.CBSPreview_cw5n1h2txyewy
+|   |   |   |-- AC
+|   |   |   |-- AppData
+|   |   |   |-- LocalCache
+|   |   |   |-- LocalState
+|   |   |   |-- RoamingState
+|   |   |   |-- Settings
+|   |   |   |-- SystemAppData
+|   |   |   `-- TempState
+|   |   |-- Windows.PrintDialog_cw5n1h2txyewy
+|   |   |   |-- AC
+|   |   |   |-- AppData
+|   |   |   |-- LocalCache
+|   |   |   |-- LocalState
+|   |   |   |-- RoamingState
+|   |   |   |-- Settings
+|   |   |   |-- SystemAppData
+|   |   |   `-- TempState
+|   |   |-- c5e2524a-ea46-4f67-841f-6a9465d9d515_cw5n1h2txyewy
+|   |   |   |-- AC
+|   |   |   |-- AppData
+|   |   |   |-- LocalCache
+|   |   |   |-- LocalState
+|   |   |   |-- RoamingState
+|   |   |   |-- Settings
+|   |   |   |-- SystemAppData
+|   |   |   `-- TempState
+|   |   |-- cr.sb.cdm3e4d1a088c1f6d498c84f3c86de73ce49f82a104
+|   |   |   `-- AC
+|   |   |-- cr.sb.odm3E4D1A088C1F6D498C84F3C86DE73CE49F82A104
+|   |   |   `-- AC
+|   |   |-- cr.sb.prnc3E4D1A088C1F6D498C84F3C86DE73CE49F82A104
+|   |   |   `-- AC
+|   |   |-- oice_16_974fa576_32c1d314_110e
+|   |   |   `-- AC
+|   |   |-- oice_16_974fa576_32c1d314_164d
+|   |   |   `-- AC
+|   |   |-- oice_16_974fa576_32c1d314_2359
+|   |   |   `-- AC
+|   |   |-- oice_16_974fa576_32c1d314_2b01
+|   |   |   `-- AC
+|   |   |-- oice_16_974fa576_32c1d314_3361
+|   |   |   `-- AC
+|   |   |-- oice_16_974fa576_32c1d314_33da
+|   |   |   `-- AC
+|   |   |-- oice_16_974fa576_32c1d314_3cd2
+|   |   |   `-- AC
+|   |   |-- oice_16_974fa576_32c1d314_c6c
+|   |   |   `-- AC
+|   |   |-- oice_16_974fa576_32c1d314_e58
+|   |   |   `-- AC
+|   |   |-- windows.immersivecontrolpanel_cw5n1h2txyewy
+|   |   |   |-- AC
+|   |   |   |-- AppData
+|   |   |   |-- LocalCache
+|   |   |   |-- LocalState
+|   |   |   |-- RoamingState
+|   |   |   |-- Settings
+|   |   |   |-- SystemAppData
+|   |   |   `-- TempState
+|   |   `-- windows_ie_ac_001
+|   |       `-- AC
+|   |-- PeerDistRepub
+|   |-- PlaceholderTileLogoFolder
+|   |   |-- 9NKSQGP7F2NH
+|   |   |-- 9NMJCX77QKPX
+|   |   `-- 9P15S8PWMQ8C
+|   |-- Programs
+|   |   |-- AntConc
+|   |   |   |-- AntConc.exe
+|   |   |   |-- _internal
+|   |   |   |-- unins000.dat
+|   |   |   `-- unins000.exe
+|   |   |-- Common
+|   |   |-- Microsoft VS Code
+|   |   |   |-- Code.VisualElementsManifest.xml
+|   |   |   |-- Code.exe
+|   |   |   |-- LICENSES.chromium.html
+|   |   |   |-- bin
+|   |   |   |-- chrome_100_percent.pak
+|   |   |   |-- chrome_200_percent.pak
+|   |   |   |-- d3dcompiler_47.dll
+|   |   |   |-- debug.log
+|   |   |   |-- ffmpeg.dll
+|   |   |   |-- icudtl.dat
+|   |   |   |-- libEGL.dll
+|   |   |   |-- libGLESv2.dll
+|   |   |   |-- locales
+|   |   |   |-- policies
+|   |   |   |-- resources
+|   |   |   |-- resources.pak
+|   |   |   |-- snapshot_blob.bin
+|   |   |   |-- tools
+|   |   |   |-- unins000.dat
+|   |   |   |-- unins000.exe
+|   |   |   |-- unins000.msg
+|   |   |   |-- v8_context_snapshot.bin
+|   |   |   |-- vk_swiftshader.dll
+|   |   |   |-- vk_swiftshader_icd.json
+|   |   |   `-- vulkan-1.dll
+|   |   |-- YandexMusic
+|   |   |   |-- LICENSE.electron.txt
+|   |   |   |-- LICENSES.chromium.html
+|   |   |   |-- Uninstall Яндекс Музыка.exe
+|   |   |   |-- chrome_100_percent.pak
+|   |   |   |-- chrome_200_percent.pak
+|   |   |   |-- d3dcompiler_47.dll
+|   |   |   |-- ffmpeg.dll
+|   |   |   |-- icudtl.dat
+|   |   |   |-- libEGL.dll
+|   |   |   |-- libGLESv2.dll
+|   |   |   |-- locales
+|   |   |   |-- resources
+|   |   |   |-- resources.pak
+|   |   |   |-- snapshot_blob.bin
+|   |   |   |-- v8_context_snapshot.bin
+|   |   |   |-- vk_swiftshader.dll
+|   |   |   |-- vk_swiftshader_icd.json
+|   |   |   |-- vulkan-1.dll
+|   |   |   `-- Яндекс Музыка.exe
+|   |   `-- transmission
+|   |-- Publishers
+|   |   |-- 8j3eq9eme6ctt
+|   |   |   `-- Downloads
+|   |   `-- w2gh52qy24etm
+|   |       `-- Toast
+|   |-- Sentry
+|   |   |-- 2B7CEFF199A42C2522D59B6747E8BA8F95C961F7
+|   |   `-- 667AC2C4123DD49219A6E4E9814C8BA983854980
+|   |-- SquirrelTemp
+|   |   |-- Squirrel-Install.log
+|   |   `-- SquirrelSetup.log
+|   |-- StartIsBack
+|   |   `-- Cache
+|   |       |-- appsfolder.dat
+|   |       |-- pcsettingspages.dat
+|   |       `-- pcsettingssearch.dat
+|   |-- Temp
+|   |   |-- 0db51a3c-b237-4a8d-9396-95b348ddff1f.tmp
+|   |   |-- 11de67bad52a6224b77edb8ed1a989bb
+|   |   |   |-- command.bat
+|   |   |   |-- execute.bat
+|   |   |   |-- status
+|   |   |   |-- stderr
+|   |   |   `-- stdout
+|   |   |-- 14EDAB1C-5B7049EC-1879B3E1-5AB41D10
+|   |   |-- 29D6E7B6-20B9728E-2C17FF2E-2733F572
+|   |   |-- 2A7AE960-4110987C-39843166-235F3A10
+|   |   |-- 2e8d214b-92c4-4bba-aa1f-c37538fbd75d.tmp
+|   |   |-- 48E8C559-3B79E646-219B583F-17EA9D32
+|   |   |-- 5d845c00-e091-443b-8c9f-4cc7d5d64619.tmp
+|   |   |-- 621470e3-6877-429a-a24d-ea9f1ff23b72.tmp
+|   |   |-- 784507fe-2522-4a1c-8f1c-5242f0d7084c.tmp
+|   |   |-- A26CE116-10E520B6-F9A14D74-6ED961A8
+|   |   |-- ActivityVisualCache
+|   |   |-- AdobeARM.log
+|   |   |-- Diagnostics
+|   |   |   |-- EXCEL
+|   |   |   |-- POWERPNT
+|   |   |   `-- WINWORD
+|   |   |-- Low
+|   |   |-- PPT11.0
+|   |   |   `-- MSForms.exd
+|   |   |-- PotUpdate
+|   |   |   `-- PotPlayerSetup64_143.exe
+|   |   |-- Setup Log 2025-02-06 #001.txt
+|   |   |-- Setup Log 2025-02-13 #001.txt
+|   |   |-- TCD2498.tmp
+|   |   |   `-- MSC_RU-RU_MS_BrawnSimple.thmx
+|   |   |-- TCD2499.tmp
+|   |   |   `-- MSC_RU-RU_MS_BluegreenKnot.thmx
+|   |   |-- TCD2585.tmp
+|   |   |   `-- MSC_RU-RU_MS_Blue3DMetal.thmx
+|   |   |-- TCD25B6.tmp
+|   |   |   `-- MSC_RU-RU_MS_BlueNatural.thmx
+|   |   |-- TCD26B2.tmp
+|   |   |-- TCD26E3.tmp
+|   |   |   `-- MSC_RU-RU_MS_BlueUniversal.thmx
+|   |   |-- TCD280E.tmp
+|   |   |-- TCD287D.tmp
+|   |   |   `-- MSC_RU-RU_MS_BlueDigital.thmx
+|   |   |-- TCD2AA2.tmp
+|   |   |-- TCD2AA3.tmp
+|   |   |-- TCD2AC3.tmp
+|   |   |-- TCD2BBF.tmp
+|   |   |-- TCD2C8C.tmp
+|   |   |-- TCD2CD7.tmp
+|   |   |   `-- MSC_RU-RU_MS_Blue3DMetal.thmx
+|   |   |-- TCD2CF9.tmp
+|   |   |-- TCD2D3A.tmp
+|   |   |   `-- TP102396801_template.potx
+|   |   |-- TCD2D78.tmp
+|   |   |-- TCD31B1.tmp
+|   |   |-- TCD3211.tmp
+|   |   |-- TCD32CE.tmp
+|   |   |-- TCD3317.tmp
+|   |   |-- TCD3490.tmp
+|   |   |   `-- TP102396801_template.potx
+|   |   |-- TCD3560.tmp
+|   |   |-- TCD356D.tmp
+|   |   |   `-- MSC_RU-RU_MS_BrawnSimple.thmx
+|   |   |-- TCD3688.tmp
+|   |   |-- TCD37E2.tmp
+|   |   |   `-- MSC_RU-RU_MS_BlueDigital.thmx
+|   |   |-- TCD3861.tmp
+|   |   |-- TCD38EF.tmp
+|   |   |-- TCD3A93.tmp
+|   |   |-- TCD3B40.tmp
+|   |   |-- TCD3BEF.tmp
+|   |   |   `-- MSC_RU-RU_MS_BlueNatural.thmx
+|   |   |-- TCD3DCE.tmp
+|   |   |   `-- iso690.xsl
+|   |   |-- TCD3EEA.tmp
+|   |   |   `-- ieee2006officeonline.xsl
+|   |   |-- TCD3EEB.tmp
+|   |   |   `-- gosttitle.xsl
+|   |   |-- TCD3F3C.tmp
+|   |   |   `-- gb.xsl
+|   |   |-- TCD3F4D.tmp
+|   |   |   `-- sist02.xsl
+|   |   |-- TCD3F5F.tmp
+|   |   |   `-- turabian.xsl
+|   |   |-- TCD3F90.tmp
+|   |   |   `-- MSC_RU-RU_MS_BrawnSimple.thmx
+|   |   |-- TCD3FD0.tmp
+|   |   |   `-- MSC_RU-RU_MS_Blue3DMetal.thmx
+|   |   |-- TCD3FF2.tmp
+|   |   |   `-- APASixthEditionOfficeOnline.xsl
+|   |   |-- TCD4003.tmp
+|   |   |   `-- harvardanglia2008officeonline.xsl
+|   |   |-- TCD4015.tmp
+|   |   |   `-- CHICAGO.xsl
+|   |   |-- TCD41AD.tmp
+|   |   |   `-- MSC_RU-RU_MS_BlueUniversal.thmx
+|   |   |-- TCD41D1.tmp
+|   |   |   `-- mlaseventheditionofficeonline.xsl
+|   |   |-- TCD41E4.tmp
+|   |   |   `-- gostname.xsl
+|   |   |-- TCD41E5.tmp
+|   |   |   `-- MSC_RU-RU_MS_BlueNatural.thmx
+|   |   |-- TCD41E6.tmp
+|   |   |   `-- MSC_RU-RU_MS_BlueDigital.thmx
+|   |   |-- TCD41E7.tmp
+|   |   |   `-- iso690nmerical.xsl
+|   |   |-- TCD41E8.tmp
+|   |   |   `-- MSC_RU-RU_MS_BluegreenKnot.thmx
+|   |   |-- TCD4279.tmp
+|   |   |   `-- MSC_RU-RU_MS_BluegreenKnot.thmx
+|   |   |-- TCD4336.tmp
+|   |   |-- TCD43B5.tmp
+|   |   |-- TCD43E6.tmp
+|   |   |   `-- MSC_RU-RU_MS_BlueUniversal.thmx
+|   |   |-- TCD4494.tmp
+|   |   |-- TCD46CC.tmp
+|   |   |   `-- TP102396801_template.potx
+|   |   |-- TCD4938.tmp
+|   |   |   `-- sist02.xsl
+|   |   |-- TCD493A.tmp
+|   |   |   `-- MS_MacDotsFaxCoverSheet.dotx
+|   |   |-- TCD493C.tmp
+|   |   |   `-- gostname.xsl
+|   |   |-- TCD493D.tmp
+|   |   |   `-- ieee2006officeonline.xsl
+|   |   |-- TCD494E.tmp
+|   |   |   `-- turabian.xsl
+|   |   |-- TCD494F.tmp
+|   |   |   `-- harvardanglia2008officeonline.xsl
+|   |   |-- TCD4950.tmp
+|   |   |   `-- CHICAGO.xsl
+|   |   |-- TCD4962.tmp
+|   |   |   `-- mlaseventheditionofficeonline.xsl
+|   |   |-- TCD4974.tmp
+|   |   |   `-- iso690nmerical.xsl
+|   |   |-- TCD4985.tmp
+|   |   |   `-- gosttitle.xsl
+|   |   |-- TCD4997.tmp
+|   |   |   `-- iso690.xsl
+|   |   |-- TCD49A9.tmp
+|   |   |   `-- gb.xsl
+|   |   |-- TCD49BA.tmp
+|   |   |   `-- MSC_RU-RU_MS_BrawnSimple.thmx
+|   |   |-- TCD49CC.tmp
+|   |   |   `-- MSC_RU-RU_MS_BlueNatural.thmx
+|   |   |-- TCD49DD.tmp
+|   |   |   `-- MSC_RU-RU_MS_BlueUniversal.thmx
+|   |   |-- TCD49DF.tmp
+|   |   |   `-- MSC_RU-RU_MS_BlueDigital.thmx
+|   |   |-- TCD4A3F.tmp
+|   |   |   `-- MSC_RU-RU_MS_Blue3DMetal.thmx
+|   |   |-- TCD4A70.tmp
+|   |   |   `-- APASixthEditionOfficeOnline.xsl
+|   |   |-- TCD4C37.tmp
+|   |   |   `-- TP102396801_template.potx
+|   |   |-- TCD4EF8.tmp
+|   |   |   `-- MSC_RU-RU_MS_BluegreenKnot.thmx
+|   |   |-- TCD5221.tmp
+|   |   |   `-- MSC_RU-RU_MS_BluegreenKnot.thmx
+|   |   |-- TCD5222.tmp
+|   |   |   `-- TP102474571_template.potx
+|   |   |-- TCD5223.tmp
+|   |   |   `-- MSC_RU-RU_MS_Blue3DMetal.thmx
+|   |   |-- TCD5224.tmp
+|   |   |   `-- MSC_RU-RU_MS_BlueUniversal.thmx
+|   |   |-- TCD5225.tmp
+|   |   |   `-- MSC_RU-RU_MS_BlueDigital.thmx
+|   |   |-- TCD5286.tmp
+|   |   |   `-- MSC_RU-RU_MS_BlueNatural.thmx
+|   |   |-- TCD5297.tmp
+|   |   |   `-- TP102396801_template.potx
+|   |   |-- TCD52B8.tmp
+|   |   |   `-- MSC_RU-RU_MS_BrawnSimple.thmx
+|   |   |-- TCD5E48.tmp
+|   |   |-- TCD600F.tmp
+|   |   |-- TCD897A.tmp
+|   |   |-- TCD897B.tmp
+|   |   |   `-- iso690.xsl
+|   |   |-- TCD897C.tmp
+|   |   |   `-- gb.xsl
+|   |   |-- TCD897D.tmp
+|   |   |   `-- mlaseventheditionofficeonline.xsl
+|   |   |-- TCD897E.tmp
+|   |   |   `-- turabian.xsl
+|   |   |-- TCD8980.tmp
+|   |   |   `-- sist02.xsl
+|   |   |-- TCD8982.tmp
+|   |   |   `-- iso690nmerical.xsl
+|   |   |-- TCD8983.tmp
+|   |   |   `-- ieee2006officeonline.xsl
+|   |   |-- TCD8995.tmp
+|   |   |   `-- harvardanglia2008officeonline.xsl
+|   |   |-- TCD8997.tmp
+|   |   |   `-- gostname.xsl
+|   |   |-- TCD8998.tmp
+|   |   |   `-- gosttitle.xsl
+|   |   |-- TCD8999.tmp
+|   |   |   `-- APASixthEditionOfficeOnline.xsl
+|   |   |-- TCD89AC.tmp
+|   |   |   `-- MSC_RU-RU_MS_BluegreenKnot.thmx
+|   |   |-- TCD89AD.tmp
+|   |   |   `-- CHICAGO.xsl
+|   |   |-- TCD89BE.tmp
+|   |   |   `-- MSC_RU-RU_MS_BrawnSimple.thmx
+|   |   |-- TCD89D0.tmp
+|   |   |   `-- MSC_RU-RU_MS_BlueDigital.thmx
+|   |   |-- TCD89F2.tmp
+|   |   |   `-- MSC_RU-RU_MS_BlueNatural.thmx
+|   |   |-- TCD8A03.tmp
+|   |   |   `-- MSC_RU-RU_MS_Blue3DMetal.thmx
+|   |   |-- TCD8A05.tmp
+|   |   |   `-- MSC_RU-RU_MS_BlueUniversal.thmx
+|   |   |-- TCD8B30.tmp
+|   |   |   `-- TP102396801_template.potx
+|   |   |-- TCDB365.tmp
+|   |   |   `-- MSC_RU-RU_MS_BluegreenKnot.thmx
+|   |   |-- TCDB366.tmp
+|   |   |   `-- MSC_RU-RU_MS_BlueDigital.thmx
+|   |   |-- TCDB367.tmp
+|   |   |   `-- MSC_RU-RU_MS_BlueNatural.thmx
+|   |   |-- TCDB368.tmp
+|   |   |   `-- MSC_RU-RU_MS_BlueUniversal.thmx
+|   |   |-- TCDB369.tmp
+|   |   |   `-- MSC_RU-RU_MS_BrawnSimple.thmx
+|   |   |-- TCDB37A.tmp
+|   |   |   `-- MSC_RU-RU_MS_Blue3DMetal.thmx
+|   |   |-- TCDB37B.tmp
+|   |   |   `-- TP102474571_template.potx
+|   |   |-- TCDB3CB.tmp
+|   |   |   `-- TP102396801_template.potx
+|   |   |-- TCDBC3E.tmp
+|   |   |   `-- MSC_RU-RU_MS_BluegreenKnot.thmx
+|   |   |-- TCDBC3F.tmp
+|   |   |   `-- MSC_RU-RU_MS_BrawnSimple.thmx
+|   |   |-- TCDBC51.tmp
+|   |   |   `-- MSC_RU-RU_MS_BlueDigital.thmx
+|   |   |-- TCDBC72.tmp
+|   |   |   `-- MSC_RU-RU_MS_BlueUniversal.thmx
+|   |   |-- TCDBC85.tmp
+|   |   |   `-- MSC_RU-RU_MS_Blue3DMetal.thmx
+|   |   |-- TCDBC95.tmp
+|   |   |   `-- MSC_RU-RU_MS_BlueNatural.thmx
+|   |   |-- TCDBD72.tmp
+|   |   |   `-- TP102474571_template.potx
+|   |   |-- TCDBE5F.tmp
+|   |   |   `-- TP102396801_template.potx
+|   |   |-- TCDCB5D.tmp
+|   |   |   `-- iso690.xsl
+|   |   |-- TCDCB5E.tmp
+|   |   |-- TCDCBFC.tmp
+|   |   |   `-- harvardanglia2008officeonline.xsl
+|   |   |-- TCDCC5D.tmp
+|   |   |   `-- turabian.xsl
+|   |   |-- TCDCC5E.tmp
+|   |   |   `-- sist02.xsl
+|   |   |-- TCDCCF1.tmp
+|   |   |   `-- ieee2006officeonline.xsl
+|   |   |-- TCDCCF2.tmp
+|   |   |   `-- gosttitle.xsl
+|   |   |-- TCDCCF3.tmp
+|   |   |   `-- gostname.xsl
+|   |   |-- TCDCCF4.tmp
+|   |   |   `-- iso690nmerical.xsl
+|   |   |-- TCDCCF5.tmp
+|   |   |   `-- gb.xsl
+|   |   |-- TCDCD45.tmp
+|   |   |   `-- APASixthEditionOfficeOnline.xsl
+|   |   |-- TCDCD57.tmp
+|   |   |   `-- CHICAGO.xsl
+|   |   |-- TCDCD58.tmp
+|   |   |   `-- MSC_RU-RU_MS_BlueNatural.thmx
+|   |   |-- TCDCDAA.tmp
+|   |   |   `-- MSC_RU-RU_MS_Blue3DMetal.thmx
+|   |   |-- TCDCDAB.tmp
+|   |   |   `-- MSC_RU-RU_MS_BlueUniversal.thmx
+|   |   |-- TCDCDBC.tmp
+|   |   |   `-- MSC_RU-RU_MS_BrawnSimple.thmx
+|   |   |-- TCDCE11.tmp
+|   |   |   `-- MSC_RU-RU_MS_BluegreenKnot.thmx
+|   |   |-- TCDCE12.tmp
+|   |   |   `-- MSC_RU-RU_MS_BrawnSimple.thmx
+|   |   |-- TCDCE13.tmp
+|   |   |   `-- MSC_RU-RU_MS_BlueNatural.thmx
+|   |   |-- TCDCE1C.tmp
+|   |   |   `-- MSC_RU-RU_MS_BlueDigital.thmx
+|   |   |-- TCDCE34.tmp
+|   |   |   `-- MSC_RU-RU_MS_BlueDigital.thmx
+|   |   |-- TCDCE56.tmp
+|   |   |   `-- MSC_RU-RU_MS_Blue3DMetal.thmx
+|   |   |-- TCDCE57.tmp
+|   |   |   `-- MSC_RU-RU_MS_BlueUniversal.thmx
+|   |   |-- TCDCEC7.tmp
+|   |   |   `-- TP102474571_template.potx
+|   |   |-- TCDCF56.tmp
+|   |   |   `-- MSC_RU-RU_MS_BluegreenKnot.thmx
+|   |   |-- TCDCF84.tmp
+|   |   |   `-- TP102396801_template.potx
+|   |   |-- TCDCFB6.tmp
+|   |   |   `-- TP102396801_template.potx
+|   |   |-- TCDD016.tmp
+|   |   |   `-- mlaseventheditionofficeonline.xsl
+|   |   |-- TCDD14F.tmp
+|   |   |   `-- gb.xsl
+|   |   |-- TCDD150.tmp
+|   |   |   `-- MSC_RU-RU_MS_BluegreenKnot.thmx
+|   |   |-- TCDD164.tmp
+|   |   |   `-- CHICAGO.xsl
+|   |   |-- TCDD165.tmp
+|   |   |   `-- ieee2006officeonline.xsl
+|   |   |-- TCDD166.tmp
+|   |   |   `-- APASixthEditionOfficeOnline.xsl
+|   |   |-- TCDD169.tmp
+|   |   |   `-- gosttitle.xsl
+|   |   |-- TCDD16C.tmp
+|   |   |   `-- iso690.xsl
+|   |   |-- TCDD16E.tmp
+|   |   |   `-- iso690nmerical.xsl
+|   |   |-- TCDD17E.tmp
+|   |   |   `-- mlaseventheditionofficeonline.xsl
+|   |   |-- TCDD17F.tmp
+|   |   |   `-- harvardanglia2008officeonline.xsl
+|   |   |-- TCDD180.tmp
+|   |   |   `-- turabian.xsl
+|   |   |-- TCDD182.tmp
+|   |   |   `-- gostname.xsl
+|   |   |-- TCDD184.tmp
+|   |   |   `-- MSC_RU-RU_MS_BrawnSimple.thmx
+|   |   |-- TCDD195.tmp
+|   |   |   `-- sist02.xsl
+|   |   |-- TCDD19A.tmp
+|   |   |   `-- MSC_RU-RU_MS_BlueUniversal.thmx
+|   |   |-- TCDD19B.tmp
+|   |   |-- TCDD19C.tmp
+|   |   |   `-- MSC_RU-RU_MS_Blue3DMetal.thmx
+|   |   |-- TCDD19D.tmp
+|   |   |   `-- MSC_RU-RU_MS_BlueDigital.thmx
+|   |   |-- TCDD1BE.tmp
+|   |   |   `-- MSC_RU-RU_MS_BlueNatural.thmx
+|   |   |-- TCDD2CA.tmp
+|   |   |   `-- TP102396801_template.potx
+|   |   |-- TCDD770.tmp
+|   |   |   `-- MSC_RU-RU_MS_BrawnSimple.thmx
+|   |   |-- TCDD771.tmp
+|   |   |   `-- MSC_RU-RU_MS_BluegreenKnot.thmx
+|   |   |-- TCDD772.tmp
+|   |   |   `-- MSC_RU-RU_MS_Blue3DMetal.thmx
+|   |   |-- TCDD773.tmp
+|   |   |   `-- MSC_RU-RU_MS_BlueUniversal.thmx
+|   |   |-- TCDD774.tmp
+|   |   |   `-- MSC_RU-RU_MS_BlueNatural.thmx
+|   |   |-- TCDD785.tmp
+|   |   |   `-- MSC_RU-RU_MS_BlueDigital.thmx
+|   |   |-- TCDD7E4.tmp
+|   |   |   `-- TP102474571_template.potx
+|   |   |-- TCDD873.tmp
+|   |   |   `-- TP102396801_template.potx
+|   |   |-- TCDE55D.tmp
+|   |   |   `-- MSC_RU-RU_MS_BlueUniversal.thmx
+|   |   |-- TCDE55E.tmp
+|   |   |   `-- MSC_RU-RU_MS_BlueNatural.thmx
+|   |   |-- TCDE58F.tmp
+|   |   |-- TCDE5DF.tmp
+|   |   |-- TCDE600.tmp
+|   |   |-- TCDE660.tmp
+|   |   |   `-- MSC_RU-RU_MS_BrawnSimple.thmx
+|   |   |-- TCDE682.tmp
+|   |   |   `-- MSC_RU-RU_MS_Blue3DMetal.thmx
+|   |   |-- TCDE683.tmp
+|   |   |   `-- MSC_RU-RU_MS_BlueDigital.thmx
+|   |   |-- TCDE6B4.tmp
+|   |   |   `-- MSC_RU-RU_MS_BluegreenKnot.thmx
+|   |   |-- TCDE752.tmp
+|   |   |-- TCDE798.tmp
+|   |   |   `-- MSC_RU-RU_MS_BlueUniversal.thmx
+|   |   |-- TCDE7F1.tmp
+|   |   |-- TCDE7F7.tmp
+|   |   |   `-- MSC_RU-RU_MS_BrawnSimple.thmx
+|   |   |-- TCDE838.tmp
+|   |   |   `-- MSC_RU-RU_MS_BluegreenKnot.thmx
+|   |   |-- TCDE860.tmp
+|   |   |-- TCDE88A.tmp
+|   |   |   `-- MSC_RU-RU_MS_BlueDigital.thmx
+|   |   |-- TCDE88B.tmp
+|   |   |   `-- MSC_RU-RU_MS_BlueNatural.thmx
+|   |   |-- TCDE89C.tmp
+|   |   |   `-- MSC_RU-RU_MS_Blue3DMetal.thmx
+|   |   |-- TCDE8B0.tmp
+|   |   |-- TCDE907.tmp
+|   |   |   `-- gb.xsl
+|   |   |-- TCDE908.tmp
+|   |   |   `-- CHICAGO.xsl
+|   |   |-- TCDE91C.tmp
+|   |   |   `-- MSC_RU-RU_MS_BrawnSimple.thmx
+|   |   |-- TCDE91D.tmp
+|   |   |   `-- APASixthEditionOfficeOnline.xsl
+|   |   |-- TCDE91E.tmp
+|   |   |   `-- iso690nmerical.xsl
+|   |   |-- TCDE94F.tmp
+|   |   |   `-- ieee2006officeonline.xsl
+|   |   |-- TCDE961.tmp
+|   |   |   `-- turabian.xsl
+|   |   |-- TCDE969.tmp
+|   |   |   `-- TP102474571_template.potx
+|   |   |-- TCDE96E.tmp
+|   |   |   `-- TP102396801_template.potx
+|   |   |-- TCDE991.tmp
+|   |   |   `-- mlaseventheditionofficeonline.xsl
+|   |   |-- TCDE9D2.tmp
+|   |   |   `-- MSC_RU-RU_MS_Blue3DMetal.thmx
+|   |   |-- TCDEA23.tmp
+|   |   |   `-- harvardanglia2008officeonline.xsl
+|   |   |-- TCDEA43.tmp
+|   |   |   `-- gostname.xsl
+|   |   |-- TCDEA4A.tmp
+|   |   |-- TCDEA58.tmp
+|   |   |   `-- iso690.xsl
+|   |   |-- TCDEA59.tmp
+|   |   |   `-- sist02.xsl
+|   |   |-- TCDEA5A.tmp
+|   |   |   `-- MSC_RU-RU_MS_BlueDigital.thmx
+|   |   |-- TCDEA5B.tmp
+|   |   |   `-- gosttitle.xsl
+|   |   |-- TCDEA6C.tmp
+|   |   |-- TCDEA9C.tmp
+|   |   |-- TCDEACA.tmp
+|   |   |   `-- MSC_RU-RU_MS_BluegreenKnot.thmx
+|   |   |-- TCDEAEC.tmp
+|   |   |   `-- TP102396801_template.potx
+|   |   |-- TCDEB6E.tmp
+|   |   |   `-- TP102396801_template.potx
+|   |   |-- TCDEBF8.tmp
+|   |   |   `-- MSC_RU-RU_MS_BlueNatural.thmx
+|   |   |-- TCDEBF9.tmp
+|   |   |   `-- MSC_RU-RU_MS_BlueUniversal.thmx
+|   |   |-- TCDEC03.tmp
+|   |   |   `-- MSC_RU-RU_MS_BrawnSimple.thmx
+|   |   |-- TCDEC13.tmp
+|   |   |   `-- iso690.xsl
+|   |   |-- TCDEC27.tmp
+|   |   |   `-- CHICAGO.xsl
+|   |   |-- TCDEC29.tmp
+|   |   |   `-- gosttitle.xsl
+|   |   |-- TCDEC39.tmp
+|   |   |   `-- APASixthEditionOfficeOnline.xsl
+|   |   |-- TCDEC3A.tmp
+|   |   |   `-- MSC_RU-RU_MS_BluegreenKnot.thmx
+|   |   |-- TCDEC3C.tmp
+|   |   |   `-- turabian.xsl
+|   |   |-- TCDEC4E.tmp
+|   |   |   `-- MSC_RU-RU_MS_BlueUniversal.thmx
+|   |   |-- TCDEC61.tmp
+|   |   |   `-- sist02.xsl
+|   |   |-- TCDEC62.tmp
+|   |   |   `-- MSC_RU-RU_MS_Blue3DMetal.thmx
+|   |   |-- TCDEC83.tmp
+|   |   |   `-- ieee2006officeonline.xsl
+|   |   |-- TCDECB4.tmp
+|   |   |   `-- MSC_RU-RU_MS_BlueNatural.thmx
+|   |   |-- TCDECC1.tmp
+|   |   |-- TCDECD5.tmp
+|   |   |   `-- gb.xsl
+|   |   |-- TCDED16.tmp
+|   |   |   `-- MSC_RU-RU_MS_BlueDigital.thmx
+|   |   |-- TCDEDB4.tmp
+|   |   |   `-- mlaseventheditionofficeonline.xsl
+|   |   |-- TCDEE04.tmp
+|   |   |   `-- gostname.xsl
+|   |   |-- TCDEE06.tmp
+|   |   |   `-- harvardanglia2008officeonline.xsl
+|   |   |-- TCDEE27.tmp
+|   |   |   `-- iso690nmerical.xsl
+|   |   |-- TCDEE68.tmp
+|   |   |   `-- TP102396801_template.potx
+|   |   |-- TCDF0BB.tmp
+|   |   |-- TCDF7CA.tmp
+|   |   |   `-- CHICAGO.xsl
+|   |   |-- TCDF7CB.tmp
+|   |   |   `-- iso690.xsl
+|   |   |-- TCDF7FC.tmp
+|   |   |   `-- gosttitle.xsl
+|   |   |-- TCDF88B.tmp
+|   |   |   `-- gb.xsl
+|   |   |-- TCDF8AC.tmp
+|   |   |   `-- ieee2006officeonline.xsl
+|   |   |-- TCDF92B.tmp
+|   |   |   `-- MSC_RU-RU_MS_BluegreenKnot.thmx
+|   |   |-- TCDF9AA.tmp
+|   |   |   `-- MSC_RU-RU_MS_BlueDigital.thmx
+|   |   |-- TCDF9FA.tmp
+|   |   |   `-- MSC_RU-RU_MS_BlueUniversal.thmx
+|   |   |-- TCDFA89.tmp
+|   |   |   `-- turabian.xsl
+|   |   |-- TCDFA8B.tmp
+|   |   |   `-- APASixthEditionOfficeOnline.xsl
+|   |   |-- TCDFA9C.tmp
+|   |   |   `-- harvardanglia2008officeonline.xsl
+|   |   |-- TCDFA9E.tmp
+|   |   |   `-- iso690nmerical.xsl
+|   |   |-- TCDFACF.tmp
+|   |   |   `-- MSC_RU-RU_MS_BlueNatural.thmx
+|   |   |-- TCDFAE1.tmp
+|   |   |   `-- MSC_RU-RU_MS_BrawnSimple.thmx
+|   |   |-- TCDFB02.tmp
+|   |   |   `-- mlaseventheditionofficeonline.xsl
+|   |   |-- TCDFB72.tmp
+|   |   |   `-- MSC_RU-RU_MS_Blue3DMetal.thmx
+|   |   |-- TCDFB94.tmp
+|   |   |   `-- sist02.xsl
+|   |   |-- TCDFB95.tmp
+|   |   |   `-- gostname.xsl
+|   |   |-- TCDFDBA.tmp
+|   |   |   `-- TP102396801_template.potx
+|   |   |-- VBE
+|   |   |-- a81b6183-6f23-4317-9184-a9b5eb7273c0.tmp
+|   |   |-- acrord32_sbx
+|   |   |   `-- Adobe
+|   |   |-- battery-report.xml
+|   |   |-- bd410373-5db2-4be2-b5a9-8c1a3861433a.tmp
+|   |   |-- chocolatey
+|   |   |   |-- ChocolateyScratch
+|   |   |   |-- chocoInstall
+|   |   |   |-- dd_vcredist_amd64_20250208113615.log
+|   |   |   |-- dd_vcredist_amd64_20250208113615_000_vcRuntimeMinimum_x64.log
+|   |   |   |-- dd_vcredist_amd64_20250208113615_001_vcRuntimeAdditional_x64.log
+|   |   |   |-- dd_vcredist_amd64_20250208113628.log
+|   |   |   |-- dd_vcredist_x86_20250208113558.log
+|   |   |   |-- dd_vcredist_x86_20250208113558_000_vcRuntimeMinimum_x86.log
+|   |   |   |-- dd_vcredist_x86_20250208113558_001_vcRuntimeAdditional_x86.log
+|   |   |   |-- dd_vcredist_x86_20250208113609.log
+|   |   |   `-- vcredist140
+|   |   |-- chrome_BITS_3536_1057211924
+|   |   |-- chrome_BITS_3536_1691726613
+|   |   |-- chrome_BITS_3536_321720481
+|   |   |-- chrome_BITS_3536_331704793
+|   |   |-- chrome_BITS_3536_403904183
+|   |   |-- chrome_BITS_3536_416345208
+|   |   |-- chrome_BITS_3536_446124358
+|   |   |-- chrome_BITS_3536_490403389
+|   |   |-- chrome_BITS_3536_546500828
+|   |   |-- chrome_BITS_3536_798511780
+|   |   |-- chrome_BITS_3536_942194103
+|   |   |-- chrome_BITS_5816_1189557346
+|   |   |-- chrome_BITS_5816_1373955235
+|   |   |-- chrome_url_fetcher_2112_145627601
+|   |   |-- de7eea52-1fd8-4048-8727-b400e3dd3b1b.tmp
+|   |   |-- e95a5b55-eb3b-4cc7-81c9-167d61afd5d0.tmp
+|   |   |-- edge_BITS_19832_1049458583
+|   |   |-- edge_BITS_19832_1561385933
+|   |   |-- edge_BITS_19832_1799186060
+|   |   |-- edge_BITS_19832_2114485821
+|   |   |-- edge_BITS_19832_317885892
+|   |   |-- edge_BITS_19832_5352914
+|   |   |-- msdt
+|   |   |-- msdtadmin
+|   |   |-- msohtmlclip
+|   |   |-- msohtmlclip1
+|   |   |   `-- 01
+|   |   |-- netadapters.txt
+|   |   |-- nsb597C.tmp
+|   |   |   |-- SpiderBanner.dll
+|   |   |   |-- StdUtils.dll
+|   |   |   |-- System.dll
+|   |   |   `-- old-uninstaller.exe
+|   |   |-- nsg74C9.tmp
+|   |   |   |-- SpiderBanner.dll
+|   |   |   |-- StdUtils.dll
+|   |   |   |-- System.dll
+|   |   |   `-- old-uninstaller.exe
+|   |   |-- nsjAD5E.tmp
+|   |   |   |-- 7z-out
+|   |   |   |-- SpiderBanner.dll
+|   |   |   |-- StdUtils.dll
+|   |   |   |-- System.dll
+|   |   |   |-- UserInfo.dll
+|   |   |   |-- WinShell.dll
+|   |   |   |-- app-32.7z
+|   |   |   |-- nsExec.dll
+|   |   |   `-- nsis7z.dll
+|   |   |-- nso48B5.tmp
+|   |   |   |-- SpiderBanner.dll
+|   |   |   |-- StdUtils.dll
+|   |   |   |-- System.dll
+|   |   |   `-- old-uninstaller.exe
+|   |   |-- nsqDC3F.tmp
+|   |   |   |-- SpiderBanner.dll
+|   |   |   |-- StdUtils.dll
+|   |   |   |-- System.dll
+|   |   |   `-- old-uninstaller.exe
+|   |   |-- pyright-9116-bI4D3a11ssjO
+|   |   |-- python-languageserver-cancellation
+|   |   |-- system-commandline-sentinel-files
+|   |   |   `-- dotnet-suggest-registration-git-credential-manager, Version=2.6.1.0, Culture=neutral, PublicKeyToken=null
+|   |   |-- vscode-inno-updater-1738860878.log
+|   |   |-- vscode-inno-updater-1739437044.log
+|   |   |-- vscode-stable-user-x64
+|   |   |   |-- CodeSetup-stable-e249dada235c2083c83813bd65b7f4707fb97b76.exe
+|   |   |   `-- CodeSetup-stable-e249dada235c2083c83813bd65b7f4707fb97b76.flag
+|   |   |-- {054AE0D8-6D21-4B2E-9E0F-9B3D65638121} - OProcSessId.dat
+|   |   |-- {0A612568-7934-4503-9F11-D0793CD580DE}
+|   |   |-- {0FC1D3E5-8EAF-41FD-8F6F-FBE0C2FC166C} - OProcSessId.dat
+|   |   |-- {17C82FAD-A1BB-43B1-994D-1B7947BBFA5C} - OProcSessId.dat
+|   |   |-- {22650122-2816-4018-A5A9-246ACCF3329A} - OProcSessId.dat
+|   |   |-- {2678A461-642A-4012-BE5D-9CB0E47FDC8D}
+|   |   |-- {67BAF41D-13A5-4C75-9463-810200ACA2EA}
+|   |   |-- {7B07F3B1-EB15-472E-AD36-A33EDF77D64A}
+|   |   |-- {84BBD97A-E8A5-41A2-9928-8AED2A2F570B} - OProcSessId.dat
+|   |   |-- {8C0A52CB-A8AE-4769-8E49-1EEFE03FDDF8} - OProcSessId.dat
+|   |   |-- {AF1ABB8C-C533-472F-9B94-800E743CB087}
+|   |   |-- {CE6E5578-A554-4F67-93DC-81F13F7EC892} - OProcSessId.dat
+|   |   `-- {D8AC911B-83D6-45FA-8117-93B8A2EA275E} - OProcSessId.dat
+|   |-- Temporary Internet Files
+|   |   |-- Content.IE5
+|   |   |   |-- EO20CUPG
+|   |   |   |-- IXZJ7QNV
+|   |   |   |-- JVQPCJM7
+|   |   |   |-- UDWY7QD2
+|   |   |   `-- container.dat
+|   |   |-- Content.MSO
+|   |   |   `-- 95DF7CD1.wmf
+|   |   |-- Content.Word
+|   |   |   |-- ~WRS{0C4D1B30-95DB-496F-89EA-712F9EA64954}.tmp
+|   |   |   |-- ~WRS{0D40DC1E-C3FD-4735-9B8C-0E9D707F6D26}.tmp
+|   |   |   |-- ~WRS{157ED795-F877-49A7-958C-60A1EA5D6E2A}.tmp
+|   |   |   |-- ~WRS{1D4103AE-0FB6-4628-BFC9-E63F0E5C9A3B}.tmp
+|   |   |   |-- ~WRS{1E7E0092-5096-44C8-8AE7-35209F661997}.tmp
+|   |   |   |-- ~WRS{1EB69A24-E98E-4314-910A-1CC1093F6B4A}.tmp
+|   |   |   |-- ~WRS{28E0C2B3-4CBD-487D-ADE3-9116424120C5}.tmp
+|   |   |   |-- ~WRS{2E7D9B6E-AF90-4A49-9150-CC01A68321AD}.tmp
+|   |   |   |-- ~WRS{32E6C356-4256-453C-ABBC-6C36278AFECE}.tmp
+|   |   |   |-- ~WRS{33A9A3D0-01B7-4185-BDBE-FE890EF9988A}.tmp
+|   |   |   |-- ~WRS{36595735-2627-4347-85A6-487B5A36CD49}.tmp
+|   |   |   |-- ~WRS{3D4D3B24-3790-4B6E-B0F7-C55D2C5F9A14}.tmp
+|   |   |   |-- ~WRS{46461962-7B1C-4D2E-BB0F-9281EADBA89B}.tmp
+|   |   |   |-- ~WRS{4933593E-A33F-4CBA-8A25-5B35246F0138}.tmp
+|   |   |   |-- ~WRS{4B87A9DF-3BF1-47AA-B02A-EE5F28FB50AE}.tmp
+|   |   |   |-- ~WRS{6750F73F-440D-4892-B415-65320C0970B4}.tmp
+|   |   |   |-- ~WRS{6CFA2027-EC5E-4E1F-A3C3-9ADE893069AC}.tmp
+|   |   |   |-- ~WRS{722DB84E-28FB-41BF-A13D-F9038E3AAAB7}.tmp
+|   |   |   |-- ~WRS{77EAC64F-C5EF-4634-A538-11F65915D4A7}.tmp
+|   |   |   |-- ~WRS{78143065-7871-4D60-9BE8-8BCC4E13535D}.tmp
+|   |   |   |-- ~WRS{79C69425-82D8-42E2-B822-C59493E9A960}.tmp
+|   |   |   |-- ~WRS{872852D4-60E0-46BD-976A-8094D1C1C9FE}.tmp
+|   |   |   |-- ~WRS{8B9F7106-6019-4C23-8139-BD7344709903}.tmp
+|   |   |   |-- ~WRS{8F389F2E-45EF-489B-B346-F9963DB4BC06}.tmp
+|   |   |   |-- ~WRS{911DB49C-0424-4B97-B5AA-1D3CF0AABE44}.tmp
+|   |   |   |-- ~WRS{93F8D08C-6F9B-46FC-8B6D-6120D3B57BEC}.tmp
+|   |   |   |-- ~WRS{94F393F8-5D7B-4818-BC84-CF136612656A}.tmp
+|   |   |   |-- ~WRS{966474A4-0B64-4BEE-A6BB-8C9985E8C153}.tmp
+|   |   |   |-- ~WRS{A86A6D12-CA80-4009-B458-AD20B42335F8}.tmp
+|   |   |   |-- ~WRS{A9ACD4A5-BE22-4086-8A7C-7EF43C833FFA}.tmp
+|   |   |   |-- ~WRS{AA140D83-04FF-4570-AB30-6E39C571702F}.tmp
+|   |   |   |-- ~WRS{AC8B0BA3-E229-4095-9883-FDE913B08F81}.tmp
+|   |   |   |-- ~WRS{BA073B7D-7089-41AF-9C62-F90DD30E460E}.tmp
+|   |   |   |-- ~WRS{BF9636B0-F349-46CD-ACFF-6BA34651439D}.tmp
+|   |   |   |-- ~WRS{C1B22E22-9A70-4B61-BBF7-88EE613EE7BD}.tmp
+|   |   |   |-- ~WRS{CD5D8324-5E3E-4FC1-AC77-34F9B28C613A}.tmp
+|   |   |   |-- ~WRS{D05236D5-A334-4D38-A83D-FFB15583EB1F}.tmp
+|   |   |   |-- ~WRS{DC6CE5D8-FDF7-4F4D-BA83-8B6CCA28ACBB}.tmp
+|   |   |   |-- ~WRS{E1E621B8-87DC-4704-95C9-7918CB261F15}.tmp
+|   |   |   |-- ~WRS{E95804CA-B255-42EA-973E-96F7E6F26DC4}.tmp
+|   |   |   |-- ~WRS{EEEA65A7-0E9F-4067-824C-97431BEEC905}.tmp
+|   |   |   |-- ~WRS{F05E2F85-DE55-4B1F-9A8F-4FD3E84B8D56}.tmp
+|   |   |   |-- ~WRS{F281F8EE-C94E-4688-BFBB-2B25C7E47A79}.tmp
+|   |   |   |-- ~WRS{F39D01AB-D0E3-4EB2-A1CC-5053B81614D5}.tmp
+|   |   |   |-- ~WRS{F4FFF371-A68F-4696-8CFB-DF9E5321689E}.tmp
+|   |   |   |-- ~WRS{FAD9CE8B-873B-45A4-BEAF-B9436739B55B}.tmp
+|   |   |   `-- ~WRS{FD99E609-0643-4349-8872-2BFA4E56C0CC}.tmp
+|   |   |-- IE
+|   |   |   |-- EO20CUPG
+|   |   |   |-- IXZJ7QNV
+|   |   |   |-- JVQPCJM7
+|   |   |   |-- UDWY7QD2
+|   |   |   `-- container.dat
+|   |   |-- Low
+|   |   `-- Virtualized
+|   |-- VirtualStore
+|   |   `-- ProgramData
+|   |       `-- Microsoft
+|   |-- Zoom
+|   |   |-- data
+|   |   |   |-- Emojis
+|   |   |   |-- emoji-categories.json
+|   |   |   |-- emoji.json
+|   |   |   `-- emoji.version
+|   |   `-- plugin
+|   |-- audacity
+|   |   |-- SessionData
+|   |   `-- crashreports
+|   |       |-- attachments
+|   |       |-- metadata
+|   |       |-- reports
+|   |       `-- settings.dat
+|   |-- outline-client-updater
+|   |   `-- installer.exe
+|   |-- speech
+|   |   `-- Microsoft
+|   |       `-- Speech
+|   `-- yandexmusic-updater
+|       `-- installer.exe
+|-- Muse Hub
+|   |-- Elements
+|   `-- Instruments
+|-- Music
+|   `-- desktop.ini
+|-- NTUSER.DAT
+|-- NTUSER.DAT{7c2acb8c-525a-11ef-b76a-cec4aace138a}.TM.blf
+|-- NTUSER.DAT{7c2acb8c-525a-11ef-b76a-cec4aace138a}.TMContainer00000000000000000001.regtrans-ms
+|-- NTUSER.DAT{7c2acb8c-525a-11ef-b76a-cec4aace138a}.TMContainer00000000000000000002.regtrans-ms
+|-- NetHood
+|-- PCManger
+|-- Pictures
+|   |-- capture_20240912010220690.bmp
+|   `-- desktop.ini
+|-- PrintHood
+|-- Recent
+|   |-- 0c67e24a9ed66ddaf0824b55310339f3fb65e65f.mp4.lnk
+|   |-- 1 физтех (2).lnk
+|   |-- 1 физтех.lnk
+|   |-- 1.цитология подковальников.lnk
+|   |-- 10 эндокринная.pptx.lnk
+|   |-- 101NIKON.lnk
+|   |-- 102NIKON.lnk
+|   |-- 105NIKON.lnk
+|   |-- 11 кожа и вс.pptx.lnk
+|   |-- 17.02.2025, 18_50_32 - Screen - Видео без названия.webm.lnk
+|   |-- 2.анатомия подковальников.lnk
+|   |-- 3 КУРС ВЕСНА 2025.xls.lnk
+|   |-- 3 КУРС ОСЕНЬ 2024 г..xls.lnk
+|   |-- 3604d3f0-6b3b-4090-bb48-4aa80a5bd8f6.lnk
+|   |-- 6.экология подковальников.lnk
+|   |-- 7 Внутренняя среда организма.pptx.lnk
+|   |-- 8 Нервная система.pptx.lnk
+|   |-- 8c24cc61-80a2-48e2-84a9-49f6264b7107 (1).jpeg.lnk
+|   |-- 8c24cc61-80a2-48e2-84a9-49f6264b7107.jpeg.lnk
+|   |-- 9 Анализаторы.pptx.lnk
+|   |-- AutomaticDestinations
+|   |   |-- 1b4dd67f29cb1962.automaticDestinations-ms
+|   |   |-- 1ced32d74a95c7bc.automaticDestinations-ms
+|   |   |-- 21b0c04bc084ccbb.automaticDestinations-ms
+|   |   |-- 46e261115236d0ad.automaticDestinations-ms
+|   |   |-- 46f433176bc0b3d2.automaticDestinations-ms
+|   |   |-- 573770283dc3d854.automaticDestinations-ms
+|   |   |-- 5d696d521de238c3.automaticDestinations-ms
+|   |   |-- 5f7b5f1e01b83767.automaticDestinations-ms
+|   |   |-- 7e4dca80246863e3.automaticDestinations-ms
+|   |   |-- 82d105222a33430b.automaticDestinations-ms
+|   |   |-- 86c581acd48c8a71.automaticDestinations-ms
+|   |   |-- 8fcf89cc1a793cb8.automaticDestinations-ms
+|   |   |-- 9149d0f5ebf7f710.automaticDestinations-ms
+|   |   |-- 95597e2f40dbd9aa.automaticDestinations-ms
+|   |   |-- 9b9cdc69c1c24e2b.automaticDestinations-ms
+|   |   |-- ad733bc5be575452.automaticDestinations-ms
+|   |   |-- b8ab77100df80ab2.automaticDestinations-ms
+|   |   |-- cb05cc8c5a282971.automaticDestinations-ms
+|   |   |-- ccba5a5986c77e43.automaticDestinations-ms
+|   |   |-- cd660fb919ceccf1.automaticDestinations-ms
+|   |   |-- cf8eb85f9626abf3.automaticDestinations-ms
+|   |   |-- d00655d2aa12ff6d.automaticDestinations-ms
+|   |   |-- d06c94537ecaee12.automaticDestinations-ms
+|   |   |-- e09d2629669ffa69.automaticDestinations-ms
+|   |   |-- e963fbc9cb5d0750.automaticDestinations-ms
+|   |   |-- e9a39dfba105ea23.automaticDestinations-ms
+|   |   |-- ed991d542642203b.automaticDestinations-ms
+|   |   |-- f01b4d95cf55d32a.automaticDestinations-ms
+|   |   |-- f18460fded109990.automaticDestinations-ms
+|   |   |-- fb3b0dbfee58fac8.automaticDestinations-ms
+|   |   `-- ff103e2cc310d0d.automaticDestinations-ms
+|   |-- BIOLOGYLIKE_Anatomia_-_OGE.pdf.lnk
+|   |-- BM_kNN_praktika (1).ipynb.lnk
+|   |-- BM_kNN_praktika.ipynb.lnk
+|   |-- BM_linreg_HW (2) (1).ipynb.lnk
+|   |-- BM_linreg_HW (2).ipynb.lnk
+|   |-- BM_linreg_HW.ipynb.lnk
+|   |-- BM_linreg_sklearn (1).ipynb.lnk
+|   |-- BM_linreg_sklearn (2).ipynb.lnk
+|   |-- BM_linreg_sklearn.ipynb.lnk
+|   |-- BM_main_sem_kNN.ipynb.lnk
+|   |-- CustomDestinations
+|   |   |-- 1ced32d74a95c7bc.customDestinations-ms
+|   |   |-- 27afcd3e5ac40b6f.customDestinations-ms
+|   |   |-- 2f508cb063baec0a.customDestinations-ms
+|   |   |-- 352fd027c0e8f0e5.customDestinations-ms
+|   |   |-- 590aee7bdd69b59b.customDestinations-ms
+|   |   |-- 5d696d521de238c3.customDestinations-ms
+|   |   |-- 7e4dca80246863e3.customDestinations-ms
+|   |   |-- b8ab77100df80ab2.customDestinations-ms
+|   |   |-- c830762833f50d19.customDestinations-ms
+|   |   |-- ccba5a5986c77e43.customDestinations-ms
+|   |   |-- d00655d2aa12ff6d.customDestinations-ms
+|   |   |-- f01b4d95cf55d32a.customDestinations-ms
+|   |   |-- f18460fded109990.customDestinations-ms
+|   |   `-- fb3b0dbfee58fac8.customDestinations-ms
+|   |-- DSCN0001.JPG.lnk
+|   |-- DSCN2840.JPG.lnk
+|   |-- DSCN2877.JPG.lnk
+|   |-- INVITRO_848879450.pdf.lnk
+|   |-- Lec2_Genome realization_exit.pptx.lnk
+|   |-- MEJOZ.pdf.lnk
+|   |-- Rnaseq_age_reg.csv.lnk
+|   |-- Rokhlov_OGE_2024_OTVETY.pdf.lnk
+|   |-- Rokhlov_OGE_2024_VOPROSY.pdf.lnk
+|   |-- Screenshot.lnk
+|   |-- Sleep_health_and_lifestyle_dataset.csv.lnk
+|   |-- TV_Week1.docx.lnk
+|   |-- Test_Anemia.csv.lnk
+|   |-- X0DZ474un5FND34bYcuhNMWry1gm4WOHnqZF3tE4d1C_fgwcTAsjfbGud2MrxveO9KkOp0KiQ2MavvRqzjvdqxU3.jpg.lnk
+|   |-- Yarilin_Immunologia.pdf.lnk
+|   |-- aa3e5d13-d572-4c01-8ed4-666e8c7bb8b3.jpeg.lnk
+|   |-- acb04a19-8196-4d35-b67e-6892b241b908.lnk
+|   |-- anato.lnk
+|   |-- archive.zip.lnk
+|   |-- bbe22996-ae56-4c6d-a896-ba2422a6b1fd.jpeg.lnk
+|   |-- be2a5de5dbe96fbf8ac9691a4ca1824f0d86a8f1.docx.lnk
+|   |-- bio_78_11.jpg.lnk
+|   |-- bio_85_13.jpg.lnk
+|   |-- bvveyjkjubz.lnk
+|   |-- c1bea669-c9e9-4e70-a90b-e0d40b3c6708.lnk
+|   |-- capture_20250203174508986.bmp.lnk
+|   |-- desktop.ini
+|   |-- etc.lnk
+|   |-- gitconfig.lnk
+|   |-- https--docs.google.com-spreadsheets-d-1Csf1iwO4HZ5_hP6NNnRF3so6cRPYloxlccwKaOj4wXg-editgid=0.lnk
+|   |-- https--docs.google.com-spreadsheets-d-1Csf1iwO4HZ5_hP6NNnRF3so6cRPYloxlccwKaOj4wXg-editusp=sharing&amp;usp=embed_facebook.lnk
+|   |-- https--docs.google.com-spreadsheets-d-1Csf1iwO4HZ5_hP6NNnRF3so6cRPYloxlccwKaOj4wXg-editusp=sharing.lnk
+|   |-- https--drive.google.com-drive-folders-1y44gqpECAAK4g9usn0pE0xX8uggpUAyVusp=sharing.lnk
+|   |-- id_rsa.pub.lnk
+|   |-- ilovepdf_split-range.zip.lnk
+|   |-- insurance_miptstats.csv.lnk
+|   |-- kor.lnk
+|   |-- mmokhina@frontend.aldan3.itm-rsmu.ru_22 - Bitvise xterm - 20250213-104720947-P0300.txt.lnk
+|   |-- ms-gamingoverlay---.lnk
+|   |-- ms-settingsbatterysaver.lnk
+|   |-- ms-settingsconnecteddevices.lnk
+|   |-- ms-settingsnetwork.lnk
+|   |-- nh3-msi (2).lnk
+|   |-- nh3-msi (3).lnk
+|   |-- nh3-msi.lnk
+|   |-- otvety_na_olimpiadnye_zadanija_po_ekologija_11_klass.doc.lnk
+|   |-- penguins.csv.lnk
+|   |-- photo_5289880832598731853_x.jpg.lnk
+|   |-- photo_5289880832598731855_x.jpg.lnk
+|   |-- photo_5289880832598731856_x.jpg.lnk
+|   |-- photo_5289880832598731861_x.jpg.lnk
+|   |-- photo_5289880832598731863_x.jpg.lnk
+|   |-- photo_5289880832598731868_x.jpg.lnk
+|   |-- photo_5289880832598731871_x.jpg.lnk
+|   |-- photo_5305370997223976105_x.jpg.lnk
+|   |-- photo_5305678430983023239_y.jpg.lnk
+|   |-- photo_5305678430983023245_y.jpg.lnk
+|   |-- photo_5305678430983023248_x.jpg.lnk
+|   |-- photo_5305678430983023250_y.jpg.lnk
+|   |-- rcsb_pdb_168L.fasta.lnk
+|   |-- seminar1.lnk
+|   |-- seminar_1_linreg_edited (1).ipynb.lnk
+|   |-- seminar_1_linreg_edited-2.ipynb.lnk
+|   |-- seminar_1_linreg_edited.ipynb.lnk
+|   |-- seminar_logreg_new_БМ (1) (1) (1).ipynb.lnk
+|   |-- seminar_logreg_new_БМ (1) (1).ipynb.lnk
+|   |-- seminar_logreg_new_БМ (1).ipynb.lnk
+|   |-- seminar_logreg_new_БМ.ipynb.lnk
+|   |-- ssh.lnk
+|   |-- test.lnk
+|   |-- Вопросы к экзамену (1).docx.lnk
+|   |-- Вопросы к экзамену.docx.lnk
+|   |-- Документы.lnk
+|   |-- Загрузки.lnk
+|   |-- Интернет.lnk
+|   |-- Ионя (1).pptx.lnk
+|   |-- Ионя.pptx.lnk
+|   |-- Локальный диск (D).lnk
+|   |-- Машинка_ДЗ_\2711.ipynb.lnk
+|   |-- Новая папка.lnk
+|   |-- Новая презентация.pptx.lnk
+|   |-- Новый документ (4).pdf.lnk
+|   |-- ОФС_Ионообменная_хроматография (1).docx.lnk
+|   |-- ОФС_Ионообменная_хроматография.docx.lnk
+|   |-- Органоиды клетки.pptx.lnk
+|   |-- Отработка.pptx.lnk
+|   |-- Презентация1.pptx.lnk
+|   |-- Удаление программы.lnk
+|   |-- ФМИ ВПВ ТЕКСТ .docx.lnk
+|   |-- Цитология 2.pdf.lnk
+|   |-- Цитология 2.pptx.lnk
+|   |-- Цитология – наука о.pptm.lnk
+|   |-- Цитология часть 2.pptx.lnk
+|   |-- Цитология.pptx.lnk
+|   |-- Электропитание.lnk
+|   |-- Этот компьютер.lnk
+|   |-- анатомия.lnk
+|   |-- биоинф.lnk
+|   |-- биосфера.pdf.lnk
+|   |-- биохимия.lnk
+|   |-- введение в цитологию.lnk
+|   |-- вирусы и бактерии.pdf.lnk
+|   |-- влияние человека.pdf.lnk
+|   |-- генетика клеточного цикла.pdf.lnk
+|   |-- гугл табл.url
+|   |-- делени клеток и размножение.pdf.lnk
+|   |-- иммунология.lnk
+|   |-- ионы и анионы.pdf.lnk
+|   |-- итог.pdf.lnk
+|   |-- итог.pptx.lnk
+|   |-- клетка 2.lnk
+|   |-- клетка.lnk
+|   |-- коллоквиум двумембранные органоиды.doc.lnk
+|   |-- компактизация днк.doc.lnk
+|   |-- маша.lnk
+|   |-- нервная система.pdf.lnk
+|   |-- оптика.lnk
+|   |-- органоиды.pdf.lnk
+|   |-- письмак.lnk
+|   |-- преподаватель.lnk
+|   |-- пршлгд.docx.lnk
+|   |-- распутать геном.pdf.lnk
+|   |-- решаем огэ.lnk
+|   |-- семинар1.pptx.lnk
+|   |-- текст англ (1).docx.lnk
+|   |-- текст рус.docx.lnk
+|   |-- уровни компактизации.ppsx.lnk
+|   |-- цитология.lnk
+|   |-- цитология.pdf.lnk
+|   `-- экосистама.pdf.lnk
+|-- Saved Games
+|   `-- desktop.ini
+|-- Searches
+|   |-- Everywhere.search-ms
+|   |-- Indexed Locations.search-ms
+|   |-- desktop.ini
+|   `-- winrt--{S-1-5-21-4259343098-3398644483-4272937006-1001}-.searchconnector-ms
+|-- SendTo
+|   |-- Compressed (zipped) Folder.ZFSendToTarget
+|   |-- Desktop (create shortcut).DeskLink
+|   |-- Fax Recipient.lnk
+|   |-- Mail Recipient.MAPIMail
+|   |-- desktop.ini
+|   |-- Документы.mydocs
+|   `-- Передача файлов через Bluetooth.LNK
+|-- Videos
+|   |-- Captures
+|   |   `-- desktop.ini
+|   `-- desktop.ini
+|-- battery-report.html
+|-- homework
+|-- homeworkbioinf
+|   |-- hw_file_1.txt
+|   `-- hw_file_1.txt~
+|-- hw_file_1.txt
+|-- hw_file_1.txt~
+|-- ntuser.dat.LOG1
+|-- ntuser.dat.LOG2
+|-- ntuser.ini
+|-- test
+|-- Мои документы
+|   |-- Audacity
+|   |-- Git-2.47.0-64-bit.exe
+|   |-- GitHub
+|   |   `-- meowhomework
+|   |       |-- hw3_mmokhinaa_code.py
+|   |       |-- hw_3mmokhinaa_kv.md
+|   |       |-- hw_5_cq.txt
+|   |       `-- дз_5_code.py
+|   |-- GitHubDesktopSetup-x64.exe
+|   |-- Muse_Hub.exe
+|   |-- VSCodeUserSetup-x64-1.92.2.exe
+|   |-- WindowsPowerShell
+|   |-- ZoomInstallerFull.exe
+|   |-- audacity-win-v3.6.4-R3.4-64bit-OpenVINO-AI-Plugins.exe
+|   |-- desktop.ini
+|   |-- python-3.13.0-embed-amd64
+|   |   |-- LICENSE.txt
+|   |   |-- _asyncio.pyd
+|   |   |-- _bz2.pyd
+|   |   |-- _ctypes.pyd
+|   |   |-- _decimal.pyd
+|   |   |-- _elementtree.pyd
+|   |   |-- _hashlib.pyd
+|   |   |-- _lzma.pyd
+|   |   |-- _multiprocessing.pyd
+|   |   |-- _overlapped.pyd
+|   |   |-- _queue.pyd
+|   |   |-- _socket.pyd
+|   |   |-- _sqlite3.pyd
+|   |   |-- _ssl.pyd
+|   |   |-- _uuid.pyd
+|   |   |-- _wmi.pyd
+|   |   |-- _zoneinfo.pyd
+|   |   |-- libcrypto-3.dll
+|   |   |-- libffi-8.dll
+|   |   |-- libssl-3.dll
+|   |   |-- pyexpat.pyd
+|   |   |-- python.cat
+|   |   |-- python.exe
+|   |   |-- python3.dll
+|   |   |-- python313._pth
+|   |   |-- python313.dll
+|   |   |-- python313.zip
+|   |   |-- pythonw.exe
+|   |   |-- select.pyd
+|   |   |-- sqlite3.dll
+|   |   |-- tcl86t.dll
+|   |   |-- tk86t.dll
+|   |   |-- unicodedata.pyd
+|   |   |-- vcruntime140.dll
+|   |   |-- vcruntime140_1.dll
+|   |   |-- winsound.pyd
+|   |   `-- zlib1.dll
+|   |-- python-3.13.0-embed-amd64.zip
+|   |-- ssh
+|   |   `-- id_rsa.pub
+|   |-- Мои видеозаписи
+|   |   |-- Captures
+|   |   |   `-- desktop.ini
+|   |   `-- desktop.ini
+|   |-- Моя музыка
+|   |   `-- desktop.ini
+|   |-- Настраиваемые шаблоны Office
+|   `-- мои рисунки
+|       |-- capture_20240912010220690.bmp
+|       `-- desktop.ini
+|-- Шаблоны
+`-- главное меню
+    |-- Programs
+    |   |-- Accessibility
+    |   |   |-- Magnify.lnk
+    |   |   |-- Narrator.lnk
+    |   |   |-- On-Screen Keyboard.lnk
+    |   |   `-- desktop.ini
+    |   |-- Accessories
+    |   |   |-- Internet Explorer.lnk
+    |   |   `-- desktop.ini
+    |   |-- Administrative Tools
+    |   |   `-- desktop.ini
+    |   |-- AntConc
+    |   |   `-- AntConc.lnk
+    |   |-- Discord Inc
+    |   |   `-- Discord.lnk
+    |   |-- GitHub, Inc
+    |   |   `-- GitHub Desktop.lnk
+    |   |-- Maintenance
+    |   |   `-- Desktop.ini
+    |   |-- Nahimic Companion.lnk
+    |   |-- Startup
+    |   |   `-- desktop.ini
+    |   |-- System Tools
+    |   |   |-- Administrative Tools.lnk
+    |   |   |-- Command Prompt.lnk
+    |   |   |-- Control Panel.lnk
+    |   |   |-- Desktop.ini
+    |   |   |-- File Explorer.lnk
+    |   |   |-- Run.lnk
+    |   |   `-- computer.lnk
+    |   |-- Visual Studio Code
+    |   |   `-- Visual Studio Code.lnk
+    |   |-- Windows PowerShell
+    |   |   |-- Windows PowerShell (x86).lnk
+    |   |   `-- Windows PowerShell.lnk
+    |   |-- desktop.ini
+    |   |-- Приложения Chrome
+    |   |   `-- Telegram Web.lnk
+    |   `-- Яндекс Музыка.lnk
+    |-- desktop.ini
+    `-- Программы
+        |-- Accessibility
+        |   |-- Magnify.lnk
+        |   |-- Narrator.lnk
+        |   |-- On-Screen Keyboard.lnk
+        |   `-- desktop.ini
+        |-- Accessories
+        |   |-- Internet Explorer.lnk
+        |   `-- desktop.ini
+        |-- Administrative Tools
+        |   `-- desktop.ini
+        |-- AntConc
+        |   `-- AntConc.lnk
+        |-- Discord Inc
+        |   `-- Discord.lnk
+        |-- GitHub, Inc
+        |   `-- GitHub Desktop.lnk
+        |-- Maintenance
+        |   `-- Desktop.ini
+        |-- Nahimic Companion.lnk
+        |-- Startup
+        |   `-- desktop.ini
+        |-- System Tools
+        |   |-- Administrative Tools.lnk
+        |   |-- Command Prompt.lnk
+        |   |-- Control Panel.lnk
+        |   |-- Desktop.ini
+        |   |-- File Explorer.lnk
+        |   |-- Run.lnk
+        |   `-- computer.lnk
+        |-- Visual Studio Code
+        |   `-- Visual Studio Code.lnk
+        |-- Windows PowerShell
+        |   |-- Windows PowerShell (x86).lnk
+        |   `-- Windows PowerShell.lnk
+        |-- desktop.ini
+        |-- Приложения Chrome
+        |   `-- Telegram Web.lnk
+        `-- Яндекс Музыка.lnk
+
+2745 directories, 1809 files
+    1  ls
+    2  ~
+    3  ~
+    4  cat
+    5  ls
+    6  ls - s
+    7  ls -s
+    8  whoami
+    9  pwd
+   10  pwd
+   11  cat
+   12  ls
+   13  mkdir
+   14  mkdir Bioinform2025
+   15  chmod +x Bioinformatics_2025
+   16  chmod +x Bioinform2025
+   17  mkdir Bioinform2025
+   18  chmod +x Bioinform2025
+   19  cd Bioinform2025
+   20  ls
+   21  mkdir Bioinform2025
+   22  chmod +x ~
+   23  mkdir Bioinform2025
+   24  ls ../
+   25  cd ~
+   26  mkdir test
+   27  cd teest
+   28  cd test
+   29  cd ../
+   30  mkdir Bioinform2025
+   31  cd Bioinform2025
+   32  vim test.txt
+   33  cat --help
+   34  cat test.txt
+   35  cat -n 1 test.txt
+   36  mkdir seminar_1
+   37  ls
+   38  mv test.txt seminar_1
+   39  ls
+   40  ls seminar_1
+   41  cd..
+   42  cd../
+   43  cd ../
+   44  cp seminar_1/test.txt test
+   45  cp seminar_1/test.txt ./
+   46  cd Bioinform2025
+   47  cp seminar_1/test.txt ./
+   48  ls
+   49  rm test.txt
+   50  ls
+   51  rm -r
+   52  rm -r seminar_1
+   53  ls
+   54  mkdir sem_1
+   55  ls
+   56  mkdir to_rename
+   57  ls
+   58  cp -r to_rename renamed
+   59  ls
+   60  rm -r to_rename
+   61  touch test.ry
+   62  cd ../
+   63  cd ~
+   64  python3 test.py
+   65  cd~
+   66  cd ~
+   67  mkdir -p /Bioinformatics_2025/hw/hw_1
+   68  mkdir -p Bioinformatics_2025/hw/hw_1
+   69  rm -r Bioinformatics_2025
+   70  ls
+   71  mkdir -p ~/Bioinformatics_2025/hw/hw_1/
+   72  cd ~/Bioinformatics_2025/hw/hw_1
+   73  mkdir my_hw_file.txt
+   74  vim my_hw_file.txt
+   75  cd ~/Bioinformatics_2025
+   76  cd ~
+   77  rm -r ~/Bioinformatics_2025
+   78  mkdir -p ~/Bioinformatics_2025/hw/hw_1
+   79  cd ~/Bioinformatics_2025
+   80  mkdir my_hw_file
+   81  rm my_hw_file
+   82  rmdir my_hw_file
+   83  echo "СЌС‚Рѕ РјРѕСЏ РґРѕРјР°С€РµС‡РєР°" > my_hw_file.txt
+   84  cat  my_hw_file.txt
+   85  ls
+   86  mv my_hw_file.txt hw_file_1.txt
+   87  ls
+   88  mkdir -p ~/homework
+   89  cp hw_file_1.txt ~/homework/
+   90  rm В›~/homework/hw_file_1.txt
+   91  rm ~/homework/hw_file_1.txt
+   92  ls
+   93  mkdir -p ~/homework
+   94  ls
+   95  cd~
+   96  cd ~
+   97  ls
+   98  cd homework
+   99  ls
+  100  cp hw_file_1.txt ~/homework/
+  101  cd Bioinformatics_2025
+  102  cd ~
+  103  Bioinformatics_2025
+  104  cd Bioinformatics_2025
+  105  cp hw_file_1.txt ~/homework/
+  106  ls
+  107  ls homework
+  108  cd ~
+  109  ls homework
+  110  rm ~/homework/hw_file_1.txt
+  111  ls homework
+  112  tree ~ >> hw_file_1.txt
+  113  tree <homework>
+  114  tree homework
+  115  tree ~ >> homework
+  116  tree ~ >> hw_file_1.txt
+  117  choco install tree
+  118  Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.SecurityProtocolType]::Tls12; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
+  119  winget install GnuWin32.Tree
+  120  snap install tree
+  121  sudo snap install tree
+  122  sudo apt-get install tree
+  123  whereis sudo
+  124  sudo su
+  125  sudo su -
+  126  sudo su -
+  127  sudo apt-get install tree
+  128  choko install tree
+  129  choco install tree
+  130  choco install tree
+  131  cd ~
+  132  choco itstall tree
+  133  choco install tree
+  134  cd ~
+  135  ls
+  136  choco install tree
+  137  tree --version
+  138  mkdir -p ~/Bioinformatics_2025/hw/hw_1/~
+  139  ls
+  140  cd ~
+  141  ls
+  142  cd ~/Bioinformatics_2025/hw/hw_1
+  143  cd ~/Bioinformatics_2025/hw/hw_1/
+  144  mkdir my_hw_file.txt
+  145  echo "СЏ С…РѕС‡Сѓ РєСѓС€Р°С‚СЊ" > my_hw_file.txt
+  146  РґС‹ -Рґ
+  147  ls-l
+  148  ls -l
+  149  rm -r my_hw_file.txt
+  150  touch my_hw_file.txt
+  151  echo "СЏ С…РѕС‡Сѓ РєСѓС€Р°С‚СЊ" > my_hw_file.txt
+  152  mv my_hw_file.txt hw_file_1.txt
+  153  mkdir -p ~/homework
+  154  cp hw_file_1.txt ~/homework/
+  155  rm ~/homework/hw_file_1.txt
+  156  tree ~ >> ~/Bioinformatics_2025/hw/hw_1/hw_file_1.txt
+  157  tree ~ >> ~/Bioinformatics_2025/hw/hw_1/hw_file_1.txt
+  158  ls
+  159  cd ~
+  160  mkdir -p ~/Bioinformatics_2025/hw/hw_1/~
+  161  ls
+  162  ls Bioinformatics_2025
+  163  [200~rm -rf ~/Bioinformatics_2025
+  164  rm -rf ~/Bioinformatics_2025
+  165  ls
+  166  rm hw_file_1.txt
+  167  cd ~
+  168  ls
+  169  mkdir -p ~/Bioinformatics_2025/hw/hw_1/
+  170  cd ~/Bioinformatics_2025/hw/hw_1/
+  171  touch my_hw_file.txt
+  172  cat > my_hw_file.txt
+  173  РґС‹
+  174  ls
+  175  ls my_hw_file.txt
+  176  cat my_hw_file.txt
+  177  mv my_hw_file.txt hw_file_1.txt
+  178  ls
+  179  mkdir -p ~/homework/
+  180  cp hw_file_1.txt ~/homework/
+  181  cd~
+  182  cd ~
+  183  ls
+  184  ls homework
+  185  cat hw_file_1.txt
+  186  cat homework/hw_file_1.txt
+  187  rm ~/homework/hw_file_1.txt
+  188  tree ~ >> hw_file_1.txt
+  189  cat hw_file_1.txt
+  190  history >> hw_file_1.txt~
+  191  [200~
+  192  git clone https://github.com/mmokhinaa/homeworkbioinf.git
+  193  cd homeworkbioinf
+  194  cp ~/Bioinformatics_2025/hw/hw_1/hw_file_1.txt
+  195  cp ~/Bioinformatics_2025/hw/hw_1/hw_file_1.txt .
+  196  git add hw_file_1.txt
+  197  git commit -m "Added homework file"
+  198  git push origin main
+  199  tree ~ >> hw_file_1.txt~
+  200  history >> hw_file_1.txt
+  201  cat hw_file_1.txt
+  202  tree ~ >> hw_file_1.txt~
+  203  $ cat hw_file_1.txt
+  204  cat hw_file_1.txt
+  205  tree -L 4 ~ >> hw_file_1.txt
+  206  cat hw_file_1.txt
+  207  history >> hw_file_1.txt
