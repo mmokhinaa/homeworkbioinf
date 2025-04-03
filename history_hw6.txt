@@ -1,31 +1,44 @@
-  289  cd homeworks
-  290  cd hw_6_
-  291  unzip "ncbi_dataset (4).zip"
-  292  rm -r ncbi_dataset
-  293  unzip "ncbi_dataset (3).zip"
-  294  rm -r ncbi_dataset
-  295  conda --version
-  296  conda create -n ncbi_datasets python=3.9 -y
-  297  conda activate ncbi_datasets
-  298  onda install -c conda-forge ncbi-datasets-cli -y
-  299  conda install -c conda-forge ncbi-datasets-cli -y
-  300  datasets --version
-  301  datasets download genome accession GCF_000002855.4 --include protein
-  302  unzip "ncbi_dataset.zip"
-  303  rm -r ncbi_dataset
-  304  datasets download genome accession GCF_000146045.2 --include protein
-  305  unzip "ncbi_dataset.zip"
-  306  rm -r ncbi_datase
-  307  rm -r ncbi_dataset
-  308  wget "https://www.ebi.ac.uk/interpro/api/entry/pfam/PF00136/?annotation=alignment:full" -O DNA_polymerase_full.sto
-  309  conda list hmmer
-  310  gunzip PF00136 (2).hmm.gz
-  311  gunzip "PF00136 (2).hmm.gz"
-  312  hmmsearch -o Cer_polB_hmmsearch.txt PF00136.hmm protein14.faa
-  313  conda install -c bioconda hmmer
-  314  conda update -n base -c defaults conda
-  315  conda install -c bioconda hmmer
-  316  hmmsearch -o Cer_polB_hmmsearch.txt PF00136.hmm protein14.faa
-  317  hmmsearch -o Aniga_polB_hmmsearch.txt PF00136.hmm protein28.faa
-  318  efetch -db protein -id NP_010181.2,NP_014297.3 -format fasta > top_polB_yeast.fasta
-  319  history
+289  cd homeworks
+290  cd hw_6_
+
+# 2. Работа с датасетами NCBI, загрузила датасеты для дрожжей, для аспергилус нигер
+291  unzip "ncbi_dataset (4).zip"
+292  rm -r ncbi_dataset
+293  unzip "ncbi_dataset (3).zip"
+294  rm -r ncbi_dataset
+
+# 3. Настройка conda-окружения для работы с NCBI Datasets
+295  conda --version
+296  conda create -n ncbi_datasets python=3.9 -y
+297  conda activate ncbi_datasets
+298  conda install -c conda-forge ncbi-datasets-cli -y  
+299  conda install -c conda-forge ncbi-datasets-cli -y  # [Правильная установка]
+300  datasets --version  # Проверка установки
+
+# 4. Загрузка белковых последовательностей из NCBI
+301  datasets download genome accession GCF_000002855.4 --include protein  # S.cerevisiae
+302  unzip "ncbi_dataset.zip"
+303  rm -r ncbi_dataset
+304  datasets download genome accession GCF_000146045.2 --include protein  # Другой организм
+305  unzip "ncbi_dataset.zip"
+306  rm -r ncbi_datase 
+307  rm -r ncbi_dataset  # Правильное удаление
+
+# 5. Загрузка HMM-профиля DNA-полимеразы (PF00136)
+308  wget "https://www.ebi.ac.uk/interpro/api/entry/pfam/PF00136/?annotation=alignment:full" -O DNA_polymerase_full.sto
+
+# 6. Работа с HMMER (установка и запуск поиска)
+309  conda list hmmer  # Проверка установки
+310  gunzip PF00136 (2).hmm.gz  # [ОШИБКА: пробелы в имени файла]
+311  gunzip "PF00136 (2).hmm.gz"  # Распаковка HMM-профиля
+312  hmmsearch -o Cer_polB_hmmsearch.txt PF00136.hmm protein14.faa  # [ОШИБКА: HMMER не установлен]
+313  conda install -c bioconda hmmer  # Установка HMMER
+314  conda update -n base -c defaults conda  # Обновление conda
+315  conda install -c bioconda hmmer  # Повторная установка HMMER
+316  hmmsearch -o Cer_polB_hmmsearch.txt PF00136.hmm protein14.faa  # Успешный запуск для S.cerevisiae
+317  hmmsearch -o Aniga_polB_hmmsearch.txt PF00136.hmm protein28.faa  # Поиск для второго организма
+
+
+# 8. Просмотр истории команд
+319  history
+потом я просто нашла последовательности с наименьшим e-value и посмотрела их на uniplot
