@@ -1,0 +1,210 @@
+# hmmsearch :: search profile(s) against a sequence database
+# HMMER 3.1b2 (February 2015); http://hmmer.org/
+# Copyright (C) 2015 Howard Hughes Medical Institute.
+# Freely distributed under the GNU General Public License (GPLv3).
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# query HMM file:                  PF00136.hmm
+# target sequence database:        protein28.faa
+# output directed to file:         Aniga_polB_hmmsearch.txt
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Query:       DNA_pol_B  [M=453]
+Accession:   PF00136.26
+Description: DNA polymerase family B
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence       Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------       -----------
+   1.9e-157  524.3   2.2   2.6e-157  523.9   2.2    1.2  1  XP_001397242.1  uncharacterized protein An15g07150 [Aspergill
+   1.2e-121  406.3   2.4   1.6e-121  405.9   2.4    1.2  1  XP_059599918.1  uncharacterized protein An02g02510 [Aspergill
+   6.2e-107  357.8   0.0   8.3e-107  357.4   0.0    1.2  1  XP_001394913.3  uncharacterized protein An11g09550 [Aspergill
+    8.9e-17   60.6   0.5      9e-13   47.4   0.3    4.0  3  XP_059605612.1  uncharacterized protein An16g03060 [Aspergill
+
+
+Domain annotation for each sequence (and alignments):
+>> XP_001397242.1  uncharacterized protein An15g07150 [Aspergillus niger]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  523.9   2.2  7.3e-161  2.6e-157       1     453 []     539     969 ..     539     969 .. 0.97
+
+  Alignments for each domain:
+  == domain 1  score: 523.9 bits;  conditional E-value: 7.3e-161
+                     S-HHHHHHT-SHHHHHHHHHHHHHHTTEE-B.E--H.CHCC.SS---BE---SEEESS-EEEEEETTHHHHHHHHCT-STTTCEECSSSCC.SCE CS
+       DNA_pol_B   1 iplsrvledgqqirveslLLraakeekfilpdrkskkgkeegyeGatVlePkkglyekpvlvlDFnSLYPsiiqahNlcyttlvkseeeek.ele 94 
+                     +p++++l++gqq++  s+L+r+a+e+++++p+ ks+  +e++yeGatV+eP +g+y  p+++lDF+SLYPsiiqahNlcyttl+++ + e+ +l 
+  XP_001397242.1 539 VPFNFLLSRGQQVKFISQLFRKALEQQLVIPNTKSN--DEQDYEGATVIEPVRGYYGVPIATLDFASLYPSIIQAHNLCYTTLLNKSSVERlKLV 631
+                     68999**************************77666..5555******************************************99887665555 PP
+
+                     BTTSSTEEE-TTSEEEE-TTTH--HHHHHHHHHHHHHHHHHHHHHCSSSHHHHHHHHHHHHHHHHHHHHHHHHHHSTTSTT--HHHHHHHHHHHH CS
+       DNA_pol_B  95 eedyetveleprgeefvkksvregiLpklLkellakRkeikkllkeesdeaekalldkrQlalKvtaNsvYGftGvangrlpclaiAesvtaiGR 189
+                       + e++ ++p+g+ f +++vr+g+L+++L+ell++Rk++kk+l+ e+d+++ka+l++rQlalK++aNsvYG+tG++ g+lpcl+iA+s t++GR
+  XP_001397242.1 632 --KDEDYIVTPNGDMFCTAKVRKGLLSQILEELLSARKRAKKELAVETDPFKKAVLNGRQLALKISANSVYGLTGATVGKLPCLPIASSTTSYGR 724
+                     ..5679***************************************************************************************** PP
+
+                     HHHHHHHHHHHHT...SSTTTT.SS......T-EEEEEESSEEEEE-STSSHHHHHHHHHHHHHHHHT.TSTTT--EEEEEEEEEEEEEETTEEE CS
+       DNA_pol_B 190 emlektkelvekkaellskllaleeeveeelklkviYGDTDSvfielkvkdveevlkigkelaeevneklfkkpiklefekvykkllLisKKkYa 284
+                     +m+ektk+ ve++   ++  +++++      ++kviYGDTDSv+++++v+++ee++k+g+e+ e+v++ +f kpiklefekvy ++lLi+KK+Ya
+  XP_001397242.1 725 QMIEKTKQEVEAR---YTIANGYSH------DAKVIYGDTDSVMVKFGVDNLEEAMKLGQEASEYVSS-KFLKPIKLEFEKVYFPYLLINKKRYA 809
+                     ***********88...888999999......*************************************.************************** PP
+
+                     EEEECETTTCCEEEEESSCCGSSSS-HHHHHHHHHHHHHHHSS....SBHHHHHHHHHHHHHHHHHHHHCT-S-GGGG-EEEEESSTCCCSTCCC CS
+       DNA_pol_B 285 glkveksskedklevKGvdlvRrdvcklvkevikkvldlllsdeeekksleealekvkslledlreeleenkvplekfvlskelskepeaYkskn 379
+                     gl++++++k+dk+++KG+++vRrd+c lv++vi++vl+++l +    ++++ a ++vk+++    ++l +nk++++k+v++k+lsk  +aY++k+
+  XP_001397242.1 810 GLYWTNPNKYDKMDTKGIETVRRDNCLLVQNVIETVLQKILVE----RDIDGAQDYVKDTI----SDLLQNKIDMSKLVITKALSK--DAYTAKQ 894
+                     *******************************************....**************....*********************..6*****9 PP
+
+                     SHHHHHHHHHHHHC.TS---TTEEEEEEEBCTSSSS-GGGTEEEHHHHHGSSTEBSHHHHHH.TCHHHHHHHHCTS CS
+       DNA_pol_B 380 lphvevakrlkkrn.eeapevgdripYvivkakknekaseraedpeyvlennlridveyYle.qlikevarllepi 453
+                      +hve+a+r++kr+ ++ap++gdr++Yvi+k + ++k++er+edp yvlenn++id++yYl+ ql++++ r++epi
+  XP_001397242.1 895 -AHVELAERMRKRDaGSAPTLGDRVAYVIIKGAGGSKNYERSEDPIYVLENNIPIDTKYYLDnQLANPLGRIFEPI 969
+                     .*************9**********************************************************987 PP
+
+>> XP_059599918.1  uncharacterized protein An02g02510 [Aspergillus niger]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  405.9   2.4  4.5e-125  1.6e-121       2     453 .]     785    1230 ..     784    1230 .. 0.92
+
+  Alignments for each domain:
+  == domain 1  score: 405.9 bits;  conditional E-value: 4.5e-125
+                      -HHHHHHT-SHHHHHHHHHHHHHHTTEE-B....................E--H.CHCC.SS---BE---SEEESS-EEEEEETTHHHHHHHH CS
+       DNA_pol_B    2 plsrvledgqqirveslLLraakeekfilpd...................rkskkgkeegyeGatVlePkkglyekpvlvlDFnSLYPsiiqa 75  
+                      +++r+l++++++r+e++LL++++++k+i pd                    + +k+k+++y+G++V+eP+kgly+k +lv+DFnSLYPsiiq+
+  XP_059599918.1  785 SWARTLSGTRAERNEYILLHEFHRNKYICPDkysskllkaeekmqegdddESADKKKKDKYKGGLVFEPEKGLYDKFILVMDFNSLYPSIIQE 877 
+                      799****************************99999999988888887764444455557********************************* PP
+
+                      CT-STTTCEECSSSCCSCEBTTSSTEEE-TTSEEEE-TTTH--HHHHHHHHHHHHHHHHHHHHH.CSSSHHHHHHHHHHHHHHHHHHHHHHHH CS
+       DNA_pol_B   76 hNlcyttlvkseeeekeleeedyetveleprgeefvkksvregiLpklLkellakRkeikkllk.eesdeaekalldkrQlalKvtaNsvYGf 167 
+                      +N+c+tt+ + ++++++ ee    +v   p      ++++++giLpkl+++l+ +R+e+kkl+k +  ++++ al+d +Qla+K+taNs+YG+
+  XP_059599918.1  878 YNICFTTVERTATADNDKEE----KVPEVP------TSDQEQGILPKLIATLVGRRREVKKLMKdKRATPEQLALWDTKQLAFKLTANSMYGC 960 
+                      ***********999886444....455555......4788************************77789999********************* PP
+
+                      HHSTTSTT--HHHHHHHHHHHHHHHHHHHHHHHHT...SSTTTT.SS......T-EEEEEESSEEEEE-STSSHHHHHHHHHHHHHHHHT.TS CS
+       DNA_pol_B  168 tGvangrlpclaiAesvtaiGRemlektkelvekkaellskllaleeeveeelklkviYGDTDSvfielkvkdveevlkigkelaeevneklf 260 
+                      +G++++r+++ ++A + t +GRe+l +tkel e+k                  +l+viYGDTDSv+i++++++++++lk+g+e++++vne ++
+  XP_059599918.1  961 LGYTQSRFYARPLAMLTTFKGREILRSTKELAESK------------------QLRVIYGDTDSVMINTNMDTISDALKVGDEFKKSVNE-RY 1034
+                      *********************************88..................8************************************.** PP
+
+                      TTT--EEEEEEEEEEEEEETTEEEEEEECETTTCC..EEEEESSCCGSSSS-HHHHHHHHHHHHHHHSS....SBHHHHHHHHHHHHHHHHHH CS
+       DNA_pol_B  261 kkpiklefekvykkllLisKKkYaglkvekssked..klevKGvdlvRrdvcklvkevikkvldlllsdeeekksleealekvkslledlree 351 
+                      +  +++++++v+++llL++KKkYa++ +++ + +   klevKG+d++Rr+ c+l+kev++k+l+++ls     +++e++l+ v+++l +l+e+
+  XP_059599918.1 1035 RL-LEIDIDNVFRRLLLHAKKKYAAINMTEVDGKYvdKLEVKGLDMKRREYCSLSKEVSQKLLNEVLSG----EDQEVVLNRVHDYLRELAEK 1122
+                      **.*************************9877654569*******************************....******************** PP
+
+                      HHCT-S-GGGG-EEEEESSTCCCS.TCCCSHHHHHHHHHHHHCTS---TTEEEEEEEBCTSS...SS-GGGTEEEH.HHHHGSS.TEBSHHHH CS
+       DNA_pol_B  352 leenkvplekfvlskelskepeaY.ksknlphvevakrlkkrneeapevgdripYvivkakk...nekaseraedp.eyvlenn.lridveyY 438 
+                      ++e +vp++k+v+ ++lsk+pe+Y +++++p v+va r  +r ++ ++ +d+i+Yv+++ +    +   ++r++   ++++ ++ l+ d+e Y
+  XP_059599918.1 1123 MREFSVPVQKYVIYTKLSKRPEEYpNKESMPPVQVALRELAR-GKSVRPNDVISYVVTNGDAetsSLAPAKRSYTLqDVMKPDSgLKPDIEFY 1214
+                      ************************9999**********9999.799************998755555556666666455555445******** PP
+
+                      HH.TCHHHHHHHHCTS CS
+       DNA_pol_B  439 le.qlikevarllepi 453 
+                      l  q++++++rl++pi
+  XP_059599918.1 1215 LLkQIFPPIERLCAPI 1230
+                      988**********986 PP
+
+>> XP_001394913.3  uncharacterized protein An11g09550 [Aspergillus niger]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  357.4   0.0  2.4e-110  8.3e-107       3     451 ..    1072    1518 ..    1070    1520 .. 0.90
+
+  Alignments for each domain:
+  == domain 1  score: 357.4 bits;  conditional E-value: 2.4e-110
+                      HHHHHHT-SHHHHHHHHHHHHHHTTEE-B.E--H.CHCC.SS--.....-BE---SEEESS-EEEEEETTHHHHHHHHCT-STTTCEECSSSC CS
+       DNA_pol_B    3 lsrvledgqqirveslLLraakeekfilpdrkskkgkeegyeGa.....tVlePkkglyekpvlvlDFnSLYPsiiqahNlcyttlvkseeee 90  
+                      + +v+++g+q++vesl++r ak e+fil++ +s+k+  +  + a     +V+eP++ +y +p++vlDF+SLYPsi++a+N+cy+t + ++++ 
+  XP_001394913.3 1072 FFSVFSRGSQFKVESLMFRIAKPENFILVS-PSRKQVGQ--QNAleclpLVMEPQSDFYTSPLVVLDFQSLYPSIMIAYNYCYSTFLGRAHQW 1161
+                      66899************************5.44423333..445455579***************************************9999 PP
+
+                      C.SCEBTT.............SSTEEE-TTSEEEE-TTTH--HHHHHHHHHHHHHHHHHHHHH.CSSSHHHHHHHHHHHHHHHHHHHHHHHHH CS
+       DNA_pol_B   91 k.eleeed.............yetveleprgeefvkksvregiLpklLkellakRkeikkllk.eesdeaekalldkrQlalKvtaNsvYGft 168 
+                      + + +                +++++++p+g  ++k++vr+++L+++L+e+l+ R ++k+ +k ++ d+a ++ll++rQlalK++aN +YG+t
+  XP_001394913.3 1162 RgRNKMGFtdykrqprmlellQDKINIAPNGMMYAKPEVRKSLLARMLAEILETRVMVKNGMKiDKDDKALQRLLNNRQLALKLIANVTYGYT 1254
+                      854444438899***************************************************66777779********************** PP
+
+                      HST.TSTT--HHHHHHHHHHHHHHHHHHHHHHHHT...SSTTTT.SS......T-EEEEEESSEEEEE-STSSHHHHHHHHHHHHHHHHT.TS CS
+       DNA_pol_B  169 Gva.ngrlpclaiAesvtaiGRemlektkelvekkaellskllaleeeveeelklkviYGDTDSvfielkvkdveevlkigkelaeevneklf 260 
+                      +++ +gr+pc++iA+s+++ GRe+lek+ +++++                e+  ++v+YGDTDS+f+ lk+++ +e+++ig+e+a+ v++ ++
+  XP_001394913.3 1255 SASfSGRMPCSEIADSIVQSGRETLEKAIAFIHSV---------------ERWGAEVVYGDTDSLFVYLKGRTRDEAFTIGEEIAKAVTS-IN 1331
+                      ***99****************************77...............34799***********************************.** PP
+
+                      TTT--EEEEEEEEEEEEEETTEEEEEEECETTTCC.EEEEESSCCGSSSS-HHHHHHHHHHHHHHHSS....SBHHHHHHHHHHHHHHHHHHH CS
+       DNA_pol_B  261 kkpiklefekvykkllLisKKkYaglkvekssked.klevKGvdlvRrdvcklvkevikkvldlllsdeeekksleealekvkslledlreel 352 
+                       +p+kl+fekvy++ +L++KK+Y+g+k+e++++++ ++++KG+++vRrd  +  +++ +k l+ll+++     +l+++ ++++s+     +++
+  XP_001394913.3 1332 PHPVKLKFEKVYHPCVLLAKKRYVGFKYEHRDQKEpEFDAKGIETVRRDGTPAEQKIEEKALKLLFRT----ADLSQVKRYFQSQC----TKI 1416
+                      *****************************99998856*******************************....88888888888888....*** PP
+
+                      HCT-S-GGGG-EEEEESSTCCCSTCCCSH..HHHH.HHHHHHHCTS---TTEEEEEEEBCTSSSS-GGGTEEEH.HHHHGSSTEBSHHHHHH. CS
+       DNA_pol_B  353 eenkvplekfvlskelskepeaYksknlp..hvev.akrlkkrneeapevgdripYvivkakknekaseraedp.eyvlennlridveyYle. 440 
+                      ++++v++++f+++ke+      Y+ + lp   + +  k++ +  +++p++g+r+pYv+v  + +++  +r++ p +++ + +l +d++yY++ 
+  XP_001394913.3 1417 MQGRVSIQDFCFAKEVRLG--TYSDRGLPppGALIsTKKMIADPRSEPQYGERVPYVVVTGAPGSRLIDRCVPPeTLLHDPHLDLDADYYITk 1507
+                      ****************996..66555544225555156677777******************************55555667**********9 PP
+
+                      TCHHHHHHHHC CS
+       DNA_pol_B  441 qlikevarlle 451 
+                      +li++++r+++
+  XP_001394913.3 1508 NLIPPLERIFN 1518
+                      *********97 PP
+
+>> XP_059605612.1  uncharacterized protein An16g03060 [Aspergillus niger]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    1.5   0.0     0.022        79       5      60 ..     477     541 ..     473     546 .. 0.75
+   2 !    5.7   0.0    0.0012       4.2      60      88 ..     607     635 ..     572     651 .. 0.90
+   3 !   47.4   0.3   2.6e-16     9e-13     143     430 ..     780    1088 ..     773    1129 .. 0.73
+
+  Alignments for each domain:
+  == domain 1  score: 1.5 bits;  conditional E-value: 0.022
+                     HHHHT-SHHHHHHHHHHHHHHTTEE-B.E--H.CHCC...........SS---BE---SEEESS-E CS
+       DNA_pol_B   5 rvledgqqirveslLLraakeekfilpdrkskkgkee..........gyeGatVlePkkglyekpv 60 
+                      +l +g  +  e+lL+ +a + +++lp+++++  + +          +y G+ V + + g++ + +
+  XP_059605612.1 477 DTLRKGTGTLCEMLLMVQAYQGNIVLPNKHKDPPE-SfyeghlleseTYVGGHVESIEAGVFRSDI 541
+                     5789999999*****************84444222.235555666546999999888888887766 PP
+
+  == domain 2  score: 5.7 bits;  conditional E-value: 0.0012
+                     EEEEEETTHHHHHHHHCT-STTTCEECSS CS
+       DNA_pol_B  60 vlvlDFnSLYPsiiqahNlcyttlvksee 88 
+                     +  lD +S+YP+i++ + l +  ++++ +
+  XP_059605612.1 607 IYHLDVASMYPNIMITNRLQPDSMIQESN 635
+                     6679***************9999998765 PP
+
+  == domain 3  score: 47.4 bits;  conditional E-value: 2.6e-16
+                      SHHHHHHHHHHHHHHHHHHHHHHHHHHSTTSTT--HHHHHHHHHHHHHHHHHHHHHHHHT...SST.....TTT.SS................ CS
+       DNA_pol_B  143 deaekalldkrQlalKvtaNsvYGftGvangrlpclaiAesvtaiGRemlektkelvekkaellsk.....llaleeev.............. 216 
+                       +++ +l+d+ Qla Kv+ Ns+YG++  + +r +++++A     +G +++++++elve+ ++ l+             +              
+  XP_059605612.1  780 AKKMIVLYDSLQLAHKVILNSFYGYVMRKGSRWYSMEMAGVTCLTGARIIQMARELVERIGRPLELdtdgiW------Cmlpgsfpenfsftl 866 
+                      4556789***************************************************88333333123442......133444455557654 PP
+
+                      ....T-EEEEEESSEEEEE-...STSSHHHHHHHHHHHHHHHHT.TSTTT--EEEEEEEEEEEEEE........TTEEEEEEECETTTCCEEE CS
+       DNA_pol_B  217 eeelklkviYGDTDSvfiel...kvkdveevlkigkelaeevneklfkkpiklefekvykkllLis........KKkYaglkveksskedkle 298 
+                      ++  kl + Y     v+++    +  + ++  ++ +++  +  + + ++ i  e+++ yk ++L +        KK+Ya + ++     +  e
+  XP_059605612.1  867 KNGKKLGISY---PCVMLNHlvhGSYTNHQYQTLVDQATFRYEQ-NSENSIFFEVDGPYKAMILPTskeedknlKKRYAVFNHD----GSLAE 951 
+                      4447777777...5799885222446778888888888888888.77888**************755555555599**999998....44579 PP
+
+                      EESSCCGSSSS-HHHHHHHHHHHHHHHSS.......SBHHHHHHHHHHHHHHHHHHHHCT-S-GGGG-EEEEESSTCCCSTCCCSHHHHHHHH CS
+       DNA_pol_B  299 vKGvdlvRrdvcklvkevikkvldlllsdee...ekksleealekvkslledlreeleenkvplekfvlskelskepeaYksknlphvevakr 388 
+                       KG +++Rr   kl+k   +++ +  l+ ++   +   + ++ +   ++l +  + l+ ++  ++    +++++k++e+Y +++   ++ a+r
+  XP_059605612.1  952 LKGFEVKRRGELKLIKIFQTQIFRFFLEGTTlteTYAAVAKVADRWLDVLYEHGATLADEE-LIDLISENRSMTKTLEEYGNQKSTSITTARR 1043
+                      ****************************976333334444444445555555555666555.4677777899********99999******** PP
+
+                      HHHHCTS--..-TTEEEEEEEBCTSSSS-GGGTEEEH.HHHHGSS CS
+       DNA_pol_B  389 lkkrneeap..evgdripYvivkakknekaseraedp.eyvlenn 430 
+                      l++  +e++    g   +Y+i ++ +n+ ++era     +  e+n
+  XP_059605612.1 1044 LAEFLGEQMvkDKGLNCKYIISSKPRNTPVTERAIPVaIFSAEEN 1088
+                      **9985544113455799****99997777777765533333333 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                              1  (453 nodes)
+Target sequences:                        14058  (6202825 residues searched)
+Passed MSV filter:                       264  (0.0187793); expected 281.2 (0.02)
+Passed bias filter:                      211  (0.0150092); expected 281.2 (0.02)
+Passed Vit filter:                        21  (0.00149381); expected 14.1 (0.001)
+Passed Fwd filter:                         4  (0.000284535); expected 0.1 (1e-05)
+Initial search space (Z):              14058  [actual number of targets]
+Domain search space  (domZ):               4  [number of targets reported over threshold]
+# CPU time: 0.32u 0.04s 00:00:00.36 Elapsed: 00:00:00.19
+# Mc/sec: 14788.84
+//
+[ok]

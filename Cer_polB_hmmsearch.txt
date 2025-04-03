@@ -1,0 +1,212 @@
+# hmmsearch :: search profile(s) against a sequence database
+# HMMER 3.1b2 (February 2015); http://hmmer.org/
+# Copyright (C) 2015 Howard Hughes Medical Institute.
+# Freely distributed under the GNU General Public License (GPLv3).
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# query HMM file:                  PF00136.hmm
+# target sequence database:        protein14.faa
+# output directed to file:         Cer_polB_hmmsearch.txt
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Query:       DNA_pol_B  [M=453]
+Accession:   PF00136.26
+Description: DNA polymerase family B
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence    Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------    -----------
+   3.8e-157  522.1   0.5   5.1e-157  521.7   0.5    1.2  1  NP_010181.2  DNA-directed DNA polymerase delta POL3 [Saccharo
+   1.5e-130  434.4   0.8   2.3e-130  433.8   0.8    1.3  1  NP_014297.3  DNA-directed DNA polymerase alpha catalytic subu
+   4.4e-121  403.2   1.1   7.7e-121  402.4   1.1    1.4  1  NP_015158.1  DNA-directed DNA polymerase [Saccharomyces cerev
+    3.5e-16   57.5   0.5    1.3e-12   45.7   0.0    4.6  4  NP_014137.1  DNA polymerase epsilon catalytic subunit [Saccha
+
+
+Domain annotation for each sequence (and alignments):
+>> NP_010181.2  DNA-directed DNA polymerase delta POL3 [Saccharomyces cerevisiae S288C]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  521.7   0.5  3.4e-160  5.1e-157       1     453 []     546     973 ..     546     973 .. 0.98
+
+  Alignments for each domain:
+  == domain 1  score: 521.7 bits;  conditional E-value: 3.4e-160
+                  S-HHHHHHT-SHHHHHHHHHHHHHHTTEE-B.E--H.CHCC.SS---BE---SEEESS-EEEEEETTHHHHHHHHCT-STTTCEECSSSCCSCEBTTS CS
+    DNA_pol_B   1 iplsrvledgqqirveslLLraakeekfilpdrkskkgkeegyeGatVlePkkglyekpvlvlDFnSLYPsiiqahNlcyttlvkseeeekeleeedy 98 
+                  +p+s++l++gqqi+v+s+L+r+++e ++++p+++s+ +++++yeGatV+eP++g+y+ p+++lDFnSLYPsi++ahNlcyttl+++++ e+ l+ ++ 
+  NP_010181.2 546 VPFSYLLARGQQIKVVSQLFRKCLEIDTVIPNMQSQ-ASDDQYEGATVIEPIRGYYDVPIATLDFNSLYPSIMMAHNLCYTTLCNKATVER-LNLKID 641
+                  6899********************************.66666*****************************************99988765.666677 PP
+
+                  STEEE-TTSEEEE-TTTH--HHHHHHHHHHHHHHHHHHHHHCSSSHHHHHHHHHHHHHHHHHHHHHHHHHHSTTSTT--HHHHHHHHHHHHHHHHHHH CS
+    DNA_pol_B  99 etveleprgeefvkksvregiLpklLkellakRkeikkllkeesdeaekalldkrQlalKvtaNsvYGftGvangrlpclaiAesvtaiGRemlektk 196
+                  e++ ++p+g++fv++++r+giLp +L+el+++Rk++kk+l++e+d++++ +l++rQlalK++aNsvYGftG++ g+lpclai++svta+GR+m+ ktk
+  NP_010181.2 642 EDYVITPNGDYFVTTKRRRGILPIILDELISARKRAKKDLRDEKDPFKRDVLNGRQLALKISANSVYGFTGATVGKLPCLAISSSVTAYGRTMILKTK 739
+                  8************************************************************************************************* PP
+
+                  HHHHHT...SSTTTT.SS......T-EEEEEESSEEEEE-STSSHHHHHHHHHHHHHHHHT.TSTTT--EEEEEEEEEEEEEETTEEEEEEECETTTC CS
+    DNA_pol_B 197 elvekkaellskllaleeeveeelklkviYGDTDSvfielkvkdveevlkigkelaeevneklfkkpiklefekvykkllLisKKkYaglkveksske 294
+                  + v++k   ++ ++++++      ++ v+YGDTDSv+++++++d++e++++g+e+a++v++ lfk+pi+lefek y ++lLi+KK+Yagl++++++k+
+  NP_010181.2 740 TAVQEK---YCIKNGYKH------DAVVVYGDTDSVMVKFGTTDLKEAMDLGTEAAKYVST-LFKHPINLEFEKAYFPYLLINKKRYAGLFWTNPDKF 827
+                  ****88...99*******......*************************************.************************************ PP
+
+                  CEEEEESSCCGSSSS-HHHHHHHHHHHHHHHSS....SBHHHHHHHHHHHHHHHHHHHHCT-S-GGGG-EEEEESSTCCCSTCCCSHHHHHHHHHHHH CS
+    DNA_pol_B 295 dklevKGvdlvRrdvcklvkevikkvldlllsdeeekksleealekvkslledlreeleenkvplekfvlskelskepeaYksknlphvevakrlkkr 392
+                  dkl++KG+  vRrd+c+lv+ v++kvl+++l +    ++++ al++v++++    +++ +n+v+++k+++sk+l+    +Y++++ ph+++a+r+k+r
+  NP_010181.2 828 DKLDQKGLASVRRDSCSLVSIVMNKVLKKILIE----RNVDGALAFVRETI----NDILHNRVDISKLIISKTLAP---NYTNPQ-PHAVLAERMKRR 913
+                  *********************************....**************....9********************...9*****.************ PP
+
+                  CTS---TTEEEEEEEBCTSSSS-GGGTEEEHHHHHGSSTEBSHHHHHH.TCHHHHHHHHCTS CS
+    DNA_pol_B 393 neeapevgdripYvivkakknekaseraedpeyvlennlridveyYle.qlikevarllepi 453
+                  ++  p+vgdr++Yvi+    n+k ++raedp +vlenn+++d++yYl+ ql +++  +++pi
+  NP_010181.2 914 EGVGPNVGDRVDYVIIGG--NDKLYNRAEDPLFVLENNIQVDSRYYLTnQLQNPIISIVAPI 973
+                  *****************9..79************************************9886 PP
+
+>> NP_014297.3  DNA-directed DNA polymerase alpha catalytic subunit POL1 [Saccharomyces cerevisiae S288C]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  433.8   0.8  1.5e-133  2.3e-130       2     453 .]     784    1229 ..     783    1229 .. 0.95
+
+  Alignments for each domain:
+  == domain 1  score: 433.8 bits;  conditional E-value: 1.5e-133
+                   -HHHHHHT-SHHHHHHHHHHHHHHTTEE-B.E--H.CHCC...................SS---BE---SEEESS-EEEEEETTHHHHHHHHCT-S CS
+    DNA_pol_B    2 plsrvledgqqirveslLLraakeekfilpdrkskkgkee..................gyeGatVlePkkglyekpvlvlDFnSLYPsiiqahNlc 79  
+                    ++++l ++++ r+e++LL+++++++fi+pd++ ++++++                  +y+G++V+eP+kgl++++vlv+DFnSLYPsiiq++N+c
+  NP_014297.3  784 AWAQTLGGTRAGRNEYILLHEFSRNGFIVPDKEGNRSRAQkqrqneenadapvnskkaKYQGGLVFEPEKGLHKNYVLVMDFNSLYPSIIQEFNIC 879 
+                   6899***************************5555555555566678899999999977************************************* PP
+
+                   TTTCEECSSSCCSCEBTTSSTEEE-TTSEEEE-TTTH--HHHHHHHHHHHHHHHHHHHHHCSSSHHHHHHHHHHHHHHHHHHHHHHHHHHSTTSTT CS
+    DNA_pol_B   80 yttlvkseeeekeleeedyetveleprgeefvkksvregiLpklLkellakRkeikkllkeesdeaekalldkrQlalKvtaNsvYGftGvangrl 175 
+                   +tt+++++e+ +el++       + p       ++v++g+Lp+lL++l+++R+e+kk +k+e+d+++++++d+rQ+alK+taNs+YG++G+ n+r+
+  NP_014297.3  880 FTTVDRNKEDIDELPS-------VPP-------SEVDQGVLPRLLANLVDRRREVKKVMKTETDPHKRVQCDIRQQALKLTANSMYGCLGYVNSRF 961 
+                   ************9996.......556.......699************************************************************ PP
+
+                   --HHHHHHHHHHHHHHHHHHHHHHHHT...SSTTTT.SS......T-EEEEEESSEEEEE-STSSHHHHHHHHHHHHHHHHT.TSTTT--EEEEEE CS
+    DNA_pol_B  176 pclaiAesvtaiGRemlektkelvekkaellskllaleeeveeelklkviYGDTDSvfielkvkdveevlkigkelaeevneklfkkpiklefekv 271 
+                   +++++A +vt++GRe+l++t++l e++                  +l v+YGDTDSv+i+++++++++++kig  +++ vne +++  +++++++v
+  NP_014297.3  962 YAKPLAMLVTNKGREILMNTRQLAESM------------------NLLVVYGDTDSVMIDTGCDNYADAIKIGLGFKRLVNE-RYRL-LEIDIDNV 1037
+                   *************************98..................9************************************.****.******** PP
+
+                   EEEEEEEETTEEEEEEECETTTCC...EEEEESSCCGSSSS-HHHHHHHHHHHHHHHSS....SBHHHHHHHHHHHHHHHHHHHHCT-S-GGGG-E CS
+    DNA_pol_B  272 ykkllLisKKkYaglkvekssked...klevKGvdlvRrdvcklvkevikkvldlllsdeeekksleealekvkslledlreeleenkvplekfvl 364 
+                   +kkllL++KKkYa+l+v+ +++ +    levKG+d++Rr++c+l+++v+ +vl+++lsd    k+ eeal++v ++led+r ++e+n++ ++k+ +
+  NP_014297.3 1038 FKKLLLHAKKKYAALTVNLDKNGNgttVLEVKGLDMKRREFCPLSRDVSIHVLNTILSD----KDPEEALQEVYDYLEDIRIKVETNNIRIDKYKI 1129
+                   ******************99999888669******************************....********************************* PP
+
+                   EEEESSTCCCS.TCCCSHHHHHHHHHHHHCTS---TTEEEEEEEBCTSS........SS-GGGTEEEH.HHHHG.SSTEBSHHHHHH.TCHHHHHH CS
+    DNA_pol_B  365 skelskepeaY.ksknlphvevakrlkkrneeapevgdripYvivkakk........nekaseraedp.eyvle.nnlridveyYle.qlikevar 448 
+                   +++lsk+p+aY   kn+p v+va r++k  ++ +++g +i++vi+k+++          +++era+   e++ + nnl  d +yYle q++ +v+r
+  NP_014297.3 1130 NMKLSKDPKAYpGGKNMPAVQVALRMRKA-GRVVKAGSVITFVITKQDEidnaadtpALSVAERAHALnEVMIKsNNLIPDPQYYLEkQIFAPVER 1224
+                   ***********99**************99.8*************************988999999988765555167999**************** PP
+
+                   HHCTS CS
+    DNA_pol_B  449 llepi 453 
+                   lle+i
+  NP_014297.3 1225 LLERI 1229
+                   **976 PP
+
+>> NP_015158.1  DNA-directed DNA polymerase [Saccharomyces cerevisiae S288C]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  402.4   1.1  5.1e-124  7.7e-121       1     452 [.     910    1361 ..     910    1362 .. 0.93
+
+  Alignments for each domain:
+  == domain 1  score: 402.4 bits;  conditional E-value: 5.1e-124
+                   S-HHHHHHT-SHHHHHHHHHHHHHHTTEE-B.E--H.CHCC.SS--.....-BE---SEEESS-EEEEEETTHHHHHHHHCT-STTTCEECSSSCC CS
+    DNA_pol_B    1 iplsrvledgqqirveslLLraakeekfilpdrkskkgkeegyeGa.....tVlePkkglyekpvlvlDFnSLYPsiiqahNlcyttlvkseeeek 91  
+                   i++++v+++g+q++ves+L+r +k+e+fil  ++ k ++ +  ++a     +V+eP++++y++p++vlDF+SLYPsi++ +N+cy+t++ +++e +
+  NP_015158.1  910 IDFHSVYYRGSQFKVESFLIRICKSESFILL-SPGK-KDVR-KQKAlecvpLVMEPESAFYKSPLIVLDFQSLYPSIMIGYNYCYSTMIGRVREIN 1002
+                   57899**************************.6666.4555.5777677789******************************************99 PP
+
+                   SCEBTT................SSTEEE-TTSEEEE-TTTH--HHHHHHHHHHHHHHHHHHHHHCSSSHH..HHHHHHHHHHHHHHHHHHHHHHHH CS
+    DNA_pol_B   92 eleeed................yetveleprgeefvkksvregiLpklLkellakRkeikkllkeesdea..ekalldkrQlalKvtaNsvYGftG 169 
+                     e+ +                +++v+++p+g+ ++k+svr+++L+k+L+++l+ R +ikk+++e  d++   k+ll+++QlalK++aN +YG+t+
+  NP_015158.1 1003 LTEN-NlgvskfslprnilallKNDVTIAPNGVVYAKTSVRKSTLSKMLTDILDVRVMIKKTMNEIGDDNttLKRLLNNKQLALKLLANVTYGYTS 1097
+                   3333.337799*****************************************************9887764489********************** PP
+
+                   ST.TSTT--HHHHHHHHHHHHHHHHHHHHHHHHT...SSTTTT.SS......T-EEEEEESSEEEEE-STSSHHHHHHHHHHHHHHHHT.TSTTT- CS
+    DNA_pol_B  170 va.ngrlpclaiAesvtaiGRemlektkelvekkaellskllaleeeveeelklkviYGDTDSvfielkvkdveevlkigkelaeevneklfkkpi 264 
+                   ++ +gr+pc+++A+s++++GRe+lek+ +++ek+               e+ ++kv+YGDTDS+f+ l +k++ e+++ig+++ae+v++ ++ kpi
+  NP_015158.1 1098 ASfSGRMPCSDLADSIVQTGRETLEKAIDIIEKD---------------ETWNAKVVYGDTDSLFVYLPGKTAIEAFSIGHAMAERVTQ-NNPKPI 1177
+                   **99****************************87...............3479************************************.****** PP
+
+                   -EEEEEEEEEEEEEETTEEEEEEECETTTCCE.EEEESSCCGSSSS-HHHHHHHHHHHHHHHSS....SBHHHHHHHHHHHHHHHHHHHHCT-S-G CS
+    DNA_pol_B  265 klefekvykkllLisKKkYaglkveksskedk.levKGvdlvRrdvcklvkevikkvldlllsdeeekksleealekvkslledlreeleenkvpl 359 
+                    l+fekvy++ +LisKK+Y+g+++e++s++   +++KG+++vRrd ++ ++++i+k+++ll+++    k+l+++ +++++ +     +++ +kv++
+  NP_015158.1 1178 FLKFEKVYHPSILISKKRYVGFSYESPSQTLPiFDAKGIETVRRDGIPAQQKIIEKCIRLLFQT----KDLSKIKKYLQNEF----FKIQIGKVSA 1265
+                   *****************************99779******************************....88888888888888....********** PP
+
+                   GGG-EEEEESSTCCCSTCCCSHHHHHHHHHHHHC.TS---TTEEEEEEEBCTSSSS-GGGTEEEH.HHHHGSSTEBSHHHHHH.TCHHHHHHHHCT CS
+    DNA_pol_B  360 ekfvlskelskepeaYksknlphvevakrlkkrn.eeapevgdripYvivkakknekaseraedp.eyvlennlridveyYle.qlikevarllep 452 
+                   ++f+++ke++  +++ ++++ + ++v+kr  +++ +++p++++ripY++vk k++++ +er+++p e+++ +nl++d+eyY++  li+++ rl++ 
+  NP_015158.1 1266 QDFCFAKEVKLGAYKSEKTAPAGAVVVKRRINEDhRAEPQYKERIPYLVVKGKQGQLLRERCVSPeEFLEGENLELDSEYYINkILIPPLDRLFNL 1361
+                   ***********98888888888888888777766699****************************999***************8999******986 PP
+
+>> NP_014137.1  DNA polymerase epsilon catalytic subunit [Saccharomyces cerevisiae S288C]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?   -0.7   0.0       0.1   1.5e+02       6      56 ..     507     566 ..     503     570 .. 0.70
+   2 ?    0.6   0.0      0.04        60      61      83 ..     637     659 ..     634     688 .. 0.83
+   3 !   45.7   0.0   8.3e-16   1.3e-12     143     420 ..     809    1106 ..     801    1120 .. 0.71
+   4 !    2.6   0.2      0.01        15     220     293 ..    1854    1927 ..    1816    2021 .. 0.85
+
+  Alignments for each domain:
+  == domain 1  score: -0.7 bits;  conditional E-value: 0.1
+                  HHHT-SHHHHHHHHHHHHHHTTEE-B........E--H.CHCC..........SS---BE---SEEE CS
+    DNA_pol_B   6 vledgqqirveslLLraakeekfilpd.......rkskkgkee.........gyeGatVlePkkgly 56 
+                  +l +g  +  e+lL+ +a +++++lp+       r                 +y G+ V + + g++
+  NP_014137.1 507 TLRKGTGTLCEMLLMVQAYQHNILLPNkhtdpieR-------FydghlleseTYVGGHVESLEAGVF 566
+                  789999999*****************844333330.......2444444443688888766666665 PP
+
+  == domain 2  score: 0.6 bits;  conditional E-value: 0.04
+                  EEEEETTHHHHHHHHCT-STTTC CS
+    DNA_pol_B  61 lvlDFnSLYPsiiqahNlcyttl 83 
+                    +D +S+YP+i+  + l +  +
+  NP_014137.1 637 YHVDVASMYPNIMTTNRLQPDSI 659
+                  56899********9887766655 PP
+
+  == domain 3  score: 45.7 bits;  conditional E-value: 8.3e-16
+                   SHHHHHHHHHHHHHHHHHHHHHHHHHHSTTSTT--HHHHHHHHHHHHHHHHHHHHHHHHT.....SST.....TTT.SS................. CS
+    DNA_pol_B  143 deaekalldkrQlalKvtaNsvYGftGvangrlpclaiAesvtaiGRemlektkelvekk..aellsk.....llaleeev...........eeel 220 
+                    +++ +l+d+ Qla Kv+ Ns+YG++  + +r +++++A     +G ++++++++lve+   +  l+             +            +  
+  NP_014137.1  809 AKKMIVLYDSLQLAHKVILNSFYGYVMRKGSRWYSMEMAGITCLTGATIIQMARALVERVgrP--LELdtdgiW------CilpksfpetyfFTLE 896 
+                   33345689**************************************************88432..332223442......0233334555542334 PP
+
+                   T-EEEEEESSEEEEE-STSS...HHHHHHHHHHHHHHHHT.TSTTT--EEEEEEEEEEEEEE........TTEEEEEEECETTTCCEEEEESSCCG CS
+    DNA_pol_B  221 klkviYGDTDSvfielkvkd...veevlkigkelaeevneklfkkpiklefekvykkllLis........KKkYaglkveksskedklevKGvdlv 305 
+                   + k  Y      +++ +v++    ++  ++ + l+ ++ e+  ++ i  e+++ yk ++L s        KK+Ya +  +     +  e KG +l+
+  NP_014137.1  897 NGKKLYLSYPCSMLNYRVHQkftNHQYQELKDPLN-YIYETHSENTIFFEVDGPYKAMILPSskeegkgiKKRYAVFNED----GSLAELKGFELK 987 
+                   55666666677788877754111444455555554.5555578889**************86555555558888866655....44579******* PP
+
+                   SSSS-HHHHHHHHHHHHHHHSS.......SBHHHHHHHHHHHHHHHHHHHHCT-S-GGGG-EEEEESSTCCCSTCCCSHHHHHHHHHHHHCTS--. CS
+    DNA_pol_B  306 Rrdvcklvkevikkvldlllsdee...ekksleealekvkslledlreeleenkvplekfvlskelskepeaYksknlphvevakrlkkrneeap. 397 
+                   Rr   +l+k+  +++ +  l+ ++   + + + ++++   ++l d++  + e +  ++  + ++++sk++++Y+ ++   ++ a+rl    +e + 
+  NP_014137.1  988 RRGELQLIKNFQSDIFKVFLEGDTlegCYSAVASVCNRWLDVL-DSHGLMLEDEDLVSLICENRSMSKTLKEYEGQKSTSITTARRLGDFLGEDMv 1082
+                   *********************9665554555555555555555.555566666666777788999************9****99999876644431 PP
+
+                   .-TTEEEEEEEBCTSSSS-GGGTE CS
+    DNA_pol_B  398 .evgdripYvivkakknekasera 420 
+                      g + +Y+i ++  n+ ++era
+  NP_014137.1 1083 kDKGLQCKYIISSKPFNAPVTERA 1106
+                   134446677777776677777766 PP
+
+  == domain 4  score: 2.6 bits;  conditional E-value: 0.01
+                   .T-EEEEEESSEEEEE-STSSHHHHHHHHHHHHHHHHT.TSTTT--EEEEEEEEEEEEEETTEEEEEEECETTT CS
+    DNA_pol_B  220 lklkviYGDTDSvfielkvkdveevlkigkelaeevneklfkkpiklefekvykkllLisKKkYaglkvekssk 293 
+                   l   ++Y D   ++i+++  + e++++  + + + v ++  ++ + l++   +  l+ + K  + gl + + ++
+  NP_014137.1 1854 LGSTIVYADRNQILIKTNKYSPENCYAYSQYMMKAVRTNPMFSYLDLNIKRYWDLLIWMDKFNFSGLACIEIEE 1927
+                   67789*******************************99999999*******99999999999999987765444 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                              1  (453 nodes)
+Target sequences:                         6021  (2933360 residues searched)
+Passed MSV filter:                       326  (0.0541438); expected 120.4 (0.02)
+Passed bias filter:                       95  (0.0157781); expected 120.4 (0.02)
+Passed Vit filter:                        12  (0.00199302); expected 6.0 (0.001)
+Passed Fwd filter:                         4  (0.000664341); expected 0.1 (1e-05)
+Initial search space (Z):               6021  [actual number of targets]
+Domain search space  (domZ):               4  [number of targets reported over threshold]
+# CPU time: 0.18u 0.02s 00:00:00.20 Elapsed: 00:00:00.12
+# Mc/sec: 11073.43
+//
+[ok]
