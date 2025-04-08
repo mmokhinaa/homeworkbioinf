@@ -1,0 +1,19 @@
+1) (base) mmokhina@gpu-2-2-18:~/homeworks/hw_7$ awk '{sum = $1 + $2 + $3} END {print sum}' ДЗ8/1/fin > fout
+2) (base) mmokhina@gpu-2-2-18:~/homeworks/hw_7$ echo "Hello, world!" >> fout
+3) cut -c 10 ДЗ8/3/fin >> fout
+4) awk 'NR % 2 == 1 {name = $0} NR % 2 == 0 {if ($0 ~ /777/) print name, $0}' ДЗ8/4/fin >> fout
+5) awk '{
+  chr=$2
+  if (chr=="X") c=23
+  else if (chr=="Y") c=24
+  else c=chr
+  print c "\t" $0
+}' ДЗ8/5/fin | sort -k1,1n -k3,3n -k4,4n | cut -f2- >> fout
+6) grep -E '[0-9]' ДЗ8/6/6.1/fin | grep -iv '[xy]' | awk '{total += length($0)} END {print total}' >> fout
+	grep -E '[0-9]' ДЗ8/6/6.2/fin | grep -iv '[xy]' | awk '{total += length($0)} END {print total}' >> fout
+7)
+ echo "Longest insertion:" > fout_7
+ awk -F'\t' 'length($5) > length($4)' clinvar_20250330.vcf | awk -F'\t' '{print length($5) - length($4), $5}' | sort -nr | head -n1 | cut -d' ' -f2- >> fout_7
+ echo "Longest deletion:" >> fout_7
+ awk -F'\t' 'length($4) > length($5)' clinvar_20250330.vcf | awk -F'\t' '{print length($4) - length($5), $4}' | sort -nr | head -n1 | cut -d' ' -f2- >> fout_7
+
